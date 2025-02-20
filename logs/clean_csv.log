@@ -1,0 +1,11 @@
+2025-02-20 04:01:56,071 [INFO] Loaded CSV with shape (18771, 1)
+2025-02-20 04:01:56,072 [ERROR] Error cleaning CSV: index 4 is out of bounds for axis 0 with size 1
+2025-02-20 04:02:22,044 [INFO] Loaded CSV with shape (18771, 1)
+2025-02-20 04:02:22,045 [ERROR] Error cleaning CSV: index 4 is out of bounds for axis 0 with size 1
+2025-02-20 04:04:54,897 [INFO] Loaded CSV with shape (18771, 4)
+2025-02-20 04:04:54,900 [ERROR] Unexpected column count: 4
+2025-02-20 04:04:54,900 [ERROR] Unexpected error: CSV does not have the expected number of columns.
+2025-02-20 04:25:21,029 [INFO] Loaded Excel file with shape (18771, 6)
+2025-02-20 04:25:21,250 [INFO] Saved cleaned CSV to src/data/snac_uris_outfile_cleaned.csv
+2025-02-20 04:29:29,288 [INFO] Loaded Excel file with shape (18771, 6)
+2025-02-20 04:29:29,458 [INFO] Saved cleaned CSV to src/data/snac_uris_outfile_cleaned.csv
