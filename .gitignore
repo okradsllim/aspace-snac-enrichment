@@ -1,13 +1,10 @@
 # Python
 __pycache__/
 *.py[cod]
-*$py.class
+*.class
 *.so
 .Python
 venv/
-
-# Jupyter Notebook
-.ipynb_checkpoints
 
 # VS Code
 .vscode/
@@ -15,10 +12,15 @@ venv/
 # Credentials
 config.json
 
-# Data
-data/raw/*
-data/interim/*
-data/processed/*
-!data/raw/.gitkeep
-!data/interim/.gitkeep
-!data/processed/.gitkeep
+# Logs and Cache
+logs/
+*.log
+src/data/aspace_cache/
+
+# Output and Temporary Files
+src/data/*.csv
+src/data/*.xlsx
+
+# Build and System Files
+.env
+pyvenv.cfg
