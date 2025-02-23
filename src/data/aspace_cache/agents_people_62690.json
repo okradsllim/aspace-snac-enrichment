@@ -1,0 +1,150 @@
+{
+  "lock_version": 161,
+  "publish": true,
+  "created_by": "lyrasis-dts",
+  "last_modified_by": "sl2624",
+  "create_time": "2018-07-21T04:14:49Z",
+  "system_mtime": "2025-01-06T18:54:43Z",
+  "user_mtime": "2024-11-20T16:30:23Z",
+  "is_slug_auto": false,
+  "jsonmodel_type": "agent_person",
+  "agent_contacts": [],
+  "agent_record_controls": [],
+  "agent_alternate_sets": [],
+  "agent_conventions_declarations": [],
+  "agent_other_agency_codes": [],
+  "agent_maintenance_histories": [],
+  "agent_record_identifiers": [
+    {
+      "primary_identifier": true,
+      "record_identifier": "http://id.loc.gov/authorities/names/n90710641",
+      "created_by": "admin",
+      "last_modified_by": "admin",
+      "create_time": "2023-06-07T03:43:53Z",
+      "system_mtime": "2024-11-20T16:34:37Z",
+      "user_mtime": "2024-11-20T16:30:23Z",
+      "lock_version": 0,
+      "source": "naf",
+      "jsonmodel_type": "agent_record_identifier"
+    }
+  ],
+  "agent_identifiers": [],
+  "agent_sources": [],
+  "agent_places": [],
+  "agent_occupations": [],
+  "agent_functions": [],
+  "agent_topics": [],
+  "agent_resources": [],
+  "linked_agent_roles": [
+    "creator",
+    "source",
+    "subject"
+  ],
+  "external_documents": [],
+  "notes": [
+    {
+      "jsonmodel_type": "note_bioghist",
+      "persistent_id": "10a9a3272ba44f33830ff135970a2985",
+      "subnotes": [
+        {
+          "jsonmodel_type": "note_text",
+          "content": "Olga Rudge was born in Youngstown, Ohio on April 13, 1895, the daughter of J. Edgar Rudge, a real estate investor, and Julia O'Connell Rudge, a singer. Around 1905, Julia Rudge moved to Europe with her three children, first to London and then to Paris, in pursuit of her singing career. Olga was educated at St. Anthony's Convent in Sherborne, England and began her musical training early, studying in Paris with the violinist Caramb\u00e2t.\r\n\r\nAt the outbreak of World War I both of her brothers, Arthur and Teddy, joined the R.A.F.: Arthur Rudge was killed in action in France in 1916. Olga's scrapbooks from the war are filled with notices of her playing at many war benefits and \"war entertainments,\" some sponsored by Isodore de Lara. She also played at the Studio Meeting Society of Mrs. Katherine Dalliba-John, a patroness of Ildebrando Pizzetti who became a supporter of Rudge as well. Late in 1918, Rudge played modern Italian music with Pizzetti in a series of concerts in Italy.\r\n\r\nDuring the war, she was often accompanied by the pianist Percy Kahn; but she began to appear increasingly with Renata Borgatti. Their concert at the Aeolian Hall in November 1920 was reviewed by Ezra Pound in the New Age: he praised the \"delicate firmness of her fiddling\" but objected to Borgatti's \"piano whack.\"\r\n\r\nRudge continued to pursue her interest in modern Italian music, playing with Pizzetti and at the Sala Bach in Rome with Ernesto Consolo in 1921 and joining Renata Borgatti for a concert of Italian music at the Salle Pleyel in 1922.\r\n\r\nRudge met Ezra Pound in Paris in the summer of 1923. In an article in Il Mare ten years later Pound recalled \"her delicate and unemphatic reserve\" during their meeting at Natalie Barney's salon. Pound himself was highly interested in music at this time, attempting to compose an opera and promoting the work of American composer George Antheil. Pound and the young violinist soon began a professional collaboration and a personal relationship that was to endure for forty-nine years.\r\n\r\nIn December of that year Rudge and Antheil played at the Salle du Conservatoire. The program included pieces by Pound, Antheil, Mozart, and Bach. On July 7, 1924 Rudge and Antheil performed \"Musique Americaine\" at the Salle Pleyel, including two pieces by Pound and the Deuxi\u00e8me Sonate by Antheil, which he dedicated to Rudge.\r\n\r\nDuring 1924, the Pounds were relocating from Paris to Rapallo, and Rudge visited Pound several times in Italy during the summer and fall. By early 1925 the optimistic Antheil was pressing Olga to join him on a musical tour in the United States, but she was unable to accept his invitations due to her pregnancy. She entered the Sanatoria della Citt\u00e1 Bressanone in June 1925, where Mary Rudge was born on July 9. Pound joined her there at the end of the month, and the child was boarded with a family in the village of Gais.\r\n\r\nRudge resumed her musical career. She played in the debut of Pound's opera, Paroles de Villon, at the Salle Pleyel in June 1926; rejoined Antheil for concerts in Budapest and Rome in 1927; and performed an all-Mozart program with Ernesto Consolo in Florence. With Daniel Amphitheatrow, Rudge played for Mussolini and received an audience with him. During the late 1920s, Rudge traveled constantly between Paris and various Italian cities, occasionally visiting friends and patrons in England as well. In the fall of 1928 she purchased a small house in Venice, 252 Calle Querini, with her father's assistance and began bringing Mary Rudge there for occasional visits, which often included Pound. Beginning in the summer of 1929 she also rented a small house in Sant'Ambrogio, above Rapallo; her yearly stays there gave her further opportunities to see Pound.\r\n\r\nDuring the 1930s Rudge's concert career slackened, in part because the Depression had affected so many of the patrons who had previously sponsored musical performers. In 1933 she joined the Accademia Musicale Chigiana in Siena as its secretary-receptionist, and worked there for part of every year until World War II. Between 1933 and 1939 she also played a prominent part in the Concerti Tigulliani, an annual series of concerts organized and promoted by Pound, along with musicians such as Gerhart M\u00fcnch and Tibor Serly, and other guest artists.\r\n\r\nRudge and Pound were involved in promoting the music of Antonio Vivaldi. The Concerti Tigulliani for 1936 were devoted to \"Vivaldi study\" and performances of relatively unknown pieces. Rudge journeyed to Turin to study unedited Vivaldi manuscripts, and Pound obtained microfilm of others from Dresden. Rudge and Pound were both interested in microfilm as an aid in the study of early music manuscripts and tried to promote its use. She attempted to organize a Vivaldi Society with David Nixon in Venice. This failed, but with S. A. Luciani and Antonio Bruers, Rudge founded the Centro di Studi Vivaldiani within the Accademia Chigiana in 1938. The Settimana Vivaldiana was held in Siena in the following year. Organized by Rudge and Luciani and featuring Alfredo Casella, the festival showcased many neglected concerti and the opera L'Olympiade. Rudge's thematic catalogue of the Turin manuscripts was published by the Accademia as part of its Vivaldi homage.\r\n\r\nRudge gradually stopped traveling outside of Italy as the political situation in Europe worsened; her last trip to England took place in the winter of 1935, during the Italian invasion of Ethiopia. She supported Pound in his radio broadcasts and sometimes suggested topics based on newspaper articles or other information. During 1941 she apparently considered accompanying Pound to America, but abandoned this idea when Pound decided not to go.\r\n\r\nWith the onset of World War II Rudge no longer worked at the Chigiana. Her house in Venice was sequestered after America's entry into the war, and she spent most of her time in San Ambrogio. For the first years of the war she was sometimes accompanied by her daughter Mary, who had been attending a convent school in Florence. Pound continued his series of talks on Italian radio. When the Pounds were ordered out of their seafront apartment in Rapallo late in 1943 as enemy aliens, they moved in with Rudge for the duration of the war, while Mary returned to her foster parents in Gais. The war brought hardship to all of them. Food was scarce, and in the last months of the war the household's only income was the fees Rudge received for giving language lessons.\r\n\r\nOn May 3, 1945, Pound was arrested by partisans and brought to American army headquarters in Genoa. Rudge accompanied him there, and was released after questioning. Several months passed before she was permitted to correspond with Pound, although she and Mary visited him at least once while he was in detention in Pisa.\r\n\r\nAt the end of the war, Rudge resumed her work at the Accademia Chigiana, and her house in Venice was restored to her. During Pound's 12-year confinement in St. Elizabeths, she approached his friends and acquaintances with ideas that she hoped might lead to his release. She circulated a petition in Rapallo testifying that Pound had never been a member of the Fascist Party, and suggested to Eliot that Pound might be allowed to retire to a monastery in America. She also dealt with the students and disciples whom Pound sent to her in search of information in the \"archives\" of his papers at Sant'Ambrogio. She visited Pound in America in 1952 and 1955; after the second visit their correspondence was infrequent for several years.\r\n\r\nOn Pound's release from the asylum in 1958, he and Dorothy returned to Italy and moved in with his daughter Mary, who had married Boris de Rachewiltz and established residence at Brunnenberg castle in Tirolo. Pound's health deteriorated, and in 1962 he joined Olga Rudge permanently after almost a year in a clinic at Martinsbrunn. For the next ten years Rudge cared for Pound, arranging his schedule and dealing with the increasing numbers of scholars and admirers who wanted contact with him. In 1965 they journeyed to London for the funeral of T. S. Eliot; on their last extended trip, they came to the United States in 1969. Pound died on November 1, 1972, and Rudge took charge of the funeral arrangements in Venice.\r\n\r\nOver the next decade Rudge continued to have contact with Pound scholars; she helped organize several exhibits and tributes to Pound and pursued several possible plans for memorials in Idaho and Venice.",
+          "publish": true
+        }
+      ],
+      "publish": true
+    }
+  ],
+  "used_within_repositories": [],
+  "used_within_published_repositories": [],
+  "dates_of_existence": [
+    {
+      "create_time": "2023-06-02T21:37:57Z",
+      "system_mtime": "2024-11-20T16:37:43Z",
+      "user_mtime": "2024-11-20T16:33:27Z",
+      "lock_version": 0,
+      "date_type_structured": "range",
+      "date_label": "existence",
+      "jsonmodel_type": "structured_date_label",
+      "structured_date_range": {
+        "begin_date_standardized": "1895-04-13",
+        "end_date_standardized": "1996-03-15",
+        "create_time": "2023-06-02T21:37:57Z",
+        "system_mtime": "2024-11-20T16:37:43Z",
+        "user_mtime": "2024-11-20T16:33:27Z",
+        "lock_version": 0,
+        "begin_date_standardized_type": "standard",
+        "end_date_standardized_type": "standard",
+        "jsonmodel_type": "structured_date_range"
+      }
+    }
+  ],
+  "used_languages": [],
+  "metadata_rights_declarations": [],
+  "names": [
+    {
+      "lock_version": 0,
+      "primary_name": "Rudge",
+      "rest_of_name": "Olga",
+      "dates": "1895-1996",
+      "sort_name": "Rudge, Olga, 1895-1996",
+      "sort_name_auto_generate": true,
+      "created_by": "sl2624",
+      "last_modified_by": "sl2624",
+      "create_time": "2020-08-19T11:45:43Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "authorized": true,
+      "is_display_name": true,
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "parallel_names": []
+    },
+    {
+      "lock_version": 0,
+      "primary_name": "Rudge",
+      "rest_of_name": "Olga",
+      "dates": "b. 1895",
+      "sort_name": "Rudge, Olga, b. 1895",
+      "sort_name_auto_generate": true,
+      "created_by": "sl2624",
+      "last_modified_by": "sl2624",
+      "create_time": "2020-08-19T11:45:43Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "source": "naf",
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "authorized": false,
+      "is_display_name": false,
+      "parallel_names": []
+    }
+  ],
+  "agent_genders": [],
+  "related_agents": [],
+  "uri": "/agents/people/62690",
+  "agent_type": "agent_person",
+  "is_linked_to_published_record": true,
+  "display_name": {
+    "lock_version": 0,
+    "primary_name": "Rudge",
+    "rest_of_name": "Olga",
+    "dates": "1895-1996",
+    "sort_name": "Rudge, Olga, 1895-1996",
+    "sort_name_auto_generate": true,
+    "created_by": "sl2624",
+    "last_modified_by": "sl2624",
+    "create_time": "2020-08-19T11:45:43Z",
+    "system_mtime": "2024-11-20T16:37:00Z",
+    "user_mtime": "2024-11-20T16:32:44Z",
+    "authorized": true,
+    "is_display_name": true,
+    "name_order": "inverted",
+    "jsonmodel_type": "name_person",
+    "use_dates": [],
+    "parallel_names": []
+  },
+  "title": "Rudge, Olga, 1895-1996"
+}

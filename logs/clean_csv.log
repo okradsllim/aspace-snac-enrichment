@@ -9,3 +9,13 @@
 2025-02-20 04:25:21,250 [INFO] Saved cleaned CSV to src/data/snac_uris_outfile_cleaned.csv
 2025-02-20 04:29:29,288 [INFO] Loaded Excel file with shape (18771, 6)
 2025-02-20 04:29:29,458 [INFO] Saved cleaned CSV to src/data/snac_uris_outfile_cleaned.csv
+2025-02-22 17:21:38,324 [ERROR] File not found: src\data\snac_uris_outfile.xlsx
+2025-02-22 17:28:23,126 [ERROR] Unexpected error: [Errno 13] Permission denied: 'src\\snac_uris_outfile.xlsx'
+2025-02-22 17:28:38,637 [INFO] Loaded Excel file with shape (18771, 6)
+2025-02-22 17:28:38,951 [INFO] Saved cleaned CSV to src/data/snac_uris_outfile_cleaned.csv
+2025-02-22 17:37:59,628 [INFO] Loaded Excel file with shape (18771, 6)
+2025-02-22 17:37:59,826 [INFO] Saved cleaned CSV to src/data/snac_uris_outfile_cleaned.csv
+2025-02-22 17:39:00,452 [INFO] Loaded Excel file with shape (18771, 6)
+2025-02-22 17:39:00,653 [INFO] Saved cleaned CSV to src/data/snac_uris_outfile_cleaned.csv
+2025-02-22 17:45:44,743 [INFO] Loaded Excel file with shape (18771, 6)
+2025-02-22 17:45:45,060 [INFO] Saved cleaned CSV to src/data/snac_uris_outfile_cleaned.csv

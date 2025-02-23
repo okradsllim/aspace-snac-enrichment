@@ -1,0 +1,131 @@
+{
+  "lock_version": 75,
+  "publish": true,
+  "created_by": "lyrasis-dts",
+  "last_modified_by": "sl2624",
+  "create_time": "2018-07-21T04:38:50Z",
+  "system_mtime": "2025-02-06T17:51:09Z",
+  "user_mtime": "2024-11-20T16:30:23Z",
+  "is_slug_auto": false,
+  "jsonmodel_type": "agent_person",
+  "agent_contacts": [],
+  "agent_record_controls": [],
+  "agent_alternate_sets": [],
+  "agent_conventions_declarations": [],
+  "agent_other_agency_codes": [],
+  "agent_maintenance_histories": [],
+  "agent_record_identifiers": [
+    {
+      "primary_identifier": true,
+      "record_identifier": "http://id.loc.gov/authorities/names/nr94018811",
+      "created_by": "admin",
+      "last_modified_by": "admin",
+      "create_time": "2023-06-07T03:43:53Z",
+      "system_mtime": "2024-11-20T16:34:37Z",
+      "user_mtime": "2024-11-20T16:30:23Z",
+      "lock_version": 0,
+      "source": "naf",
+      "jsonmodel_type": "agent_record_identifier"
+    }
+  ],
+  "agent_identifiers": [],
+  "agent_sources": [],
+  "agent_places": [],
+  "agent_occupations": [],
+  "agent_functions": [],
+  "agent_topics": [],
+  "agent_resources": [],
+  "linked_agent_roles": [
+    "creator",
+    "subject"
+  ],
+  "external_documents": [],
+  "notes": [
+    {
+      "jsonmodel_type": "note_bioghist",
+      "subnotes": [
+        {
+          "jsonmodel_type": "note_text",
+          "content": "Henry McBride, the dean of American art critics, wrote for The New York Sun (1913-49), The Dial (1920-29), and The Art News (1950-59), and edited Creative Art (1928-32). He was one of the first American critics to recognize and appreciate the modernist movement. In 1922 Marcel Duchamp published a selection of McBride's articles from The Sun in Some French Moderns. McBride also wrote Matisse in 1930, compiled a catalogue for The Museum of Modern Art's exhibition of Florine Stettheimer's paintings in 1946, and from 1919-54 contributed introductions and biographical sketches to numerous exhibition and sale catalogues of such artists as Joseph Stella and Marie Sterner.\r\n\r\nMcBride painted and taught art before becoming a critic at the age of forty-six. He was born in West Chester, Pennsylvania, on July 25, 1867, to the Quakers, John and Sarah Pugh McBride. After graduating from the local public schools, he worked for the George Achelis Nurseries illustrating seed catalogues. He came to New York in his early twenties, where he studied art at the Artist-Artisan Institute and later took night classes at the Art Students League. Finding he had an aptitude for teaching, McBride started the art department of the Educational Alliance of New York City. Before joining The Sun, he directed the School of Industrial Arts in Trenton, New Jersey, for five years.\r\n\r\nBeginning in 1893 he spent many summers abroad, where he met Gertrude Stein. Through her he came to admire the work of Picasso, Matisse, Braque, and L\u00e9ger. He supported Alfred Stieglitz's early efforts to exhibit these French moderns in New York. Like his early mentor, James Ward Stimson, McBride was not a devotee of academic art. Instead he encouraged American independents like John Marin, Georgia O'Keeffe, Charles Demuth, and Gaston Lachaise. McBride was the first critic to recognize Thomas Eakins, for example, as one of the greatest American artists. Other early favorites included Winslow Homer and John Singer Sargent.\r\n\r\nMcBride lived in New York City and spent most of his summers after 1931 in Marshallton, Pennsylvania, at Callicaste. He sold his summer home in 1956 to reside in the Bronx, where he died on March 31, 1961 at the age of 94.",
+          "publish": true
+        }
+      ],
+      "persistent_id": "aa5fd8cf02dcc46f6755dbaadd0dba0c",
+      "publish": true
+    }
+  ],
+  "used_within_repositories": [],
+  "used_within_published_repositories": [],
+  "dates_of_existence": [
+    {
+      "create_time": "2023-06-02T21:37:38Z",
+      "system_mtime": "2024-11-20T16:37:43Z",
+      "user_mtime": "2024-11-20T16:33:27Z",
+      "lock_version": 0,
+      "date_type_structured": "range",
+      "date_label": "existence",
+      "jsonmodel_type": "structured_date_label",
+      "structured_date_range": {
+        "begin_date_standardized": "1867",
+        "end_date_standardized": "1962",
+        "create_time": "2023-06-02T21:37:38Z",
+        "system_mtime": "2024-11-20T16:37:43Z",
+        "user_mtime": "2024-11-20T16:33:27Z",
+        "lock_version": 0,
+        "begin_date_standardized_type": "standard",
+        "end_date_standardized_type": "standard",
+        "jsonmodel_type": "structured_date_range"
+      }
+    }
+  ],
+  "used_languages": [],
+  "metadata_rights_declarations": [],
+  "names": [
+    {
+      "lock_version": 0,
+      "primary_name": "McBride",
+      "rest_of_name": "Henry",
+      "dates": "1867-1962",
+      "sort_name": "McBride, Henry, 1867-1962",
+      "sort_name_auto_generate": true,
+      "created_by": "sl2624",
+      "last_modified_by": "sl2624",
+      "create_time": "2020-06-17T12:29:20Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "authorized": true,
+      "is_display_name": true,
+      "rules": "aacr",
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "parallel_names": []
+    }
+  ],
+  "agent_genders": [],
+  "related_agents": [],
+  "uri": "/agents/people/76058",
+  "agent_type": "agent_person",
+  "is_linked_to_published_record": true,
+  "display_name": {
+    "lock_version": 0,
+    "primary_name": "McBride",
+    "rest_of_name": "Henry",
+    "dates": "1867-1962",
+    "sort_name": "McBride, Henry, 1867-1962",
+    "sort_name_auto_generate": true,
+    "created_by": "sl2624",
+    "last_modified_by": "sl2624",
+    "create_time": "2020-06-17T12:29:20Z",
+    "system_mtime": "2024-11-20T16:37:00Z",
+    "user_mtime": "2024-11-20T16:32:44Z",
+    "authorized": true,
+    "is_display_name": true,
+    "rules": "aacr",
+    "name_order": "inverted",
+    "jsonmodel_type": "name_person",
+    "use_dates": [],
+    "parallel_names": []
+  },
+  "title": "McBride, Henry, 1867-1962"
+}

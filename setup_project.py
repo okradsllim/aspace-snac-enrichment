@@ -1,26 +1,16 @@
-
-import os
+# -*- coding: utf-8 -*-
 import json
 from pathlib import Path
 
 def create_directory_structure():
-    # Define the directory structure
     directories = [
-        "data/raw",
-        "data/interim",
-        "data/processed",
         "notebooks",
         "src/data",
-        "src/api",
-        "src/utils",
-        "tests",
-        "docs"
+        "src/api"
     ]
     
-    # Create directories
     for dir_path in directories:
         Path(dir_path).mkdir(parents=True, exist_ok=True)
-        # Create __init__.py in Python package directories
         if dir_path.startswith('src'):
             (Path(dir_path) / '__init__.py').touch()
 
@@ -42,7 +32,7 @@ def create_config_template():
         }
     }
     
-    with open('config.json', 'w') as f:
+    with open('config.json', 'w', encoding='utf-8') as f:
         json.dump(config, f, indent=4)
 
 def create_gitignore():
@@ -54,24 +44,19 @@ __pycache__/
 .Python
 venv/
 
-# Jupyter Notebook
-.ipynb_checkpoints
-
 # VS Code
 .vscode/
 
 # Credentials
 config.json
 
-# Data
-data/raw/*
-data/interim/*
-data/processed/*
-!data/raw/.gitkeep
-!data/interim/.gitkeep
-!data/processed/.gitkeep
+# ArchivesSpace Cache
+src/data/aspace_cache/
+
+# Notebook checkpoints
+.ipynb_checkpoints
 """
-    with open('.gitignore', 'w') as f:
+    with open('.gitignore', 'w', encoding='utf-8') as f:
         f.write(gitignore_content)
 
 def create_readme():
@@ -80,68 +65,65 @@ def create_readme():
 A project to enrich ArchivesSpace agent records with SNAC identifiers and manage authority data.
 
 ## Project Structure
-- `data/`: CSV and processed data files
-- `notebooks/`: Jupyter notebooks for analysis and reports
-- `src/`: Source code
-- `docs/`: Documentation
+- `notebooks/`: Placeholder for optional notebooks.
+- `src/`: Source code for data handling and API queries.
+- `config.json`: Stores credentials and settings.
 
 ## Setup
-1. Clone the repository
-2. Create virtual environment: `python -m venv venv`
-3. Activate virtual environment: `venv\\Scripts\\activate`
-4. Install dependencies: `pip install -r requirements.txt`
-5. Copy `config.json` template and update with your credentials
+1. Clone the repository.
+2. Create a virtual environment:
+
+   ```bash
+   python -m venv venv
+   ```
+
+3. Activate the virtual environment:
+
+   **Windows:**
+   ```bash
+   venv\\Scripts\\activate
+   ```
+
+   **macOS/Linux:**
+   ```bash
+   source venv/bin/activate
+   ```
+
+4. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+5. Copy or modify `config.json` to include your ArchivesSpace and SNAC credentials.
 
 ## Usage
-[Add usage instructions here]
+[Add usage instructions here, depending on your scripts in `src/api` and `src/data`.]
 """
-    with open('README.md', 'w') as f:
+
+    with open('README.md', 'w', encoding='utf-8') as f:
         f.write(readme_content)
 
 def create_requirements():
     requirements = [
-        "jupyterlab",
         "pandas",
         "requests",
         "numpy",
         "python-dotenv",
-        "openpyxl",  # for Excel support
-        "pytest"     # for testing
+        "openpyxl"
     ]
     
-    with open('requirements.txt', 'w') as f:
-        f.write('\n'.join(requirements))
-
-def create_initial_notebook():
-    notebook_content = """# Initial Data Exploration
-This notebook will be used for processing my thoughts, as I explore, clean up, and enrich the ArchivesSpace agent data.
-
-## Setup
-```python
-import pandas as pd
-import json
-import requests
-from pathlib import Path
-
-Load Configuration
-
-with open('../config.json') as f:
-    config = json.load(f)
-    
-    Load and Examine Data
-[Add data loading and examination code here]
-"""
-    notebook_path = Path('notebooks/01_initial_exploration.md')
-    notebook_path.write_text(notebook_content)
+    with open('requirements.txt', 'w', encoding='utf-8') as f:
+        f.write("\n".join(requirements) + "\n")
 
 def main():
     print("Setting up project structure...")
+    
     create_directory_structure()
     create_config_template()
     create_gitignore()
     create_readme()
     create_requirements()
-    create_initial_notebook()
+    
     print("Project setup complete!")
 
 if __name__ == "__main__":

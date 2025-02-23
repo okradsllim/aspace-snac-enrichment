@@ -1,0 +1,131 @@
+{
+  "lock_version": 13,
+  "publish": true,
+  "created_by": "lyrasis-dts",
+  "last_modified_by": "ed74",
+  "create_time": "2018-07-21T04:19:33Z",
+  "system_mtime": "2024-11-20T16:34:37Z",
+  "user_mtime": "2024-11-20T16:30:23Z",
+  "is_slug_auto": false,
+  "jsonmodel_type": "agent_person",
+  "agent_contacts": [],
+  "agent_record_controls": [],
+  "agent_alternate_sets": [],
+  "agent_conventions_declarations": [],
+  "agent_other_agency_codes": [],
+  "agent_maintenance_histories": [],
+  "agent_record_identifiers": [
+    {
+      "primary_identifier": true,
+      "record_identifier": "http://id.loc.gov/authorities/names/nr95001104",
+      "created_by": "admin",
+      "last_modified_by": "admin",
+      "create_time": "2023-06-07T03:43:53Z",
+      "system_mtime": "2024-11-20T16:34:37Z",
+      "user_mtime": "2024-11-20T16:30:23Z",
+      "lock_version": 0,
+      "source": "naf",
+      "jsonmodel_type": "agent_record_identifier"
+    }
+  ],
+  "agent_identifiers": [],
+  "agent_sources": [],
+  "agent_places": [],
+  "agent_occupations": [],
+  "agent_functions": [],
+  "agent_topics": [],
+  "agent_resources": [],
+  "linked_agent_roles": [
+    "creator",
+    "subject"
+  ],
+  "external_documents": [],
+  "notes": [
+    {
+      "jsonmodel_type": "note_bioghist",
+      "persistent_id": "25ae2a80bc4dbeca6a43b5dc57bea6c5",
+      "subnotes": [
+        {
+          "jsonmodel_type": "note_text",
+          "content": "Mining engineer, prospector, adventurer and big game hunter Marshall Bond was the son of Federal Judge Hiram G. Bond and Laura Higgins Bond, and a graduate of Yale College, Class of 1888. He spent the winter of 1897-98 mining for gold in the Klondike, N.W.T., where he and his brother met Jack London, who based Buck, in The Call of the Wild, on the Bonds' dog, Jack. Bond continued to work in gold mining for the rest of his life, investing in claims, serving as a consultant to mining companies, and as special correspondent to various newspapers about mining. He was also an avid outdoorsman and big-game hunter. Bond married Amy Louise Burnett; their two sons, Richard M. Bond and Marshall Bond, Jr., are also Yale graduates.",
+          "publish": true
+        }
+      ],
+      "publish": true
+    }
+  ],
+  "used_within_repositories": [],
+  "used_within_published_repositories": [],
+  "dates_of_existence": [
+    {
+      "create_time": "2023-06-02T21:36:44Z",
+      "system_mtime": "2024-11-20T16:37:43Z",
+      "user_mtime": "2024-11-20T16:33:27Z",
+      "lock_version": 0,
+      "date_type_structured": "range",
+      "date_label": "existence",
+      "jsonmodel_type": "structured_date_label",
+      "structured_date_range": {
+        "begin_date_standardized": "1867",
+        "end_date_standardized": "1941",
+        "create_time": "2023-06-02T21:36:44Z",
+        "system_mtime": "2024-11-20T16:37:43Z",
+        "user_mtime": "2024-11-20T16:33:27Z",
+        "lock_version": 0,
+        "begin_date_standardized_type": "standard",
+        "end_date_standardized_type": "standard",
+        "jsonmodel_type": "structured_date_range"
+      }
+    }
+  ],
+  "used_languages": [],
+  "metadata_rights_declarations": [],
+  "names": [
+    {
+      "lock_version": 0,
+      "primary_name": "Bond",
+      "rest_of_name": "Marshall",
+      "dates": "1867-1941",
+      "sort_name": "Bond, Marshall, 1867-1941",
+      "sort_name_auto_generate": true,
+      "created_by": "ed74",
+      "last_modified_by": "ed74",
+      "create_time": "2020-03-27T18:43:41Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "authorized": true,
+      "is_display_name": true,
+      "rules": "aacr",
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "parallel_names": []
+    }
+  ],
+  "agent_genders": [],
+  "related_agents": [],
+  "uri": "/agents/people/65403",
+  "agent_type": "agent_person",
+  "is_linked_to_published_record": true,
+  "display_name": {
+    "lock_version": 0,
+    "primary_name": "Bond",
+    "rest_of_name": "Marshall",
+    "dates": "1867-1941",
+    "sort_name": "Bond, Marshall, 1867-1941",
+    "sort_name_auto_generate": true,
+    "created_by": "ed74",
+    "last_modified_by": "ed74",
+    "create_time": "2020-03-27T18:43:41Z",
+    "system_mtime": "2024-11-20T16:37:00Z",
+    "user_mtime": "2024-11-20T16:32:44Z",
+    "authorized": true,
+    "is_display_name": true,
+    "rules": "aacr",
+    "name_order": "inverted",
+    "jsonmodel_type": "name_person",
+    "use_dates": [],
+    "parallel_names": []
+  },
+  "title": "Bond, Marshall, 1867-1941"
+}

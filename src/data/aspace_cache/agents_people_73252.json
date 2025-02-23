@@ -1,0 +1,153 @@
+{
+  "lock_version": 100,
+  "publish": true,
+  "created_by": "lyrasis-dts",
+  "last_modified_by": "mw955",
+  "create_time": "2018-07-21T04:33:44Z",
+  "system_mtime": "2025-01-06T19:34:17Z",
+  "user_mtime": "2024-11-20T16:30:23Z",
+  "is_slug_auto": false,
+  "jsonmodel_type": "agent_person",
+  "agent_contacts": [],
+  "agent_record_controls": [],
+  "agent_alternate_sets": [],
+  "agent_conventions_declarations": [],
+  "agent_other_agency_codes": [],
+  "agent_maintenance_histories": [],
+  "agent_record_identifiers": [
+    {
+      "primary_identifier": true,
+      "record_identifier": "http://id.loc.gov/authorities/names/n78095557",
+      "created_by": "admin",
+      "last_modified_by": "admin",
+      "create_time": "2023-06-07T03:43:53Z",
+      "system_mtime": "2024-11-20T16:34:37Z",
+      "user_mtime": "2024-11-20T16:30:23Z",
+      "lock_version": 0,
+      "source": "naf",
+      "jsonmodel_type": "agent_record_identifier"
+    }
+  ],
+  "agent_identifiers": [],
+  "agent_sources": [],
+  "agent_places": [],
+  "agent_occupations": [],
+  "agent_functions": [],
+  "agent_topics": [],
+  "agent_resources": [],
+  "linked_agent_roles": [
+    "creator",
+    "subject"
+  ],
+  "external_documents": [],
+  "notes": [
+    {
+      "jsonmodel_type": "note_bioghist",
+      "persistent_id": "38c9927a5c5b8f81ebf39ca2ee52ba4e",
+      "label": "Biographical / Historical",
+      "subnotes": [
+        {
+          "jsonmodel_type": "note_text",
+          "content": "b. May 8",
+          "publish": true
+        }
+      ],
+      "publish": true
+    }
+  ],
+  "used_within_repositories": [],
+  "used_within_published_repositories": [],
+  "dates_of_existence": [],
+  "used_languages": [],
+  "metadata_rights_declarations": [],
+  "names": [
+    {
+      "lock_version": 0,
+      "primary_name": "Roberts",
+      "rest_of_name": "Jane",
+      "dates": "1929-1984",
+      "sort_name": "Roberts, Jane, 1929-1984",
+      "sort_name_auto_generate": true,
+      "created_by": "mw955",
+      "last_modified_by": "mw955",
+      "create_time": "2022-04-08T20:18:37Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "authorized": true,
+      "is_display_name": true,
+      "rules": "aacr",
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "parallel_names": []
+    },
+    {
+      "lock_version": 0,
+      "primary_name": "Butts",
+      "rest_of_name": "Jane Roberts",
+      "dates": "1929-1984",
+      "sort_name": "Butts, Jane Roberts, 1929-1984",
+      "sort_name_auto_generate": true,
+      "created_by": "mw955",
+      "last_modified_by": "mw955",
+      "create_time": "2022-04-08T20:18:37Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "source": "naf",
+      "rules": "aacr",
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "authorized": false,
+      "is_display_name": false,
+      "parallel_names": []
+    }
+  ],
+  "agent_genders": [],
+  "related_agents": [
+    {
+      "jsonmodel_type": "agent_relationship_associative",
+      "created_by": "tw722",
+      "last_modified_by": "tw722",
+      "create_time": "2024-09-25 15:26:00 UTC",
+      "system_mtime": "2024-11-20 16:37:42 UTC",
+      "user_mtime": "2024-11-20 16:33:26 UTC",
+      "relator": "is_associative_with",
+      "ref": "/agents/people/99528"
+    },
+    {
+      "jsonmodel_type": "agent_relationship_associative",
+      "created_by": "mw955",
+      "last_modified_by": "mw955",
+      "create_time": "2022-04-08 20:18:37 UTC",
+      "system_mtime": "2024-11-20 16:37:42 UTC",
+      "user_mtime": "2024-11-20 16:33:26 UTC",
+      "relator": "is_associative_with",
+      "ref": "/agents/people/35560"
+    }
+  ],
+  "uri": "/agents/people/73252",
+  "agent_type": "agent_person",
+  "is_linked_to_published_record": true,
+  "display_name": {
+    "lock_version": 0,
+    "primary_name": "Roberts",
+    "rest_of_name": "Jane",
+    "dates": "1929-1984",
+    "sort_name": "Roberts, Jane, 1929-1984",
+    "sort_name_auto_generate": true,
+    "created_by": "mw955",
+    "last_modified_by": "mw955",
+    "create_time": "2022-04-08T20:18:37Z",
+    "system_mtime": "2024-11-20T16:37:00Z",
+    "user_mtime": "2024-11-20T16:32:44Z",
+    "authorized": true,
+    "is_display_name": true,
+    "rules": "aacr",
+    "name_order": "inverted",
+    "jsonmodel_type": "name_person",
+    "use_dates": [],
+    "parallel_names": []
+  },
+  "title": "Roberts, Jane, 1929-1984"
+}

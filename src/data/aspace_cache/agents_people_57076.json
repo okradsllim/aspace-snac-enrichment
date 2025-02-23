@@ -1,0 +1,131 @@
+{
+  "lock_version": 125,
+  "publish": true,
+  "created_by": "lyrasis-dts",
+  "last_modified_by": "sl2624",
+  "create_time": "2018-07-21T04:04:51Z",
+  "system_mtime": "2025-01-06T18:33:37Z",
+  "user_mtime": "2024-11-20T16:30:23Z",
+  "is_slug_auto": false,
+  "jsonmodel_type": "agent_person",
+  "agent_contacts": [],
+  "agent_record_controls": [],
+  "agent_alternate_sets": [],
+  "agent_conventions_declarations": [],
+  "agent_other_agency_codes": [],
+  "agent_maintenance_histories": [],
+  "agent_record_identifiers": [
+    {
+      "primary_identifier": true,
+      "record_identifier": "http://id.loc.gov/authorities/names/n83044552",
+      "created_by": "admin",
+      "last_modified_by": "admin",
+      "create_time": "2023-06-07T03:43:53Z",
+      "system_mtime": "2024-11-20T16:34:37Z",
+      "user_mtime": "2024-11-20T16:30:23Z",
+      "lock_version": 0,
+      "source": "naf",
+      "jsonmodel_type": "agent_record_identifier"
+    }
+  ],
+  "agent_identifiers": [],
+  "agent_sources": [],
+  "agent_places": [],
+  "agent_occupations": [],
+  "agent_functions": [],
+  "agent_topics": [],
+  "agent_resources": [],
+  "linked_agent_roles": [
+    "creator",
+    "subject"
+  ],
+  "external_documents": [],
+  "notes": [
+    {
+      "jsonmodel_type": "note_bioghist",
+      "subnotes": [
+        {
+          "jsonmodel_type": "note_text",
+          "content": "George Platt Lynes was born on April 15, 1907 to Joseph Russell and Adelaide Sparkman Lynes in East Orange, New Jersey. He attended the Berkshire School, where Lincoln Kirstein was among his classmates. Considered inadequately prepared for college, George was sent to Paris, in the care of family cousins, Kate and Walter Hardy, with the goal of improving his basic prepatory subjects. In the heady milieu of literary Paris, he made the acquaintance of R\u00e9ne Crevel and Gertrude Stein, with whom he began a decade-long correspondence. (see: YCAL MSS 76, Box 115, folder 2406 and YCAL MSS 77, Box 10, folder 136a).\r\n\r\nLynes eventually entered Yale University in the Fall of 1926, though he attended for only a single semester. A move to New York allowed Lynes to further his contact with the literary world he had been introduced to in Paris In January, 1927, he met the publisher Monroe Wheeler and his partner, the writer, Glenway Wescott. Over the next fifteen years, Lynes' emotional life centered around Wheeler and Wescott, with whom he maintained a succession of households in France and the United States. His search for a metier saw him explore writing and bookselling before he eventually found his aesthetic through the facility of the camera. His first informal portraits were done in the late 1920s, but soon he found himself an official society photographer, contributing to significant museum shows, magazines, and having his own one-man exhibitions. He became well-known for his fashion photography and eventually was made the head of Vogue magazine's West Coast studio in Los Angeles in 1946, where he moved following several years of emotional upheaval in his personal life, which included his break from Wescott and Wheeler.\r\n\r\nLynes returned to New York in 1948, but found he was no longer in demand for his commercial fashion work. Instead, he focused on his private interests, male nudes, and documenting productions of the New York City Ballet. His change of fortune, which included a bankruptcy filing in the early 1950s, ended with a diagnosis of lung cancer. He died in New York City on December 6, 1955.",
+          "publish": true
+        }
+      ],
+      "persistent_id": "542f2af2cf1f346ea3b1963028b1de0d",
+      "publish": true
+    }
+  ],
+  "used_within_repositories": [],
+  "used_within_published_repositories": [],
+  "dates_of_existence": [
+    {
+      "create_time": "2023-06-02T21:37:41Z",
+      "system_mtime": "2024-11-20T16:37:43Z",
+      "user_mtime": "2024-11-20T16:33:27Z",
+      "lock_version": 0,
+      "date_type_structured": "range",
+      "date_label": "existence",
+      "jsonmodel_type": "structured_date_label",
+      "structured_date_range": {
+        "begin_date_standardized": "1907",
+        "end_date_standardized": "1955",
+        "create_time": "2023-06-02T21:37:41Z",
+        "system_mtime": "2024-11-20T16:37:43Z",
+        "user_mtime": "2024-11-20T16:33:27Z",
+        "lock_version": 0,
+        "begin_date_standardized_type": "standard",
+        "end_date_standardized_type": "standard",
+        "jsonmodel_type": "structured_date_range"
+      }
+    }
+  ],
+  "used_languages": [],
+  "metadata_rights_declarations": [],
+  "names": [
+    {
+      "lock_version": 0,
+      "primary_name": "Lynes",
+      "rest_of_name": "George Platt",
+      "dates": "1907-1955",
+      "sort_name": "Lynes, George Platt, 1907-1955",
+      "sort_name_auto_generate": true,
+      "created_by": "sl2624",
+      "last_modified_by": "sl2624",
+      "create_time": "2020-06-26T12:04:56Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "authorized": true,
+      "is_display_name": true,
+      "rules": "aacr",
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "parallel_names": []
+    }
+  ],
+  "agent_genders": [],
+  "related_agents": [],
+  "uri": "/agents/people/57076",
+  "agent_type": "agent_person",
+  "is_linked_to_published_record": true,
+  "display_name": {
+    "lock_version": 0,
+    "primary_name": "Lynes",
+    "rest_of_name": "George Platt",
+    "dates": "1907-1955",
+    "sort_name": "Lynes, George Platt, 1907-1955",
+    "sort_name_auto_generate": true,
+    "created_by": "sl2624",
+    "last_modified_by": "sl2624",
+    "create_time": "2020-06-26T12:04:56Z",
+    "system_mtime": "2024-11-20T16:37:00Z",
+    "user_mtime": "2024-11-20T16:32:44Z",
+    "authorized": true,
+    "is_display_name": true,
+    "rules": "aacr",
+    "name_order": "inverted",
+    "jsonmodel_type": "name_person",
+    "use_dates": [],
+    "parallel_names": []
+  },
+  "title": "Lynes, George Platt, 1907-1955"
+}

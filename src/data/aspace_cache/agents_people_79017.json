@@ -1,0 +1,148 @@
+{
+  "lock_version": 24,
+  "publish": true,
+  "created_by": "lyrasis-dts",
+  "last_modified_by": "sl2624",
+  "create_time": "2018-07-21T04:44:08Z",
+  "system_mtime": "2025-01-06T18:33:29Z",
+  "user_mtime": "2024-11-20T16:30:23Z",
+  "is_slug_auto": false,
+  "jsonmodel_type": "agent_person",
+  "agent_contacts": [],
+  "agent_record_controls": [],
+  "agent_alternate_sets": [],
+  "agent_conventions_declarations": [],
+  "agent_other_agency_codes": [],
+  "agent_maintenance_histories": [],
+  "agent_record_identifiers": [
+    {
+      "primary_identifier": true,
+      "record_identifier": "http://id.loc.gov/authorities/names/n50047961",
+      "created_by": "admin",
+      "last_modified_by": "admin",
+      "create_time": "2023-06-07T03:43:53Z",
+      "system_mtime": "2024-11-20T16:34:37Z",
+      "user_mtime": "2024-11-20T16:30:23Z",
+      "lock_version": 0,
+      "source": "naf",
+      "jsonmodel_type": "agent_record_identifier"
+    }
+  ],
+  "agent_identifiers": [],
+  "agent_sources": [],
+  "agent_places": [],
+  "agent_occupations": [],
+  "agent_functions": [],
+  "agent_topics": [],
+  "agent_resources": [],
+  "linked_agent_roles": [
+    "creator",
+    "subject"
+  ],
+  "external_documents": [],
+  "notes": [
+    {
+      "jsonmodel_type": "note_bioghist",
+      "subnotes": [
+        {
+          "jsonmodel_type": "note_text",
+          "content": "Katharine Kuh, art historian, curator, author, and critic of twentieth- century art, was born in St. Louis on July 15, 1904. She was educated at Vassar College (A.B. 1925) and the University of Chicago (A.M. 1928).\r\n\r\nFrom 1935 until 1942 she owned and directed The Katharine Kuh Gallery in Chicago and also served as visiting professor of art at the University School of Fine Arts in San Miguel, Guanajuato, Mexico. In 1943 Katharine went to the Art Institute of Chicago as curator, Gallery of Art Interpretation. Until 1959 she was also curator of modern painting and sculpture and edited the Bulletin of the Art Institute of Chicago from 1943 to 1953. Following her departure from the Institute, she became art editor for Saturday Review (1959-72), World Magazine (1972-73), and Saturday Review Magazine (1973-77).\r\n\r\nDuring her career, Katharine Kuh wrote many books. They include Art Has Many Faces (1951), which was inspired partly by her experience in preparing an advisory report on the fate of Alaskan totem poles for the Office of Indian Affairs in 1946, The Artist's Voice (1962), and Break Up: The Core of Modern Art (1965). She also wrote a catalog of Fernand L\u00e9ger's work, L\u00e9ger (1953), and the catalog for a retrospective exhibition, 100 Artists, 100 Years: Alumni of the School of the Art Institute of Chicago (1979).\r\n\r\nKatharine Kuh married George E. Kuh in 1930 and was divorced in 1936.",
+          "publish": true
+        }
+      ],
+      "persistent_id": "7605288b348e86f7fb1840dcaa5c050f",
+      "publish": true
+    }
+  ],
+  "used_within_repositories": [],
+  "used_within_published_repositories": [],
+  "dates_of_existence": [
+    {
+      "create_time": "2023-06-02T21:37:46Z",
+      "system_mtime": "2024-11-20T16:37:43Z",
+      "user_mtime": "2024-11-20T16:33:27Z",
+      "lock_version": 0,
+      "date_type_structured": "range",
+      "date_label": "existence",
+      "jsonmodel_type": "structured_date_label",
+      "structured_date_range": {
+        "begin_date_standardized": "1904",
+        "end_date_standardized": "1994",
+        "create_time": "2023-06-02T21:37:46Z",
+        "system_mtime": "2024-11-20T16:37:43Z",
+        "user_mtime": "2024-11-20T16:33:27Z",
+        "lock_version": 0,
+        "begin_date_standardized_type": "standard",
+        "end_date_standardized_type": "standard",
+        "jsonmodel_type": "structured_date_range"
+      }
+    }
+  ],
+  "used_languages": [],
+  "metadata_rights_declarations": [],
+  "names": [
+    {
+      "lock_version": 0,
+      "primary_name": "Kuh",
+      "rest_of_name": "Katharine",
+      "dates": "1904-1994",
+      "sort_name": "Kuh, Katharine, 1904-1994",
+      "sort_name_auto_generate": true,
+      "created_by": "sl2624",
+      "last_modified_by": "sl2624",
+      "create_time": "2020-07-14T11:44:44Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "authorized": true,
+      "is_display_name": true,
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "parallel_names": []
+    },
+    {
+      "lock_version": 0,
+      "primary_name": "Kuh",
+      "rest_of_name": "Katherine",
+      "sort_name": "Kuh, Katherine",
+      "sort_name_auto_generate": true,
+      "created_by": "sl2624",
+      "last_modified_by": "sl2624",
+      "create_time": "2020-07-14T11:44:44Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "source": "naf",
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "authorized": false,
+      "is_display_name": false,
+      "parallel_names": []
+    }
+  ],
+  "agent_genders": [],
+  "related_agents": [],
+  "uri": "/agents/people/79017",
+  "agent_type": "agent_person",
+  "is_linked_to_published_record": true,
+  "display_name": {
+    "lock_version": 0,
+    "primary_name": "Kuh",
+    "rest_of_name": "Katharine",
+    "dates": "1904-1994",
+    "sort_name": "Kuh, Katharine, 1904-1994",
+    "sort_name_auto_generate": true,
+    "created_by": "sl2624",
+    "last_modified_by": "sl2624",
+    "create_time": "2020-07-14T11:44:44Z",
+    "system_mtime": "2024-11-20T16:37:00Z",
+    "user_mtime": "2024-11-20T16:32:44Z",
+    "authorized": true,
+    "is_display_name": true,
+    "name_order": "inverted",
+    "jsonmodel_type": "name_person",
+    "use_dates": [],
+    "parallel_names": []
+  },
+  "title": "Kuh, Katharine, 1904-1994"
+}

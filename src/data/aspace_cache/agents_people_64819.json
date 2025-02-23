@@ -1,0 +1,165 @@
+{
+  "lock_version": 84,
+  "publish": true,
+  "created_by": "lyrasis-dts",
+  "last_modified_by": "sl2624",
+  "create_time": "2018-07-21T04:18:33Z",
+  "system_mtime": "2024-11-20T16:34:37Z",
+  "user_mtime": "2024-11-20T16:30:23Z",
+  "is_slug_auto": false,
+  "jsonmodel_type": "agent_person",
+  "agent_contacts": [],
+  "agent_record_controls": [],
+  "agent_alternate_sets": [],
+  "agent_conventions_declarations": [],
+  "agent_other_agency_codes": [],
+  "agent_maintenance_histories": [],
+  "agent_record_identifiers": [
+    {
+      "primary_identifier": true,
+      "record_identifier": "http://id.loc.gov/authorities/names/n80035034",
+      "created_by": "admin",
+      "last_modified_by": "admin",
+      "create_time": "2023-06-07T03:43:53Z",
+      "system_mtime": "2024-11-20T16:34:37Z",
+      "user_mtime": "2024-11-20T16:30:23Z",
+      "lock_version": 0,
+      "source": "naf",
+      "jsonmodel_type": "agent_record_identifier"
+    }
+  ],
+  "agent_identifiers": [],
+  "agent_sources": [],
+  "agent_places": [],
+  "agent_occupations": [],
+  "agent_functions": [],
+  "agent_topics": [],
+  "agent_resources": [],
+  "linked_agent_roles": [
+    "creator",
+    "subject"
+  ],
+  "external_documents": [],
+  "notes": [
+    {
+      "jsonmodel_type": "note_bioghist",
+      "persistent_id": "083246111b811d0d7961e9aec14ef2de",
+      "subnotes": [
+        {
+          "jsonmodel_type": "note_text",
+          "content": "Miriam Schlein was born on 6 June 1926 in Brooklyn, NY. Schlein was a prolific author of children\u2019s books which focused on teaching young readers about animals, science, and other topics. She earned a B.A. in psychology from Brooklyn College in 1947 before moving into the fields of publishing and advertising.\r\n\r\nWhile working for the publisher Simon & Schuster in the children\u2019s department, she was inspired to write her own books for children. Beginning with 1951\u2019s A Day at the Playground, she went on to write nearly one hundred books over five decades. Although she wrote a number of fiction stories, such as Oomi, the New Hunter (1955), The Snake in the Carpool (1963), and I Sailed with Columbus (1991), she concentrated on books which explored the natural sciences. Among her award-winning efforts in this genre are Fast Is Not a Ladybug: A Book about Fast and Slow Things (1953), Elephant Herd (1954), What's Wrong with Being a Skunk? (1974), Giraffe, the Silent Giant (1976), The Dangerous Life of the Sea Horse (1986), and Discovering Dinosaur Babies (1991).\r\n\r\nMiriam Schlein married Harvey Weiss, an artist who illustrated some of her early works. Before her marriage with Weiss ended in divorce, the couple had two children.\r\n\r\nMiriam Schlein died of vasculitis on 23 November 2004 in New York City.",
+          "publish": true
+        }
+      ],
+      "publish": true
+    }
+  ],
+  "used_within_repositories": [],
+  "used_within_published_repositories": [],
+  "dates_of_existence": [
+    {
+      "create_time": "2023-06-02T21:37:55Z",
+      "system_mtime": "2024-11-20T16:37:43Z",
+      "user_mtime": "2024-11-20T16:33:27Z",
+      "lock_version": 0,
+      "date_type_structured": "range",
+      "date_label": "existence",
+      "jsonmodel_type": "structured_date_label",
+      "structured_date_range": {
+        "begin_date_standardized": "1926",
+        "end_date_standardized": "2004",
+        "create_time": "2023-06-02T21:37:55Z",
+        "system_mtime": "2024-11-20T16:37:43Z",
+        "user_mtime": "2024-11-20T16:33:27Z",
+        "lock_version": 0,
+        "begin_date_standardized_type": "standard",
+        "end_date_standardized_type": "standard",
+        "jsonmodel_type": "structured_date_range"
+      }
+    }
+  ],
+  "used_languages": [],
+  "metadata_rights_declarations": [],
+  "names": [
+    {
+      "lock_version": 0,
+      "primary_name": "Schlein",
+      "rest_of_name": "Miriam",
+      "sort_name": "Schlein, Miriam",
+      "sort_name_auto_generate": true,
+      "created_by": "sl2624",
+      "last_modified_by": "sl2624",
+      "create_time": "2020-08-13T17:21:58Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "authorized": true,
+      "is_display_name": true,
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "parallel_names": []
+    },
+    {
+      "lock_version": 0,
+      "primary_name": "Stanhope",
+      "rest_of_name": "Lavinia",
+      "sort_name": "Stanhope, Lavinia",
+      "sort_name_auto_generate": true,
+      "created_by": "sl2624",
+      "last_modified_by": "sl2624",
+      "create_time": "2020-08-13T17:21:58Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "source": "naf",
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "authorized": false,
+      "is_display_name": false,
+      "parallel_names": []
+    },
+    {
+      "lock_version": 0,
+      "primary_name": "\u0428\u043b\u0435\u0439\u043d",
+      "rest_of_name": "\u041c\u0438\u0440\u044c\u044f\u043c",
+      "sort_name": "\u0428\u043b\u0435\u0439\u043d, \u041c\u0438\u0440\u044c\u044f\u043c",
+      "sort_name_auto_generate": true,
+      "created_by": "sl2624",
+      "last_modified_by": "sl2624",
+      "create_time": "2020-08-13T17:21:58Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "source": "naf",
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "authorized": false,
+      "is_display_name": false,
+      "parallel_names": []
+    }
+  ],
+  "agent_genders": [],
+  "related_agents": [],
+  "uri": "/agents/people/64819",
+  "agent_type": "agent_person",
+  "is_linked_to_published_record": true,
+  "display_name": {
+    "lock_version": 0,
+    "primary_name": "Schlein",
+    "rest_of_name": "Miriam",
+    "sort_name": "Schlein, Miriam",
+    "sort_name_auto_generate": true,
+    "created_by": "sl2624",
+    "last_modified_by": "sl2624",
+    "create_time": "2020-08-13T17:21:58Z",
+    "system_mtime": "2024-11-20T16:37:00Z",
+    "user_mtime": "2024-11-20T16:32:44Z",
+    "authorized": true,
+    "is_display_name": true,
+    "name_order": "inverted",
+    "jsonmodel_type": "name_person",
+    "use_dates": [],
+    "parallel_names": []
+  },
+  "title": "Schlein, Miriam"
+}

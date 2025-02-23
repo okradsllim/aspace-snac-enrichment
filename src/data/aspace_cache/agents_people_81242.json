@@ -1,0 +1,111 @@
+{
+  "lock_version": 64,
+  "publish": true,
+  "created_by": "lyrasis-dts",
+  "last_modified_by": "mf325",
+  "create_time": "2018-07-21T04:48:08Z",
+  "system_mtime": "2025-02-06T17:51:08Z",
+  "user_mtime": "2024-11-20T16:30:23Z",
+  "is_slug_auto": false,
+  "jsonmodel_type": "agent_person",
+  "agent_contacts": [],
+  "agent_record_controls": [],
+  "agent_alternate_sets": [],
+  "agent_conventions_declarations": [],
+  "agent_other_agency_codes": [],
+  "agent_maintenance_histories": [],
+  "agent_record_identifiers": [
+    {
+      "primary_identifier": true,
+      "record_identifier": "http://id.loc.gov/authorities/names/n91007272",
+      "created_by": "admin",
+      "last_modified_by": "admin",
+      "create_time": "2023-06-07T03:43:53Z",
+      "system_mtime": "2024-11-20T16:34:37Z",
+      "user_mtime": "2024-11-20T16:30:23Z",
+      "lock_version": 0,
+      "source": "naf",
+      "jsonmodel_type": "agent_record_identifier"
+    }
+  ],
+  "agent_identifiers": [],
+  "agent_sources": [],
+  "agent_places": [],
+  "agent_occupations": [],
+  "agent_functions": [],
+  "agent_topics": [],
+  "agent_resources": [],
+  "linked_agent_roles": [
+    "creator",
+    "source",
+    "subject"
+  ],
+  "external_documents": [],
+  "notes": [
+    {
+      "jsonmodel_type": "note_bioghist",
+      "subnotes": [
+        {
+          "jsonmodel_type": "note_text",
+          "content": "Lee Anderson (1896-1972), American poet and editor",
+          "publish": true
+        }
+      ],
+      "persistent_id": "3c88f2016defa7afc0681724654bddfd",
+      "publish": true
+    }
+  ],
+  "used_within_repositories": [],
+  "used_within_published_repositories": [],
+  "dates_of_existence": [],
+  "used_languages": [],
+  "metadata_rights_declarations": [],
+  "names": [
+    {
+      "lock_version": 0,
+      "primary_name": "Anderson",
+      "rest_of_name": "Lee",
+      "dates": "1896-1972",
+      "sort_name": "Anderson, Lee, 1896-1972",
+      "sort_name_auto_generate": true,
+      "created_by": "mf325",
+      "last_modified_by": "mf325",
+      "create_time": "2020-06-04T13:00:42Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "authorized": true,
+      "is_display_name": true,
+      "rules": "aacr",
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "parallel_names": []
+    }
+  ],
+  "agent_genders": [],
+  "related_agents": [],
+  "uri": "/agents/people/81242",
+  "agent_type": "agent_person",
+  "is_linked_to_published_record": true,
+  "display_name": {
+    "lock_version": 0,
+    "primary_name": "Anderson",
+    "rest_of_name": "Lee",
+    "dates": "1896-1972",
+    "sort_name": "Anderson, Lee, 1896-1972",
+    "sort_name_auto_generate": true,
+    "created_by": "mf325",
+    "last_modified_by": "mf325",
+    "create_time": "2020-06-04T13:00:42Z",
+    "system_mtime": "2024-11-20T16:37:00Z",
+    "user_mtime": "2024-11-20T16:32:44Z",
+    "authorized": true,
+    "is_display_name": true,
+    "rules": "aacr",
+    "name_order": "inverted",
+    "jsonmodel_type": "name_person",
+    "use_dates": [],
+    "parallel_names": []
+  },
+  "title": "Anderson, Lee, 1896-1972"
+}

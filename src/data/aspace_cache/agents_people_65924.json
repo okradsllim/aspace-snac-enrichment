@@ -1,0 +1,153 @@
+{
+  "lock_version": 21,
+  "publish": true,
+  "created_by": "lyrasis-dts",
+  "last_modified_by": "sl2624",
+  "create_time": "2018-07-21T04:20:27Z",
+  "system_mtime": "2025-01-06T18:24:24Z",
+  "user_mtime": "2024-11-20T16:30:23Z",
+  "is_slug_auto": false,
+  "jsonmodel_type": "agent_person",
+  "agent_contacts": [],
+  "agent_record_controls": [],
+  "agent_alternate_sets": [],
+  "agent_conventions_declarations": [],
+  "agent_other_agency_codes": [],
+  "agent_maintenance_histories": [],
+  "agent_record_identifiers": [
+    {
+      "primary_identifier": true,
+      "record_identifier": "http://id.loc.gov/authorities/names/n50054928",
+      "created_by": "admin",
+      "last_modified_by": "admin",
+      "create_time": "2023-06-07T03:43:53Z",
+      "system_mtime": "2024-11-20T16:34:37Z",
+      "user_mtime": "2024-11-20T16:30:23Z",
+      "lock_version": 0,
+      "source": "naf",
+      "jsonmodel_type": "agent_record_identifier"
+    }
+  ],
+  "agent_identifiers": [],
+  "agent_sources": [],
+  "agent_places": [],
+  "agent_occupations": [],
+  "agent_functions": [],
+  "agent_topics": [],
+  "agent_resources": [],
+  "linked_agent_roles": [
+    "creator",
+    "subject"
+  ],
+  "external_documents": [],
+  "notes": [
+    {
+      "jsonmodel_type": "note_bioghist",
+      "persistent_id": "23c4dc9f0d79d7db50b092e6a90dcfa9",
+      "subnotes": [
+        {
+          "jsonmodel_type": "note_text",
+          "content": "Joseph Ritson was born at Stockton-on-Tees in 1752. Although his family was not prosperous, Ritson was articled to a Stockton solicitor and later to the conveyancer Ralph Bradley. He settled in London in 1775 as managing clerk to the firm of Masterman and Lloyd. In 1780 he began business as a conveyancer on his own, taking the Gray's Inn chambers that he occupied until his death. Ritson was appointed high bailiff of the liberty of the Savoy in 1784, and received a life patent of that post two years later.\r\n\r\nWhile Ritson published a few articles on legal subjects, he is best known as an antiquarian and legal scholar. Despite poor health and nervous complaints, he produced many editions and essays, often employing a modified spelling system devised by himself. Between 1783 and 1793 he prepared a long series of anthologies of popular and local poetry, such as The Caledonian Muse(1785; published 1821) and The Northumbrian Garland (1793). He also published several collections of early English poetry, including Pieces of AncientPopular Poetry (1791), Robin Hood, a Collection... (1795), and Ancient Engleish Metrical Romance\u00ebs (1802), as well as the useful Bibliographia Poetica (1802), a useful collection of pre-1600 English poets with short accounts of the works.\r\n\r\nRitson's concern with historical and textual accuracy led him into several lengthy and acrimonious controversies with contemporary scholars,among them George Steevens, Joseph Malone, and John Pinkerton. His first scholarly publication, Observations on...the 'History ofEnglish Poetry' (1782), was harshly critical of Thomas Warton's interpretations of early English literature. He repeatedly charged Thomas Percy with publishing forged and garbled versions of traditional ballads. The same preoccupation, however, also led to his detection of the Ireland Shakespeare forgeries in 1795 and enabled him to assist Sir Walter Scott with Border Minstrelsy.\r\n\r\nRitson's health failed rapidly in his later years. His last publication was a defense of his lifelong vegetarianism, An Essayon Abstinence from Animal Food as a Moral Duty (1802). In September, 1803, he barricaded himself within his chambers and began to set fire to many of his manuscripts. He was removed to the house of Sir Jonathan Miles at Hoxton, where he died of paralysis of the brain on September 25, 1803.",
+          "publish": true
+        }
+      ],
+      "publish": true
+    }
+  ],
+  "used_within_repositories": [],
+  "used_within_published_repositories": [],
+  "dates_of_existence": [
+    {
+      "create_time": "2023-06-02T21:38:49Z",
+      "system_mtime": "2024-11-20T16:37:43Z",
+      "user_mtime": "2024-11-20T16:33:27Z",
+      "lock_version": 0,
+      "date_type_structured": "range",
+      "date_label": "existence",
+      "jsonmodel_type": "structured_date_label",
+      "structured_date_range": {
+        "begin_date_standardized": "1752",
+        "end_date_standardized": "1802",
+        "create_time": "2023-06-02T21:38:49Z",
+        "system_mtime": "2024-11-20T16:37:43Z",
+        "user_mtime": "2024-11-20T16:33:27Z",
+        "lock_version": 0,
+        "begin_date_standardized_type": "standard",
+        "end_date_standardized_type": "standard",
+        "jsonmodel_type": "structured_date_range"
+      }
+    }
+  ],
+  "used_languages": [],
+  "metadata_rights_declarations": [],
+  "names": [
+    {
+      "lock_version": 0,
+      "primary_name": "Ritson",
+      "rest_of_name": "Joseph",
+      "dates": "1752-1803",
+      "sort_name": "Ritson, Joseph, 1752-1803",
+      "sort_name_auto_generate": true,
+      "created_by": "sl2624",
+      "last_modified_by": "sl2624",
+      "create_time": "2020-09-29T11:42:34Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "authorized": true,
+      "is_display_name": true,
+      "rules": "aacr",
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "parallel_names": []
+    },
+    {
+      "lock_version": 0,
+      "primary_name": "Ritson",
+      "rest_of_name": "J.",
+      "fuller_form": "Joseph",
+      "dates": "1752-1803",
+      "sort_name": "Ritson, J. (Joseph), 1752-1803",
+      "sort_name_auto_generate": true,
+      "created_by": "sl2624",
+      "last_modified_by": "sl2624",
+      "create_time": "2020-09-29T11:42:34Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "source": "naf",
+      "rules": "aacr",
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "authorized": false,
+      "is_display_name": false,
+      "parallel_names": []
+    }
+  ],
+  "agent_genders": [],
+  "related_agents": [],
+  "uri": "/agents/people/65924",
+  "agent_type": "agent_person",
+  "is_linked_to_published_record": true,
+  "display_name": {
+    "lock_version": 0,
+    "primary_name": "Ritson",
+    "rest_of_name": "Joseph",
+    "dates": "1752-1803",
+    "sort_name": "Ritson, Joseph, 1752-1803",
+    "sort_name_auto_generate": true,
+    "created_by": "sl2624",
+    "last_modified_by": "sl2624",
+    "create_time": "2020-09-29T11:42:34Z",
+    "system_mtime": "2024-11-20T16:37:00Z",
+    "user_mtime": "2024-11-20T16:32:44Z",
+    "authorized": true,
+    "is_display_name": true,
+    "rules": "aacr",
+    "name_order": "inverted",
+    "jsonmodel_type": "name_person",
+    "use_dates": [],
+    "parallel_names": []
+  },
+  "title": "Ritson, Joseph, 1752-1803"
+}

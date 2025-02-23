@@ -1,0 +1,129 @@
+{
+  "lock_version": 48,
+  "publish": true,
+  "created_by": "lyrasis-dts",
+  "last_modified_by": "sl2624",
+  "create_time": "2018-07-21T05:06:27Z",
+  "system_mtime": "2025-01-06T18:56:02Z",
+  "user_mtime": "2024-11-20T16:30:23Z",
+  "is_slug_auto": false,
+  "jsonmodel_type": "agent_person",
+  "agent_contacts": [],
+  "agent_record_controls": [],
+  "agent_alternate_sets": [],
+  "agent_conventions_declarations": [],
+  "agent_other_agency_codes": [],
+  "agent_maintenance_histories": [],
+  "agent_record_identifiers": [
+    {
+      "primary_identifier": true,
+      "record_identifier": "http://id.loc.gov/authorities/names/n79045273",
+      "created_by": "admin",
+      "last_modified_by": "admin",
+      "create_time": "2023-06-07T03:43:53Z",
+      "system_mtime": "2024-11-20T16:34:37Z",
+      "user_mtime": "2024-11-20T16:30:23Z",
+      "lock_version": 0,
+      "source": "naf",
+      "jsonmodel_type": "agent_record_identifier"
+    }
+  ],
+  "agent_identifiers": [],
+  "agent_sources": [],
+  "agent_places": [],
+  "agent_occupations": [],
+  "agent_functions": [],
+  "agent_topics": [],
+  "agent_resources": [],
+  "linked_agent_roles": [
+    "creator",
+    "subject"
+  ],
+  "external_documents": [],
+  "notes": [
+    {
+      "jsonmodel_type": "note_bioghist",
+      "persistent_id": "55c4d891f965307a940866a6acd7bf51",
+      "subnotes": [
+        {
+          "jsonmodel_type": "note_text",
+          "content": "William Shenstone was born in Halesowen, Worcestershire on November 13, 1714. He was educated first in a dame school run by Sarah Lloyd, whom he celebrated in his poem \"The Schoolmistress,\" then at the Halesowen grammar school. In 1732 he matriculated at Pembroke College, Oxford, where his friends included the writers Richard Jago and Richard Graves.\r\n\r\nA small volume of his poetry was privately printed at Oxford in 1737, and \"The Judgement of Hercules\" and \"The Schoolmistress\" appeared anonymously in 1741 and 1742. Shenstone was enrolled at Oxford until 1742, but took no degree.\r\n\r\nAfter the death of his guardian Thomas Dolman in 1745, Shenstone moved onto the Leasowes estate and devoted his life and more than his income to improving the grounds and gardens. The ferme orn\u00e9e style of ornamented landscaping at The Leasowes was an important influence on later English landscape gardening (a term Shenstone may have originated), and the grounds became \"a place to be visited by travellers, and copied by designers,\" as Johnson noted.\r\n\r\nShenstone's occasional poetry continued to appear in Robert Dodsley's Collection of Poems (1748, 1755, 1758), and his friends and correspondents included several literary figures, among them William Somerville, Joseph Spence, Joseph Grainger, Thomas Percy, and the actor Thomas Hull, as well as Lady Luxborough.\r\n\r\nIn early 1763, Shenstone hoped to be granted a pension by Lord Bute, and visited Lord Stamford in pursuit of it. Unfortunately, during his return home he developed a chill and a \"putrid fever,\" and died on February 11, 1763. The unmarried Shenstone had no direct heirs, and left his financially embarrassed estate to his cousin, John Hodgetts. Dodsley published his three-volume Works, which included Shenstone's essay \"Unconnected Thoughts on Gardening,\" in 1764-69.",
+          "publish": true
+        }
+      ],
+      "publish": true
+    }
+  ],
+  "used_within_repositories": [],
+  "used_within_published_repositories": [],
+  "dates_of_existence": [
+    {
+      "create_time": "2023-06-02T21:37:51Z",
+      "system_mtime": "2024-11-20T16:37:43Z",
+      "user_mtime": "2024-11-20T16:33:27Z",
+      "lock_version": 0,
+      "date_type_structured": "range",
+      "date_label": "existence",
+      "jsonmodel_type": "structured_date_label",
+      "structured_date_range": {
+        "begin_date_standardized": "1714-11-18",
+        "end_date_standardized": "1763-02-11",
+        "create_time": "2023-06-02T21:37:51Z",
+        "system_mtime": "2024-11-20T16:37:43Z",
+        "user_mtime": "2024-11-20T16:33:27Z",
+        "lock_version": 0,
+        "begin_date_standardized_type": "standard",
+        "end_date_standardized_type": "standard",
+        "jsonmodel_type": "structured_date_range"
+      }
+    }
+  ],
+  "used_languages": [],
+  "metadata_rights_declarations": [],
+  "names": [
+    {
+      "lock_version": 0,
+      "primary_name": "Shenstone",
+      "rest_of_name": "William",
+      "dates": "1714-1763",
+      "sort_name": "Shenstone, William, 1714-1763",
+      "sort_name_auto_generate": true,
+      "created_by": "sl2624",
+      "last_modified_by": "sl2624",
+      "create_time": "2020-07-23T19:31:26Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "authorized": true,
+      "is_display_name": true,
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "parallel_names": []
+    }
+  ],
+  "agent_genders": [],
+  "related_agents": [],
+  "uri": "/agents/people/89341",
+  "agent_type": "agent_person",
+  "is_linked_to_published_record": true,
+  "display_name": {
+    "lock_version": 0,
+    "primary_name": "Shenstone",
+    "rest_of_name": "William",
+    "dates": "1714-1763",
+    "sort_name": "Shenstone, William, 1714-1763",
+    "sort_name_auto_generate": true,
+    "created_by": "sl2624",
+    "last_modified_by": "sl2624",
+    "create_time": "2020-07-23T19:31:26Z",
+    "system_mtime": "2024-11-20T16:37:00Z",
+    "user_mtime": "2024-11-20T16:32:44Z",
+    "authorized": true,
+    "is_display_name": true,
+    "name_order": "inverted",
+    "jsonmodel_type": "name_person",
+    "use_dates": [],
+    "parallel_names": []
+  },
+  "title": "Shenstone, William, 1714-1763"
+}

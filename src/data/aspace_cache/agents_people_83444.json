@@ -1,0 +1,149 @@
+{
+  "lock_version": 22,
+  "publish": true,
+  "created_by": "lyrasis-dts",
+  "last_modified_by": "sl2624",
+  "create_time": "2018-07-21T04:52:03Z",
+  "system_mtime": "2025-01-06T18:52:13Z",
+  "user_mtime": "2024-11-20T16:30:23Z",
+  "is_slug_auto": false,
+  "jsonmodel_type": "agent_person",
+  "agent_contacts": [],
+  "agent_record_controls": [],
+  "agent_alternate_sets": [],
+  "agent_conventions_declarations": [],
+  "agent_other_agency_codes": [],
+  "agent_maintenance_histories": [],
+  "agent_record_identifiers": [
+    {
+      "primary_identifier": true,
+      "record_identifier": "http://id.loc.gov/authorities/names/nr92034662",
+      "created_by": "admin",
+      "last_modified_by": "admin",
+      "create_time": "2023-06-07T03:43:53Z",
+      "system_mtime": "2024-11-20T16:34:37Z",
+      "user_mtime": "2024-11-20T16:30:23Z",
+      "lock_version": 0,
+      "source": "naf",
+      "jsonmodel_type": "agent_record_identifier"
+    }
+  ],
+  "agent_identifiers": [],
+  "agent_sources": [],
+  "agent_places": [],
+  "agent_occupations": [],
+  "agent_functions": [],
+  "agent_topics": [],
+  "agent_resources": [],
+  "linked_agent_roles": [
+    "creator",
+    "subject"
+  ],
+  "external_documents": [],
+  "notes": [
+    {
+      "jsonmodel_type": "note_bioghist",
+      "subnotes": [
+        {
+          "jsonmodel_type": "note_text",
+          "content": "Charles Firman Kindred was born in Clifton, New Jersey in 1846. Charles and Sarah married on June 15, 1875 in Chicago, Illinois.\r\n\r\nAs early as 1874, Charles F. Kindred was working for the land department of the Northern Pacific Railroad in Minnesota. Later he served as assistant agent for the Great Northern Railroad. Kindred and his wife purchased considerable real estate in Minnesota and North Dakota. Their model farm, located near Valley City, North Dakota, comprised some 6,600 acres. Kindred was President of the Dakota Land Company and invested in a variety of utilities, particularly in Brainerd, Minnesota, where he maintained a home.\r\n\r\nIn 1880, Kindred resigned as assistant land commissioner of the Northern Pacific Railroad. In 1881 he was appointed assistant land commissioner for the Canadian Pacific Railroad Company. He also served as an agent for the Great Northern Railroad. Kindred was active in Republican politics at the local, state, and national levels. He opened a residence in Philadelphia in 1880 and appears to have traveled between Minnesota, North Dakota, and Philadelphia for several years. In 1888, when he became General Agent of the Philadelphia and Reading Railroad, he and his wife moved permanently to Philadelphia, but maintained their investments in western real estate and utilities. In 1900 Kindred purchased the Philadelphia Times, serving as President of the newspaper until it merged with The Public Ledger in 1902.\r\n\r\nKindred died in 1918.",
+          "publish": true
+        }
+      ],
+      "persistent_id": "b56c55d4c9b15c819759b80cd2786575",
+      "publish": true
+    }
+  ],
+  "used_within_repositories": [],
+  "used_within_published_repositories": [],
+  "dates_of_existence": [
+    {
+      "create_time": "2023-06-02T21:37:48Z",
+      "system_mtime": "2024-11-20T16:37:43Z",
+      "user_mtime": "2024-11-20T16:33:27Z",
+      "lock_version": 0,
+      "date_type_structured": "range",
+      "date_label": "existence",
+      "jsonmodel_type": "structured_date_label",
+      "structured_date_range": {
+        "begin_date_standardized": "1846",
+        "end_date_standardized": "1918",
+        "create_time": "2023-06-02T21:37:48Z",
+        "system_mtime": "2024-11-20T16:37:43Z",
+        "user_mtime": "2024-11-20T16:33:27Z",
+        "lock_version": 0,
+        "begin_date_standardized_type": "standard",
+        "end_date_standardized_type": "standard",
+        "jsonmodel_type": "structured_date_range"
+      }
+    }
+  ],
+  "used_languages": [],
+  "metadata_rights_declarations": [],
+  "names": [
+    {
+      "lock_version": 0,
+      "primary_name": "Kindred",
+      "rest_of_name": "Charles F.",
+      "dates": "1847-",
+      "sort_name": "Kindred, Charles F., 1847-",
+      "sort_name_auto_generate": true,
+      "created_by": "sl2624",
+      "last_modified_by": "sl2624",
+      "create_time": "2020-07-15T19:27:48Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "authorized": true,
+      "is_display_name": true,
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "parallel_names": []
+    },
+    {
+      "lock_version": 0,
+      "primary_name": "Kindred",
+      "rest_of_name": "Charles F.",
+      "dates": "b. 1847",
+      "sort_name": "Kindred, Charles F., b. 1847",
+      "sort_name_auto_generate": true,
+      "created_by": "sl2624",
+      "last_modified_by": "sl2624",
+      "create_time": "2020-07-15T19:27:48Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "source": "naf",
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "authorized": false,
+      "is_display_name": false,
+      "parallel_names": []
+    }
+  ],
+  "agent_genders": [],
+  "related_agents": [],
+  "uri": "/agents/people/83444",
+  "agent_type": "agent_person",
+  "is_linked_to_published_record": true,
+  "display_name": {
+    "lock_version": 0,
+    "primary_name": "Kindred",
+    "rest_of_name": "Charles F.",
+    "dates": "1847-",
+    "sort_name": "Kindred, Charles F., 1847-",
+    "sort_name_auto_generate": true,
+    "created_by": "sl2624",
+    "last_modified_by": "sl2624",
+    "create_time": "2020-07-15T19:27:48Z",
+    "system_mtime": "2024-11-20T16:37:00Z",
+    "user_mtime": "2024-11-20T16:32:44Z",
+    "authorized": true,
+    "is_display_name": true,
+    "name_order": "inverted",
+    "jsonmodel_type": "name_person",
+    "use_dates": [],
+    "parallel_names": []
+  },
+  "title": "Kindred, Charles F., 1847-"
+}

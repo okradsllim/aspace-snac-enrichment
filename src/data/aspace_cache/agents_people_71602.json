@@ -1,0 +1,170 @@
+{
+  "lock_version": 231,
+  "publish": true,
+  "created_by": "lyrasis-dts",
+  "last_modified_by": "mc2343",
+  "create_time": "2018-07-21T04:30:49Z",
+  "system_mtime": "2025-01-06T18:24:44Z",
+  "user_mtime": "2024-11-20T16:30:23Z",
+  "is_slug_auto": false,
+  "jsonmodel_type": "agent_person",
+  "agent_contacts": [],
+  "agent_record_controls": [],
+  "agent_alternate_sets": [],
+  "agent_conventions_declarations": [],
+  "agent_other_agency_codes": [],
+  "agent_maintenance_histories": [],
+  "agent_record_identifiers": [
+    {
+      "primary_identifier": true,
+      "record_identifier": "http://id.loc.gov/authorities/names/n79058330",
+      "created_by": "admin",
+      "last_modified_by": "admin",
+      "create_time": "2023-06-07T03:43:53Z",
+      "system_mtime": "2024-11-20T16:34:37Z",
+      "user_mtime": "2024-11-20T16:30:23Z",
+      "lock_version": 0,
+      "source": "naf",
+      "jsonmodel_type": "agent_record_identifier"
+    }
+  ],
+  "agent_identifiers": [],
+  "agent_sources": [],
+  "agent_places": [],
+  "agent_occupations": [],
+  "agent_functions": [],
+  "agent_topics": [],
+  "agent_resources": [],
+  "linked_agent_roles": [
+    "creator",
+    "source",
+    "subject"
+  ],
+  "external_documents": [],
+  "notes": [
+    {
+      "jsonmodel_type": "note_bioghist",
+      "subnotes": [
+        {
+          "jsonmodel_type": "note_text",
+          "content": "Peter Ackroyd, British novelist, critic, poet, biographer, and essayist, was born in London on October 5, 1949, and raised in East Acton. Educated at Saint Benedict's School, Ealing, he graduated from Clare College, Cambridge, in 1971 with a degree in English, and studied at Yale University under a Mellon Foundation fellowship from 1971 to 1973. Ackroyd was the literary editor of the Spectator from 1973 to 1977, and managing editor from 1977 to 1981. He is the author of more than a dozen novels, four books of poetry, and over twenty works of non-fiction, including studies of the cities of London and Venice, the authors Blake, Chaucer, Dickens, Eliot, Poe, Pound, and Shakespeare, and the cultures of Ancient Egypt, Greece, and Rome. Ackroyd has won numerous literary awards, was named Commander of the Order of the British Empire (CBE) in 2003, and was elected to membership in the American Academy of Arts and Sciences in 2006.",
+          "publish": true
+        }
+      ],
+      "persistent_id": "80538da55e3668eb048f5819c012e81a",
+      "publish": true
+    }
+  ],
+  "used_within_repositories": [],
+  "used_within_published_repositories": [],
+  "dates_of_existence": [
+    {
+      "create_time": "2023-06-02T21:37:29Z",
+      "system_mtime": "2024-11-20T16:37:43Z",
+      "user_mtime": "2024-11-20T16:33:27Z",
+      "lock_version": 0,
+      "date_type_structured": "single",
+      "date_label": "existence",
+      "jsonmodel_type": "structured_date_label",
+      "structured_date_single": {
+        "date_expression": "October 5, 1949",
+        "date_standardized": "1949-10-05",
+        "create_time": "2023-06-02T21:37:29Z",
+        "system_mtime": "2024-11-20T16:37:43Z",
+        "user_mtime": "2024-11-20T16:33:27Z",
+        "lock_version": 0,
+        "date_role": "begin",
+        "date_standardized_type": "standard",
+        "jsonmodel_type": "structured_date_single"
+      }
+    }
+  ],
+  "used_languages": [],
+  "metadata_rights_declarations": [],
+  "names": [
+    {
+      "lock_version": 0,
+      "primary_name": "Ackroyd",
+      "rest_of_name": "Peter",
+      "dates": "1949-",
+      "sort_name": "Ackroyd, Peter, 1949-",
+      "sort_name_auto_generate": true,
+      "created_by": "mc2343",
+      "last_modified_by": "mc2343",
+      "create_time": "2020-05-26T18:37:13Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "authorized": true,
+      "is_display_name": true,
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "parallel_names": []
+    },
+    {
+      "lock_version": 0,
+      "primary_name": "Akro\u012dd",
+      "rest_of_name": "Piter",
+      "dates": "1949-",
+      "sort_name": "Akro\u012dd, Piter, 1949-",
+      "sort_name_auto_generate": true,
+      "created_by": "mc2343",
+      "last_modified_by": "mc2343",
+      "create_time": "2020-05-26T18:37:13Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "source": "naf",
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "authorized": false,
+      "is_display_name": false,
+      "parallel_names": []
+    },
+    {
+      "lock_version": 0,
+      "primary_name": "\u0410\u043a\u0440\u043e\u0439\u0434",
+      "rest_of_name": "\u041f\u0438\u0442\u0435\u0440",
+      "dates": "1949-",
+      "sort_name": "\u0410\u043a\u0440\u043e\u0439\u0434, \u041f\u0438\u0442\u0435\u0440, 1949-",
+      "sort_name_auto_generate": true,
+      "created_by": "mc2343",
+      "last_modified_by": "mc2343",
+      "create_time": "2020-05-26T18:37:13Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "source": "naf",
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "authorized": false,
+      "is_display_name": false,
+      "parallel_names": []
+    }
+  ],
+  "agent_genders": [],
+  "related_agents": [],
+  "uri": "/agents/people/71602",
+  "agent_type": "agent_person",
+  "is_linked_to_published_record": true,
+  "display_name": {
+    "lock_version": 0,
+    "primary_name": "Ackroyd",
+    "rest_of_name": "Peter",
+    "dates": "1949-",
+    "sort_name": "Ackroyd, Peter, 1949-",
+    "sort_name_auto_generate": true,
+    "created_by": "mc2343",
+    "last_modified_by": "mc2343",
+    "create_time": "2020-05-26T18:37:13Z",
+    "system_mtime": "2024-11-20T16:37:00Z",
+    "user_mtime": "2024-11-20T16:32:44Z",
+    "authorized": true,
+    "is_display_name": true,
+    "name_order": "inverted",
+    "jsonmodel_type": "name_person",
+    "use_dates": [],
+    "parallel_names": []
+  },
+  "title": "Ackroyd, Peter, 1949-"
+}

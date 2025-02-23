@@ -1,0 +1,108 @@
+{
+  "lock_version": 8,
+  "publish": true,
+  "created_by": "lyrasis-dts",
+  "last_modified_by": "mf325",
+  "create_time": "2018-07-21T05:01:48Z",
+  "system_mtime": "2025-01-06T18:40:42Z",
+  "user_mtime": "2024-11-20T16:30:23Z",
+  "is_slug_auto": false,
+  "jsonmodel_type": "agent_person",
+  "agent_contacts": [],
+  "agent_record_controls": [],
+  "agent_alternate_sets": [],
+  "agent_conventions_declarations": [],
+  "agent_other_agency_codes": [],
+  "agent_maintenance_histories": [],
+  "agent_record_identifiers": [
+    {
+      "primary_identifier": true,
+      "record_identifier": "http://id.loc.gov/authorities/names/n96006766",
+      "created_by": "admin",
+      "last_modified_by": "admin",
+      "create_time": "2023-06-07T03:43:53Z",
+      "system_mtime": "2024-11-20T16:34:37Z",
+      "user_mtime": "2024-11-20T16:30:23Z",
+      "lock_version": 0,
+      "source": "naf",
+      "jsonmodel_type": "agent_record_identifier"
+    }
+  ],
+  "agent_identifiers": [],
+  "agent_sources": [],
+  "agent_places": [],
+  "agent_occupations": [],
+  "agent_functions": [],
+  "agent_topics": [],
+  "agent_resources": [],
+  "linked_agent_roles": [
+    "creator",
+    "subject"
+  ],
+  "external_documents": [],
+  "notes": [
+    {
+      "jsonmodel_type": "note_bioghist",
+      "subnotes": [
+        {
+          "jsonmodel_type": "note_text",
+          "content": "Tasker Howard Bliss (1853-1930), American military officer and diplomat ",
+          "publish": true
+        }
+      ],
+      "persistent_id": "fda658147c2b8820c86d9e2f18c31548",
+      "publish": true
+    }
+  ],
+  "used_within_repositories": [],
+  "used_within_published_repositories": [],
+  "dates_of_existence": [],
+  "used_languages": [],
+  "metadata_rights_declarations": [],
+  "names": [
+    {
+      "lock_version": 0,
+      "primary_name": "Bliss",
+      "rest_of_name": "Tasker Howard",
+      "dates": "1853-1930",
+      "sort_name": "Bliss, Tasker Howard, 1853-1930",
+      "sort_name_auto_generate": true,
+      "created_by": "mf325",
+      "last_modified_by": "mf325",
+      "create_time": "2020-08-10T14:07:28Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "authorized": true,
+      "is_display_name": true,
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "parallel_names": []
+    }
+  ],
+  "agent_genders": [],
+  "related_agents": [],
+  "uri": "/agents/people/88093",
+  "agent_type": "agent_person",
+  "is_linked_to_published_record": true,
+  "display_name": {
+    "lock_version": 0,
+    "primary_name": "Bliss",
+    "rest_of_name": "Tasker Howard",
+    "dates": "1853-1930",
+    "sort_name": "Bliss, Tasker Howard, 1853-1930",
+    "sort_name_auto_generate": true,
+    "created_by": "mf325",
+    "last_modified_by": "mf325",
+    "create_time": "2020-08-10T14:07:28Z",
+    "system_mtime": "2024-11-20T16:37:00Z",
+    "user_mtime": "2024-11-20T16:32:44Z",
+    "authorized": true,
+    "is_display_name": true,
+    "name_order": "inverted",
+    "jsonmodel_type": "name_person",
+    "use_dates": [],
+    "parallel_names": []
+  },
+  "title": "Bliss, Tasker Howard, 1853-1930"
+}

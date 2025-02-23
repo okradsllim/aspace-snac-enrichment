@@ -1,0 +1,172 @@
+{
+  "lock_version": 11,
+  "publish": true,
+  "created_by": "lyrasis-dts",
+  "last_modified_by": "sl2624",
+  "create_time": "2018-07-21T04:48:36Z",
+  "system_mtime": "2025-01-06T18:34:01Z",
+  "user_mtime": "2024-11-20T16:30:23Z",
+  "is_slug_auto": false,
+  "jsonmodel_type": "agent_person",
+  "agent_contacts": [],
+  "agent_record_controls": [],
+  "agent_alternate_sets": [],
+  "agent_conventions_declarations": [],
+  "agent_other_agency_codes": [],
+  "agent_maintenance_histories": [],
+  "agent_record_identifiers": [
+    {
+      "primary_identifier": true,
+      "record_identifier": "http://id.loc.gov/authorities/names/n50062643",
+      "created_by": "admin",
+      "last_modified_by": "admin",
+      "create_time": "2023-06-07T03:43:53Z",
+      "system_mtime": "2024-11-20T16:34:37Z",
+      "user_mtime": "2024-11-20T16:30:23Z",
+      "lock_version": 0,
+      "source": "naf",
+      "jsonmodel_type": "agent_record_identifier"
+    }
+  ],
+  "agent_identifiers": [],
+  "agent_sources": [],
+  "agent_places": [],
+  "agent_occupations": [],
+  "agent_functions": [],
+  "agent_topics": [],
+  "agent_resources": [],
+  "linked_agent_roles": [
+    "creator"
+  ],
+  "external_documents": [],
+  "notes": [
+    {
+      "jsonmodel_type": "note_bioghist",
+      "persistent_id": "8c7aa7a58fa342231c9810e4e9088bc8",
+      "subnotes": [
+        {
+          "jsonmodel_type": "note_text",
+          "content": "Alice Pearl Raphael was born on June 22, 1887 in Brownsville, Texas. She attended Barnard College in New York City and studied music in Germany. Raphael later lived in Zurich and studied with Carl Gustav Jung and Fritz Wittels and was a lay analyst for several years. Raphael focused for many years on her translation of Johann Wolfgang von Goethe's Faust: A Tragedy Part One and Faust: A Tragedy Part Two. Her friend William A. Speck, curator of his own collection at Yale University's Collection of German Literature, assisted her in the translation until his death in 1928. Carl Schreiber, who oversaw the Speck Collection following Speck's death, befriended Raphael and continued assistance with her translations. In 1939, Raphael met Curt von Faber du Faur, who in 1944 became curator of Yale's Collection of German Literature and university faculty member. Raphael and Faber du Faur were close colleagues and friends until Faber du Faur died in 1966.\r\n\r\nRaphael published several articles, reviews, and the 1965 book Goethe and the Philosophers' Stone: Symbolical Patterns in 'The Parable' and the Second Part of 'Faust'. This book analyses Goethe in the context of Jungian theory. In the 1920s, Raphael was interested in drawing and studied drawing in Washington, CT. She preferred colored pencils and expressed herself through a method that she called \"spontaneous creative expression.\"\r\n\r\nRaphael lived in Manhattan for most of her life, where she founded the Analytical Psychology Club of New York and was an active member of the Society for Psychical Research. She married Henry Eckstein in 1911 and had two daughters. Raphael died in Manhattan on August 27, 1975.",
+          "publish": true
+        }
+      ],
+      "publish": true
+    }
+  ],
+  "used_within_repositories": [],
+  "used_within_published_repositories": [],
+  "dates_of_existence": [
+    {
+      "create_time": "2023-06-02T21:38:51Z",
+      "system_mtime": "2024-11-20T16:37:43Z",
+      "user_mtime": "2024-11-20T16:33:27Z",
+      "lock_version": 0,
+      "date_type_structured": "range",
+      "date_label": "existence",
+      "jsonmodel_type": "structured_date_label",
+      "structured_date_range": {
+        "begin_date_standardized": "1887",
+        "end_date_standardized": "1975",
+        "create_time": "2023-06-02T21:38:51Z",
+        "system_mtime": "2024-11-20T16:37:43Z",
+        "user_mtime": "2024-11-20T16:33:27Z",
+        "lock_version": 0,
+        "begin_date_standardized_type": "standard",
+        "end_date_standardized_type": "standard",
+        "jsonmodel_type": "structured_date_range"
+      }
+    }
+  ],
+  "used_languages": [],
+  "metadata_rights_declarations": [],
+  "names": [
+    {
+      "lock_version": 0,
+      "primary_name": "Raphael",
+      "rest_of_name": "Alice",
+      "dates": "1887-1975",
+      "sort_name": "Raphael, Alice, 1887-1975",
+      "sort_name_auto_generate": true,
+      "created_by": "sl2624",
+      "last_modified_by": "sl2624",
+      "create_time": "2020-10-01T12:14:39Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "authorized": true,
+      "is_display_name": true,
+      "rules": "aacr",
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "parallel_names": []
+    },
+    {
+      "lock_version": 0,
+      "primary_name": "Raphael",
+      "rest_of_name": "Alice Pearl",
+      "dates": "1887-",
+      "sort_name": "Raphael, Alice Pearl, 1887-",
+      "sort_name_auto_generate": true,
+      "created_by": "sl2624",
+      "last_modified_by": "sl2624",
+      "create_time": "2020-10-01T12:14:39Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "source": "naf",
+      "rules": "aacr",
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "authorized": false,
+      "is_display_name": false,
+      "parallel_names": []
+    },
+    {
+      "lock_version": 0,
+      "primary_name": "Eckstein",
+      "rest_of_name": "Alice Pearl Raphael",
+      "dates": "1887-1975",
+      "sort_name": "Eckstein, Alice Pearl Raphael, 1887-1975",
+      "sort_name_auto_generate": true,
+      "created_by": "sl2624",
+      "last_modified_by": "sl2624",
+      "create_time": "2020-10-01T12:14:39Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "source": "naf",
+      "rules": "aacr",
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "authorized": false,
+      "is_display_name": false,
+      "parallel_names": []
+    }
+  ],
+  "agent_genders": [],
+  "related_agents": [],
+  "uri": "/agents/people/81486",
+  "agent_type": "agent_person",
+  "is_linked_to_published_record": true,
+  "display_name": {
+    "lock_version": 0,
+    "primary_name": "Raphael",
+    "rest_of_name": "Alice",
+    "dates": "1887-1975",
+    "sort_name": "Raphael, Alice, 1887-1975",
+    "sort_name_auto_generate": true,
+    "created_by": "sl2624",
+    "last_modified_by": "sl2624",
+    "create_time": "2020-10-01T12:14:39Z",
+    "system_mtime": "2024-11-20T16:37:00Z",
+    "user_mtime": "2024-11-20T16:32:44Z",
+    "authorized": true,
+    "is_display_name": true,
+    "rules": "aacr",
+    "name_order": "inverted",
+    "jsonmodel_type": "name_person",
+    "use_dates": [],
+    "parallel_names": []
+  },
+  "title": "Raphael, Alice, 1887-1975"
+}

@@ -1,0 +1,149 @@
+{
+  "lock_version": 169,
+  "publish": true,
+  "created_by": "lyrasis-dts",
+  "last_modified_by": "sl2624",
+  "create_time": "2018-07-21T04:40:53Z",
+  "system_mtime": "2025-01-06T18:33:56Z",
+  "user_mtime": "2024-11-20T16:30:23Z",
+  "is_slug_auto": false,
+  "jsonmodel_type": "agent_person",
+  "agent_contacts": [],
+  "agent_record_controls": [],
+  "agent_alternate_sets": [],
+  "agent_conventions_declarations": [],
+  "agent_other_agency_codes": [],
+  "agent_maintenance_histories": [],
+  "agent_record_identifiers": [
+    {
+      "primary_identifier": true,
+      "record_identifier": "http://id.loc.gov/authorities/names/n88098481",
+      "created_by": "admin",
+      "last_modified_by": "admin",
+      "create_time": "2023-06-07T03:43:53Z",
+      "system_mtime": "2024-11-20T16:34:37Z",
+      "user_mtime": "2024-11-20T16:30:23Z",
+      "lock_version": 0,
+      "source": "naf",
+      "jsonmodel_type": "agent_record_identifier"
+    }
+  ],
+  "agent_identifiers": [],
+  "agent_sources": [],
+  "agent_places": [],
+  "agent_occupations": [],
+  "agent_functions": [],
+  "agent_topics": [],
+  "agent_resources": [],
+  "linked_agent_roles": [
+    "creator",
+    "subject"
+  ],
+  "external_documents": [],
+  "notes": [
+    {
+      "jsonmodel_type": "note_bioghist",
+      "persistent_id": "f582ed39a030d214f5569f0828404555",
+      "subnotes": [
+        {
+          "jsonmodel_type": "note_text",
+          "content": "Frank Stanford was born in southeast Mississippi in 1948. In the following year he was adopted by Dorothy Gilbert, and in 1952 relocated to Arkansas when Gilbert married Albert Franklin Stanford. Remembered as a bright and athletic child in his early youth, the young Frank Stanford was greatly affected by the knowledge of his adoption. He entered the University of Arkansas in 1967 as a student of Civil Engineering, but later on switched to study literature, and was well known in the Fayetteville literary community for his poetry. He wrote poems for the student literary magazine, Preview, and many of the early poems following his college years were published in journals such as Field, Ironwood, and American Poetry Review.\r\n\r\nStanford left college without earning a degree. In 1970 he met Irving Broughton, editor and publisher of Mill Mountain Press, who published Stanford's first book, The Singing Knives. Between 1970-76, Mill Mountain published five more of Stanford's books. Also in the early 70s, Broughton and Stanford made a documentary film about Stanford's work and life. The film, It Wasn\u2019t a Dream it Was a Flood, won the Best Experimental Film Award at the West Coast Film Festival in 1975. The following year saw the birth of Stanford's own publishing company, Lost Roads Publishers. Lost Roads sought to \"reclaim the landscape of American poetry\" by publishing little known authors, whom the poet C.D. Wright, succeeding Stanford as editor, called the \"the beautiful wild poets we grow from the road.\" In 1977, Lost Roads Publishers and Mill Mountain Press joint-published Stanford's epic poem, The Battlefield Where the Moon Says I Love You, a manuscript of over 15,000 lines of poetry that Stanford had been working on sporadically since his early teenage years.\r\n\r\nStanford was well aware of the unique sensitivity that marked him apart from others even in childhood. \"When the rest of you / Were being children / I became a monk / To my own listening / Imagination.\" Elsewhere, Stanford speaks of Death, which he imagines as a fisherman in a boat: \"Young as I am I / Hold light for this boat.\" Amongst Stanford's most powerful poems are his reflections on this shadow from which none return. Franz Wright called him \"one of the great voices of Death.\" With uncanny insight and beauty, Stanford's poems often seek to portray and imagine Death, which was, in Wright's words, \"his biggest love affair.\"\r\n\r\nOn June 3 1978, at the age of 29, Stanford took his own life in his home in Fayetteville, Arkansas. His chapbook Crib Death came out shortly afterwards. Lost Roads published more of his poems in You in 1979, and a collection of his short fiction Conditions Uncertain And Likely To Pass Away in 1990. The following year the University of Arkansas Press published The Light the Dead See: Selected Poems of Frank Stanford.",
+          "publish": true
+        }
+      ],
+      "publish": true
+    }
+  ],
+  "used_within_repositories": [],
+  "used_within_published_repositories": [],
+  "dates_of_existence": [
+    {
+      "create_time": "2023-06-02T21:37:46Z",
+      "system_mtime": "2024-11-20T16:37:43Z",
+      "user_mtime": "2024-11-20T16:33:27Z",
+      "lock_version": 0,
+      "date_type_structured": "range",
+      "date_label": "existence",
+      "jsonmodel_type": "structured_date_label",
+      "structured_date_range": {
+        "begin_date_standardized": "1949-08-01",
+        "end_date_standardized": "1978-06-03",
+        "create_time": "2023-06-02T21:37:46Z",
+        "system_mtime": "2024-11-20T16:37:43Z",
+        "user_mtime": "2024-11-20T16:33:27Z",
+        "lock_version": 0,
+        "begin_date_standardized_type": "standard",
+        "end_date_standardized_type": "standard",
+        "jsonmodel_type": "structured_date_range"
+      }
+    }
+  ],
+  "used_languages": [],
+  "metadata_rights_declarations": [],
+  "names": [
+    {
+      "lock_version": 0,
+      "primary_name": "Stanford",
+      "rest_of_name": "Frank",
+      "dates": "1949-1978",
+      "sort_name": "Stanford, Frank, 1949-1978",
+      "sort_name_auto_generate": true,
+      "created_by": "sl2624",
+      "last_modified_by": "sl2624",
+      "create_time": "2020-07-09T12:34:42Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "authorized": true,
+      "is_display_name": true,
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "parallel_names": []
+    },
+    {
+      "lock_version": 0,
+      "primary_name": "Stanford",
+      "rest_of_name": "Francis Gildart",
+      "dates": "1949-1978",
+      "sort_name": "Stanford, Francis Gildart, 1949-1978",
+      "sort_name_auto_generate": true,
+      "created_by": "sl2624",
+      "last_modified_by": "sl2624",
+      "create_time": "2020-07-09T12:34:42Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "source": "naf",
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "authorized": false,
+      "is_display_name": false,
+      "parallel_names": []
+    }
+  ],
+  "agent_genders": [],
+  "related_agents": [],
+  "uri": "/agents/people/77189",
+  "agent_type": "agent_person",
+  "is_linked_to_published_record": true,
+  "display_name": {
+    "lock_version": 0,
+    "primary_name": "Stanford",
+    "rest_of_name": "Frank",
+    "dates": "1949-1978",
+    "sort_name": "Stanford, Frank, 1949-1978",
+    "sort_name_auto_generate": true,
+    "created_by": "sl2624",
+    "last_modified_by": "sl2624",
+    "create_time": "2020-07-09T12:34:42Z",
+    "system_mtime": "2024-11-20T16:37:00Z",
+    "user_mtime": "2024-11-20T16:32:44Z",
+    "authorized": true,
+    "is_display_name": true,
+    "name_order": "inverted",
+    "jsonmodel_type": "name_person",
+    "use_dates": [],
+    "parallel_names": []
+  },
+  "title": "Stanford, Frank, 1949-1978"
+}

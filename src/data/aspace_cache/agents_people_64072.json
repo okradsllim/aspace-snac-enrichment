@@ -1,0 +1,131 @@
+{
+  "lock_version": 34,
+  "publish": true,
+  "created_by": "lyrasis-dts",
+  "last_modified_by": "sl2624",
+  "create_time": "2018-07-21T04:17:18Z",
+  "system_mtime": "2025-01-06T18:48:18Z",
+  "user_mtime": "2024-11-20T16:30:23Z",
+  "is_slug_auto": false,
+  "jsonmodel_type": "agent_person",
+  "agent_contacts": [],
+  "agent_record_controls": [],
+  "agent_alternate_sets": [],
+  "agent_conventions_declarations": [],
+  "agent_other_agency_codes": [],
+  "agent_maintenance_histories": [],
+  "agent_record_identifiers": [
+    {
+      "primary_identifier": true,
+      "record_identifier": "http://id.loc.gov/authorities/names/nr94023660",
+      "created_by": "admin",
+      "last_modified_by": "admin",
+      "create_time": "2023-06-07T03:43:53Z",
+      "system_mtime": "2024-11-20T16:34:37Z",
+      "user_mtime": "2024-11-20T16:30:23Z",
+      "lock_version": 0,
+      "source": "naf",
+      "jsonmodel_type": "agent_record_identifier"
+    }
+  ],
+  "agent_identifiers": [],
+  "agent_sources": [],
+  "agent_places": [],
+  "agent_occupations": [],
+  "agent_functions": [],
+  "agent_topics": [],
+  "agent_resources": [],
+  "linked_agent_roles": [
+    "creator",
+    "subject"
+  ],
+  "external_documents": [],
+  "notes": [
+    {
+      "jsonmodel_type": "note_bioghist",
+      "persistent_id": "92018d6c8ccf96d6ebce592e77f2ac51",
+      "subnotes": [
+        {
+          "jsonmodel_type": "note_text",
+          "content": "David Smith was born in Bozrah, New London County, Connecticut, on December 13, 1767, the son of Captain Ebenezer Smith, who had served in the American Revolution, and his wife Sarah. At age three he moved with his family to Berkshire, Massachusetts, and grew up on the family farm there. When Smith was 16 or 17 he married Betsy Marsh, and the couple had one son, David Marsh. His wife's death on August 11, 1789, inspired Smith to prepare for college, which he at first did independently and then with Rev. Jacob Catlin of New Marlborough, Massachusetts.\r\n\r\nIn 1792, Smith was accepted at Yale College as a sophomore and graduated three years later with the Class of 1795. Following college he taught school in Sheffield, Massachusetts, and in 1796 began study in theology with Rev. Ephraim Judson of Sheffield. Smith was licensed to preach by the Association of Berkshire County in October 1796. On February 10, 1799, he preached in Durham, Connecticut, and soon after was asked by the town to settle there as the second minister of Durham, succeeding Rev. Elizur Goodrich (1734-1797, Yale 1752). Smith married as his second wife Catharine Goodrich (1776-1845), the daughter of Rev. Goodrich.\r\n\r\nIn 1821 David Smith was elected one of the Fellows of Yale College, and held this position forty years until he tendered his resignation the close of the session in 1861; he was never absent from a regular meeting of the corporation. In 1830 he received an honorary Doctor of Divinity degree from Hamilton College. Smith retired from the ministry in 1833 and pursued farming. During his later years he preached occasionally in towns around Durham, and died March 5, 1862, at the home of his daughter Catherine Ellsworth in Fair Haven, Connecticut, at age 94.",
+          "publish": true
+        }
+      ],
+      "publish": true
+    }
+  ],
+  "used_within_repositories": [],
+  "used_within_published_repositories": [],
+  "dates_of_existence": [
+    {
+      "create_time": "2023-06-02T21:37:49Z",
+      "system_mtime": "2024-11-20T16:37:43Z",
+      "user_mtime": "2024-11-20T16:33:27Z",
+      "lock_version": 0,
+      "date_type_structured": "range",
+      "date_label": "existence",
+      "jsonmodel_type": "structured_date_label",
+      "structured_date_range": {
+        "begin_date_standardized": "1767",
+        "end_date_standardized": "1862",
+        "create_time": "2023-06-02T21:37:49Z",
+        "system_mtime": "2024-11-20T16:37:43Z",
+        "user_mtime": "2024-11-20T16:33:27Z",
+        "lock_version": 0,
+        "begin_date_standardized_type": "standard",
+        "end_date_standardized_type": "standard",
+        "jsonmodel_type": "structured_date_range"
+      }
+    }
+  ],
+  "used_languages": [],
+  "metadata_rights_declarations": [],
+  "names": [
+    {
+      "lock_version": 0,
+      "primary_name": "Smith",
+      "rest_of_name": "David",
+      "dates": "1767-1862",
+      "sort_name": "Smith, David, 1767-1862",
+      "sort_name_auto_generate": true,
+      "created_by": "sl2624",
+      "last_modified_by": "sl2624",
+      "create_time": "2020-07-20T19:14:28Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "authorized": true,
+      "is_display_name": true,
+      "rules": "aacr",
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "parallel_names": []
+    }
+  ],
+  "agent_genders": [],
+  "related_agents": [],
+  "uri": "/agents/people/64072",
+  "agent_type": "agent_person",
+  "is_linked_to_published_record": true,
+  "display_name": {
+    "lock_version": 0,
+    "primary_name": "Smith",
+    "rest_of_name": "David",
+    "dates": "1767-1862",
+    "sort_name": "Smith, David, 1767-1862",
+    "sort_name_auto_generate": true,
+    "created_by": "sl2624",
+    "last_modified_by": "sl2624",
+    "create_time": "2020-07-20T19:14:28Z",
+    "system_mtime": "2024-11-20T16:37:00Z",
+    "user_mtime": "2024-11-20T16:32:44Z",
+    "authorized": true,
+    "is_display_name": true,
+    "rules": "aacr",
+    "name_order": "inverted",
+    "jsonmodel_type": "name_person",
+    "use_dates": [],
+    "parallel_names": []
+  },
+  "title": "Smith, David, 1767-1862"
+}

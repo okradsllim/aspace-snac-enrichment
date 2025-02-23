@@ -1,0 +1,170 @@
+{
+  "lock_version": 24,
+  "publish": true,
+  "created_by": "lyrasis-dts",
+  "last_modified_by": "sl2624",
+  "create_time": "2018-07-21T05:13:32Z",
+  "system_mtime": "2025-01-06T18:31:27Z",
+  "user_mtime": "2024-11-20T16:30:23Z",
+  "is_slug_auto": false,
+  "jsonmodel_type": "agent_person",
+  "agent_contacts": [],
+  "agent_record_controls": [],
+  "agent_alternate_sets": [],
+  "agent_conventions_declarations": [],
+  "agent_other_agency_codes": [],
+  "agent_maintenance_histories": [],
+  "agent_record_identifiers": [
+    {
+      "primary_identifier": true,
+      "record_identifier": "http://id.loc.gov/authorities/names/n85823877",
+      "created_by": "admin",
+      "last_modified_by": "admin",
+      "create_time": "2023-06-07T03:43:53Z",
+      "system_mtime": "2024-11-20T16:34:37Z",
+      "user_mtime": "2024-11-20T16:30:23Z",
+      "lock_version": 0,
+      "source": "naf",
+      "jsonmodel_type": "agent_record_identifier"
+    }
+  ],
+  "agent_identifiers": [],
+  "agent_sources": [],
+  "agent_places": [],
+  "agent_occupations": [],
+  "agent_functions": [],
+  "agent_topics": [],
+  "agent_resources": [],
+  "linked_agent_roles": [
+    "creator",
+    "subject"
+  ],
+  "external_documents": [],
+  "notes": [
+    {
+      "jsonmodel_type": "note_bioghist",
+      "persistent_id": "ccc739c5efc0f65eb8716ddfe88f7eb2",
+      "subnotes": [
+        {
+          "jsonmodel_type": "note_text",
+          "content": "The Broadway producer Philip Rose was born in Manhattan on July 4, 1921, to Polish immigrants Max and Esther Rosenberg, the fourth of their five children. The family moved to Washington, D.C. in the 1930s, where Max Rosenberg opened a haberdashery, and the young Philip Rosenberg spent much of his time in the city's African American neighborhoods, initially through his work as a bill collector. He moved to New York in 1945 to pursue a career as a singer, changing his name to Philip Rose at that time. He met his wife, the actress Doris Belack, in 1946 while performing in a Gilbert and Sullivan production.\r\n\r\nRose enjoyed modest success as a music producer before becoming involved with the theatre in the 1950s, a change that came about when he read his friend Lorraine Hansberry's play, A Raisin in the Sun, a drama about an African American family in Chicago. Despite widespread skepticism about the commercial viability of the subject matter at the time, and with little experience in the theatre, Rose determined to bring the play to the stage. A Raisin in the Sun debuted in New Haven in 1958, directed by Lloyd Richards and with a cast including Sidney Poitier, Ruby Dee, and Diana Sands. After touring to Philadelphia and Chicago, it opened at the Ethel Barrymore Theatre in New York in March of 1959, breaking ground as the first play by a black woman and the first with a black director to open on Broadway. That year Hansberry won the New York Drama Critics\u2019 Circle Award for Best Play, and the production was nominated for four Tony Awards. The play's critical and commercial success had a lasting effect on American theatre and on cultural attitudes.\r\n\r\nRose went on to produce more than twenty other plays and musicals, the most successful among them being Purlie Victorious, a comedy about race relations in the South by Ossie Davis (1961); The Owl and The Pussycat (1964), which starred Alan Alda and Diana Sands in an interracial romance; Purlie, a musical based on the play (1970); and Shenandoah, a musical set during the Civil War (1975).\r\n\r\nRose died of a stroke on May 31, 2011 in Englewood, New Jersey.",
+          "publish": true
+        }
+      ],
+      "publish": true
+    }
+  ],
+  "used_within_repositories": [],
+  "used_within_published_repositories": [],
+  "dates_of_existence": [
+    {
+      "create_time": "2023-06-02T21:38:45Z",
+      "system_mtime": "2024-11-20T16:37:43Z",
+      "user_mtime": "2024-11-20T16:33:27Z",
+      "lock_version": 0,
+      "date_type_structured": "range",
+      "date_label": "existence",
+      "jsonmodel_type": "structured_date_label",
+      "structured_date_range": {
+        "begin_date_standardized": "1921-07-04",
+        "end_date_standardized": "2011-05-31",
+        "create_time": "2023-06-02T21:38:45Z",
+        "system_mtime": "2024-11-20T16:37:43Z",
+        "user_mtime": "2024-11-20T16:33:27Z",
+        "lock_version": 0,
+        "begin_date_standardized_type": "standard",
+        "end_date_standardized_type": "standard",
+        "jsonmodel_type": "structured_date_range"
+      }
+    }
+  ],
+  "used_languages": [],
+  "metadata_rights_declarations": [],
+  "names": [
+    {
+      "lock_version": 0,
+      "primary_name": "Rose",
+      "rest_of_name": "Philip",
+      "dates": "1921-2011",
+      "sort_name": "Rose, Philip, 1921-2011",
+      "sort_name_auto_generate": true,
+      "created_by": "sl2624",
+      "last_modified_by": "sl2624",
+      "create_time": "2020-09-14T11:36:56Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "authorized": true,
+      "is_display_name": true,
+      "rules": "aacr",
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "parallel_names": []
+    },
+    {
+      "lock_version": 0,
+      "primary_name": "Rose",
+      "dates": "1921-2011",
+      "sort_name": "Rose, 1921-2011",
+      "sort_name_auto_generate": true,
+      "created_by": "sl2624",
+      "last_modified_by": "sl2624",
+      "create_time": "2020-09-14T11:36:56Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "source": "naf",
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "authorized": false,
+      "is_display_name": false,
+      "parallel_names": []
+    },
+    {
+      "lock_version": 0,
+      "primary_name": "Rosenberg",
+      "rest_of_name": "Philip",
+      "dates": "1921-2011",
+      "sort_name": "Rosenberg, Philip, 1921-2011",
+      "sort_name_auto_generate": true,
+      "created_by": "sl2624",
+      "last_modified_by": "sl2624",
+      "create_time": "2020-09-14T11:36:56Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "source": "naf",
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "authorized": false,
+      "is_display_name": false,
+      "parallel_names": []
+    }
+  ],
+  "agent_genders": [],
+  "related_agents": [],
+  "uri": "/agents/people/91783",
+  "agent_type": "agent_person",
+  "is_linked_to_published_record": true,
+  "display_name": {
+    "lock_version": 0,
+    "primary_name": "Rose",
+    "rest_of_name": "Philip",
+    "dates": "1921-2011",
+    "sort_name": "Rose, Philip, 1921-2011",
+    "sort_name_auto_generate": true,
+    "created_by": "sl2624",
+    "last_modified_by": "sl2624",
+    "create_time": "2020-09-14T11:36:56Z",
+    "system_mtime": "2024-11-20T16:37:00Z",
+    "user_mtime": "2024-11-20T16:32:44Z",
+    "authorized": true,
+    "is_display_name": true,
+    "rules": "aacr",
+    "name_order": "inverted",
+    "jsonmodel_type": "name_person",
+    "use_dates": [],
+    "parallel_names": []
+  },
+  "title": "Rose, Philip, 1921-2011"
+}

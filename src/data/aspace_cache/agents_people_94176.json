@@ -1,0 +1,143 @@
+{
+  "lock_version": 41,
+  "publish": true,
+  "created_by": "mbg25",
+  "last_modified_by": "mf325",
+  "create_time": "2019-02-05T19:03:36Z",
+  "system_mtime": "2025-01-06T18:52:13Z",
+  "user_mtime": "2024-11-20T16:30:23Z",
+  "is_slug_auto": false,
+  "jsonmodel_type": "agent_person",
+  "agent_contacts": [],
+  "agent_record_controls": [],
+  "agent_alternate_sets": [],
+  "agent_conventions_declarations": [],
+  "agent_other_agency_codes": [],
+  "agent_maintenance_histories": [],
+  "agent_record_identifiers": [
+    {
+      "primary_identifier": true,
+      "record_identifier": "http://id.loc.gov/authorities/names/n80062617",
+      "created_by": "admin",
+      "last_modified_by": "admin",
+      "create_time": "2023-06-07T03:43:53Z",
+      "system_mtime": "2024-11-20T16:34:37Z",
+      "user_mtime": "2024-11-20T16:30:23Z",
+      "lock_version": 0,
+      "source": "naf",
+      "jsonmodel_type": "agent_record_identifier"
+    }
+  ],
+  "agent_identifiers": [],
+  "agent_sources": [],
+  "agent_places": [],
+  "agent_occupations": [],
+  "agent_functions": [],
+  "agent_topics": [],
+  "agent_resources": [],
+  "linked_agent_roles": [
+    "creator"
+  ],
+  "external_documents": [],
+  "notes": [
+    {
+      "jsonmodel_type": "note_bioghist",
+      "subnotes": [
+        {
+          "jsonmodel_type": "note_text",
+          "content": "Dan Aykroyd (1952-), Canadian actor and comedian",
+          "publish": true
+        }
+      ],
+      "persistent_id": "01953cdcdbcf2db189c246edea8a1843",
+      "publish": true
+    }
+  ],
+  "used_within_repositories": [],
+  "used_within_published_repositories": [],
+  "dates_of_existence": [],
+  "used_languages": [],
+  "metadata_rights_declarations": [],
+  "names": [
+    {
+      "lock_version": 0,
+      "primary_name": "Aykroyd",
+      "rest_of_name": "Dan",
+      "sort_name": "Aykroyd, Dan",
+      "sort_name_auto_generate": true,
+      "created_by": "mf325",
+      "last_modified_by": "mf325",
+      "create_time": "2020-07-27T14:24:33Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "authorized": true,
+      "is_display_name": true,
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "parallel_names": []
+    },
+    {
+      "lock_version": 0,
+      "primary_name": "Blues",
+      "rest_of_name": "Elwood",
+      "sort_name": "Blues, Elwood",
+      "sort_name_auto_generate": true,
+      "created_by": "mf325",
+      "last_modified_by": "mf325",
+      "create_time": "2020-07-27T14:24:33Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "source": "naf",
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "authorized": false,
+      "is_display_name": false,
+      "parallel_names": []
+    },
+    {
+      "lock_version": 0,
+      "primary_name": "Ackroyd",
+      "rest_of_name": "Dan",
+      "sort_name": "Ackroyd, Dan",
+      "sort_name_auto_generate": true,
+      "created_by": "mf325",
+      "last_modified_by": "mf325",
+      "create_time": "2020-07-27T14:24:33Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "source": "naf",
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "authorized": false,
+      "is_display_name": false,
+      "parallel_names": []
+    }
+  ],
+  "agent_genders": [],
+  "related_agents": [],
+  "uri": "/agents/people/94176",
+  "agent_type": "agent_person",
+  "is_linked_to_published_record": true,
+  "display_name": {
+    "lock_version": 0,
+    "primary_name": "Aykroyd",
+    "rest_of_name": "Dan",
+    "sort_name": "Aykroyd, Dan",
+    "sort_name_auto_generate": true,
+    "created_by": "mf325",
+    "last_modified_by": "mf325",
+    "create_time": "2020-07-27T14:24:33Z",
+    "system_mtime": "2024-11-20T16:37:00Z",
+    "user_mtime": "2024-11-20T16:32:44Z",
+    "authorized": true,
+    "is_display_name": true,
+    "name_order": "inverted",
+    "jsonmodel_type": "name_person",
+    "use_dates": [],
+    "parallel_names": []
+  },
+  "title": "Aykroyd, Dan"
+}

@@ -1,0 +1,152 @@
+{
+  "lock_version": 57,
+  "publish": true,
+  "created_by": "lyrasis-dts",
+  "last_modified_by": "sl2624",
+  "create_time": "2018-07-21T04:34:00Z",
+  "system_mtime": "2025-01-06T18:45:30Z",
+  "user_mtime": "2024-11-20T16:30:23Z",
+  "is_slug_auto": false,
+  "jsonmodel_type": "agent_person",
+  "agent_contacts": [],
+  "agent_record_controls": [],
+  "agent_alternate_sets": [],
+  "agent_conventions_declarations": [],
+  "agent_other_agency_codes": [],
+  "agent_maintenance_histories": [],
+  "agent_record_identifiers": [
+    {
+      "primary_identifier": true,
+      "record_identifier": "http://id.loc.gov/authorities/names/n50040395",
+      "created_by": "admin",
+      "last_modified_by": "admin",
+      "create_time": "2023-06-07T03:43:53Z",
+      "system_mtime": "2024-11-20T16:34:37Z",
+      "user_mtime": "2024-11-20T16:30:23Z",
+      "lock_version": 0,
+      "source": "naf",
+      "jsonmodel_type": "agent_record_identifier"
+    }
+  ],
+  "agent_identifiers": [],
+  "agent_sources": [],
+  "agent_places": [],
+  "agent_occupations": [],
+  "agent_functions": [],
+  "agent_topics": [],
+  "agent_resources": [],
+  "linked_agent_roles": [
+    "creator",
+    "subject"
+  ],
+  "external_documents": [],
+  "notes": [
+    {
+      "jsonmodel_type": "note_bioghist",
+      "subnotes": [
+        {
+          "jsonmodel_type": "note_text",
+          "content": "Walter Lowenfels was born on May 10, 1897 in New York City. His family owned the successful butter manufacturing business Hotel Bar Butter, which provided a comfortable upbringing for Lowenfels. After graduating from preparatory school in 1914, he served in the military during World War I. Following his service, Lowenfels worked for his family\u2019s company and wrote poetry, an interest he developed while in the military. Some early poems appeared in local newspapers and in 1925 he published his first collection of poems, Episodes & Epistles. In 1924 Lowenfels met Lillian Apotheker, who co-funded Episodes & Epistles, and moved to Europe with her after he decided to focus on writing and quit the family business. They married in 1926 in Europe. The couple spent time in Florence and settled in Paris, meeting many influential writers, including Henry Miller, T.S. Eliot and Ford Madox Ford, and for a brief time lived with composer George Antheil. Lowenfels\u2019s writing was well received and he appeared in journals and little magazines, such as transition and This Quarter. Nancy Cunard admired his poetry and in 1930 published his collection Appolinaire: An Elegy, through her Hours Press. In 1931, he shared This Quarter\u2019s Richard Aldington Poetry Prize with e.e. cummings.\r\n\r\nWhile in Paris, Lowenfels met writer Michael Fraenkel. Fraenkel and Lowenfels became close friends and in 1930 co-founded the Carrefour Press. That same year, they published the pamphlet Anonymous: The Need for Anonymity, a manifesto that demanded total anonymity in art and in turn started the \u201canonymous movement.\u201d Lowenfels anonymously published through Carrefour a musical play, USA with Music: An Operatic Tragedy. The play\u2019s anonymity was short-lived since he and Fraenkel were forced to reveal authorship in a 1932 plagiarism suit against composer George Gershwin for his musical Of Thee I Sing. Carrefour lost the case and began to identify published authors, thereby ending the anonymous movement. Lowenfels continued to write poetry and began to edit poetry of others. His interest in politics increased and his poetry began to feature his leftist political ideas, focusing on the rise of fascism in Germany and Italy. The Lowenfels\u2019 first three daughters were born in France, Michal and twins Manna and Judy.\r\n\r\nLowenfels and his family returned to the United States in 1934, moving to Mays Landing, New Jersey. Lowenfels returned to his father\u2019s butter business and worked alongside his brother, Albert. During that time, Lowenfels introduced new ideas to the business; he invented a new waxed paper packaging for butter and he applied date stamping to improve the butter\u2019s freshness. At night and on the weekends, he continued to write poetry. In 1937, he published Steel 1937, a collection of poetry commemorating the steelworkers killed by US Steel during the 1937 Little Steel strike. Following the publication, Lowenfels quit writing poetry. In 1938, he left the family business again and moved to Philadelphia where he began writing for the Pennsylvania edition of the Daily Worker and became increasingly involved in the Civil Rights and Communist movements. He soon became editor and held that job through 1954. His social activism and writing focused on civil and worker's rights. Through the 1940s, he sometimes worked only part-time for the paper, while also selling intercommunication devices and relying on his wife\u2019s teaching salary. The couple\u2019s family grew to four daughters. In 1951, Lowenfels suffered a heart attack and recovered fully. The same year, his family moved to a cabin in Weymouth, New Jersey.\r\n\r\nIn July of 1953, Lowenfels was arrested with eight others (they were known as \u201cThe Philadelphia Nine\u201d) and accused of sedition and conspiracy to overthrow the United States government under the Smith Act. While planning how they could best strategize their defense, the group agreed that Lowenfels should return to writing poetry to raise money. After seventeen years, Lowenfels began to write poetry again and started to translate others\u2019 poetry from French and Italian into English. The group was convicted but the government\u2019s case was overturned in August of 1953. He was arrested again in 1954 for distributing \u201csubversive\u201d materials and was imprisoned at the Holmsburg County Prison in Philadelphia for treason. His conviction was overturned for lack of evidence in 1954. That same year, he published A Prisoner\u2019s Poems for Amnesty. In the midst of Lowenfels\u2019s arrests and trial, Lillian was asked to sign a loyalty oath. She pled the Fifth Amendment and was fired from her teaching job. After his release from prison, Lowenfels quit the Daily Worker and devoted himself to writing and editing the writing of others.\r\n\r\nThrough the 1950s and 1960s, he worked prolifically as an anthologist, focusing on writings that reflected Marxism and opposition to political repression. He published an anthology of Walt Whitman\u2019s poetry called Walt Whitman\u2019s Civil War (1961); Where Is Vietnam? (1967), a collection of protest poetry for which he is perhaps best known; and In the Time of Revolution (1969), a collection of civil rights poems by African Americans. He was active in the anti-Vietnam War peace movement and edited the anti-war publication Dialog. To protest the war, Lowenfels joined with other writers and editors and refused to pay taxes. An anthology of Lowenfels\u2019s own poems edited by Robert Gover, The Portable Walter, was published in 1968, and included the second half of his autobiography My Many Lives. In 1970, Lowenfels co-wrote The Life of Fraenkel\u2019s Death with Howard McCord and continued to edit poetry anthologies, publishing several collections, including From the Belly of the Shark: a new anthology of Native Americans; poems by Chicanos, Eskimos, Hawaiians, Indians, Puerto Ricans in the U.S.A., with related poems by others (1973); and For Neruda, For Chile: an international anthology (1975).\r\n\r\nLowenfels died on July 8, 1976 in Tarrytown, New York.",
+          "publish": true
+        }
+      ],
+      "persistent_id": "d8ff721cd309d8d2659a31d45689a118",
+      "publish": true
+    }
+  ],
+  "used_within_repositories": [],
+  "used_within_published_repositories": [],
+  "dates_of_existence": [
+    {
+      "create_time": "2023-06-02T21:37:42Z",
+      "system_mtime": "2024-11-20T16:37:43Z",
+      "user_mtime": "2024-11-20T16:33:27Z",
+      "lock_version": 0,
+      "date_type_structured": "range",
+      "date_label": "existence",
+      "jsonmodel_type": "structured_date_label",
+      "structured_date_range": {
+        "begin_date_standardized": "1897",
+        "end_date_standardized": "1976",
+        "create_time": "2023-06-02T21:37:42Z",
+        "system_mtime": "2024-11-20T16:37:43Z",
+        "user_mtime": "2024-11-20T16:33:27Z",
+        "lock_version": 0,
+        "begin_date_standardized_type": "standard",
+        "end_date_standardized_type": "standard",
+        "jsonmodel_type": "structured_date_range"
+      }
+    }
+  ],
+  "used_languages": [],
+  "metadata_rights_declarations": [],
+  "names": [
+    {
+      "lock_version": 0,
+      "primary_name": "Lowenfels",
+      "rest_of_name": "Walter",
+      "dates": "1897-1976",
+      "sort_name": "Lowenfels, Walter, 1897-1976",
+      "sort_name_auto_generate": true,
+      "created_by": "sl2624",
+      "last_modified_by": "sl2624",
+      "create_time": "2020-06-29T15:36:02Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "authorized": true,
+      "is_display_name": true,
+      "rules": "aacr",
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "parallel_names": []
+    },
+    {
+      "lock_version": 0,
+      "primary_name": "Lowenfels",
+      "rest_of_name": "Walter",
+      "dates": "1897-",
+      "sort_name": "Lowenfels, Walter, 1897-",
+      "sort_name_auto_generate": true,
+      "created_by": "sl2624",
+      "last_modified_by": "sl2624",
+      "create_time": "2020-06-29T15:36:02Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "source": "naf",
+      "rules": "aacr",
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "authorized": false,
+      "is_display_name": false,
+      "parallel_names": []
+    }
+  ],
+  "agent_genders": [],
+  "related_agents": [],
+  "uri": "/agents/people/73412",
+  "agent_type": "agent_person",
+  "is_linked_to_published_record": true,
+  "display_name": {
+    "lock_version": 0,
+    "primary_name": "Lowenfels",
+    "rest_of_name": "Walter",
+    "dates": "1897-1976",
+    "sort_name": "Lowenfels, Walter, 1897-1976",
+    "sort_name_auto_generate": true,
+    "created_by": "sl2624",
+    "last_modified_by": "sl2624",
+    "create_time": "2020-06-29T15:36:02Z",
+    "system_mtime": "2024-11-20T16:37:00Z",
+    "user_mtime": "2024-11-20T16:32:44Z",
+    "authorized": true,
+    "is_display_name": true,
+    "rules": "aacr",
+    "name_order": "inverted",
+    "jsonmodel_type": "name_person",
+    "use_dates": [],
+    "parallel_names": []
+  },
+  "title": "Lowenfels, Walter, 1897-1976"
+}

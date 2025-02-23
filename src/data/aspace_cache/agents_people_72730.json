@@ -1,0 +1,168 @@
+{
+  "lock_version": 110,
+  "publish": true,
+  "created_by": "lyrasis-dts",
+  "last_modified_by": "mc2343",
+  "create_time": "2018-07-21T04:32:49Z",
+  "system_mtime": "2025-01-06T18:33:15Z",
+  "user_mtime": "2024-11-20T16:30:23Z",
+  "is_slug_auto": false,
+  "jsonmodel_type": "agent_person",
+  "agent_contacts": [],
+  "agent_record_controls": [],
+  "agent_alternate_sets": [],
+  "agent_conventions_declarations": [],
+  "agent_other_agency_codes": [],
+  "agent_maintenance_histories": [],
+  "agent_record_identifiers": [
+    {
+      "primary_identifier": true,
+      "record_identifier": "http://id.loc.gov/authorities/names/n50054114",
+      "created_by": "admin",
+      "last_modified_by": "admin",
+      "create_time": "2023-06-07T03:43:53Z",
+      "system_mtime": "2024-11-20T16:34:37Z",
+      "user_mtime": "2024-11-20T16:30:23Z",
+      "lock_version": 0,
+      "source": "naf",
+      "jsonmodel_type": "agent_record_identifier"
+    }
+  ],
+  "agent_identifiers": [],
+  "agent_sources": [],
+  "agent_places": [],
+  "agent_occupations": [],
+  "agent_functions": [],
+  "agent_topics": [],
+  "agent_resources": [],
+  "linked_agent_roles": [
+    "creator",
+    "subject"
+  ],
+  "external_documents": [],
+  "notes": [
+    {
+      "jsonmodel_type": "note_bioghist",
+      "persistent_id": "ff268e51de5a0133442f0a05c8ddb2f3",
+      "subnotes": [
+        {
+          "jsonmodel_type": "note_text",
+          "content": "Samuel Steward was an American writer and university professor who left the world of academia to become a tattoo artist and pornographer. Steward kept extensive records of his sex life, including diaries, journals, and a stud list. He lived and worked in Chicago, Illinois, and later Oakland, California.",
+          "publish": true
+        }
+      ],
+      "publish": true
+    }
+  ],
+  "used_within_repositories": [],
+  "used_within_published_repositories": [],
+  "dates_of_existence": [
+    {
+      "create_time": "2023-06-02T21:46:41Z",
+      "system_mtime": "2024-11-20T16:37:43Z",
+      "user_mtime": "2024-11-20T16:33:27Z",
+      "lock_version": 0,
+      "date_type_structured": "range",
+      "date_label": "existence",
+      "jsonmodel_type": "structured_date_label",
+      "structured_date_range": {
+        "begin_date_expression": "1909-December 31, 1993",
+        "begin_date_standardized": "1909",
+        "end_date_standardized": "1993-12-31",
+        "create_time": "2023-06-02T21:46:41Z",
+        "system_mtime": "2024-11-20T16:37:43Z",
+        "user_mtime": "2024-11-20T16:33:27Z",
+        "lock_version": 0,
+        "begin_date_standardized_type": "standard",
+        "end_date_standardized_type": "standard",
+        "jsonmodel_type": "structured_date_range"
+      }
+    }
+  ],
+  "used_languages": [],
+  "metadata_rights_declarations": [],
+  "names": [
+    {
+      "lock_version": 0,
+      "primary_name": "Steward",
+      "rest_of_name": "Samuel M.",
+      "dates": "1909-1993",
+      "sort_name": "Steward, Samuel M., 1909-1993",
+      "sort_name_auto_generate": true,
+      "created_by": "mc2343",
+      "last_modified_by": "mc2343",
+      "create_time": "2021-03-01T00:41:56Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "authorized": true,
+      "is_display_name": true,
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "parallel_names": []
+    },
+    {
+      "lock_version": 0,
+      "primary_name": "Steward",
+      "rest_of_name": "Sam M.",
+      "sort_name": "Steward, Sam M.",
+      "sort_name_auto_generate": true,
+      "created_by": "mc2343",
+      "last_modified_by": "mc2343",
+      "create_time": "2021-03-01T00:41:56Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "source": "naf",
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "authorized": false,
+      "is_display_name": false,
+      "parallel_names": []
+    },
+    {
+      "lock_version": 0,
+      "primary_name": "Sparrow",
+      "rest_of_name": "Phil",
+      "sort_name": "Sparrow, Phil",
+      "sort_name_auto_generate": true,
+      "created_by": "mc2343",
+      "last_modified_by": "mc2343",
+      "create_time": "2021-03-01T00:41:56Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "source": "naf",
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "authorized": false,
+      "is_display_name": false,
+      "parallel_names": []
+    }
+  ],
+  "agent_genders": [],
+  "related_agents": [],
+  "uri": "/agents/people/72730",
+  "agent_type": "agent_person",
+  "is_linked_to_published_record": true,
+  "display_name": {
+    "lock_version": 0,
+    "primary_name": "Steward",
+    "rest_of_name": "Samuel M.",
+    "dates": "1909-1993",
+    "sort_name": "Steward, Samuel M., 1909-1993",
+    "sort_name_auto_generate": true,
+    "created_by": "mc2343",
+    "last_modified_by": "mc2343",
+    "create_time": "2021-03-01T00:41:56Z",
+    "system_mtime": "2024-11-20T16:37:00Z",
+    "user_mtime": "2024-11-20T16:32:44Z",
+    "authorized": true,
+    "is_display_name": true,
+    "name_order": "inverted",
+    "jsonmodel_type": "name_person",
+    "use_dates": [],
+    "parallel_names": []
+  },
+  "title": "Steward, Samuel M., 1909-1993"
+}

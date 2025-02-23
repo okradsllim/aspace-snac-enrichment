@@ -1,0 +1,131 @@
+{
+  "lock_version": 5,
+  "publish": true,
+  "created_by": "lyrasis-dts",
+  "last_modified_by": "amd243",
+  "create_time": "2018-07-21T04:24:42Z",
+  "system_mtime": "2024-11-20T16:34:37Z",
+  "user_mtime": "2024-11-20T16:30:23Z",
+  "is_slug_auto": false,
+  "jsonmodel_type": "agent_person",
+  "agent_contacts": [],
+  "agent_record_controls": [],
+  "agent_alternate_sets": [],
+  "agent_conventions_declarations": [],
+  "agent_other_agency_codes": [],
+  "agent_maintenance_histories": [],
+  "agent_record_identifiers": [
+    {
+      "primary_identifier": true,
+      "record_identifier": "http://id.loc.gov/authorities/names/n80067485",
+      "created_by": "admin",
+      "last_modified_by": "admin",
+      "create_time": "2023-06-07T03:43:53Z",
+      "system_mtime": "2024-11-20T16:34:37Z",
+      "user_mtime": "2024-11-20T16:30:23Z",
+      "lock_version": 0,
+      "source": "naf",
+      "jsonmodel_type": "agent_record_identifier"
+    }
+  ],
+  "agent_identifiers": [],
+  "agent_sources": [],
+  "agent_places": [],
+  "agent_occupations": [],
+  "agent_functions": [],
+  "agent_topics": [],
+  "agent_resources": [],
+  "linked_agent_roles": [
+    "subject"
+  ],
+  "external_documents": [],
+  "notes": [
+    {
+      "jsonmodel_type": "note_bioghist",
+      "subnotes": [
+        {
+          "jsonmodel_type": "note_text",
+          "content": "J. Reuben Clark, Jr. (1871-1971) was an attorney, U.S. Ambassador to Mexico, and an apostle in the Church of Jesus Christ of Latter-day Saints.",
+          "publish": true
+        }
+      ],
+      "label": "Biographical / Historical",
+      "persistent_id": "bfb23d2539f320ecf5bf026a31371e63",
+      "publish": true
+    }
+  ],
+  "used_within_repositories": [],
+  "used_within_published_repositories": [],
+  "dates_of_existence": [],
+  "used_languages": [],
+  "metadata_rights_declarations": [],
+  "names": [
+    {
+      "lock_version": 0,
+      "primary_name": "Clark",
+      "title": "Jr.",
+      "rest_of_name": "J. Reuben",
+      "dates": "1871-1961",
+      "sort_name": "Clark, J. Reuben, Jr., 1871-1961",
+      "sort_name_auto_generate": true,
+      "created_by": "amd243",
+      "last_modified_by": "amd243",
+      "create_time": "2019-09-06T13:18:45Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "authorized": true,
+      "is_display_name": true,
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "parallel_names": []
+    },
+    {
+      "lock_version": 0,
+      "primary_name": "Clark",
+      "title": "Jr.",
+      "rest_of_name": "Joshua Reuben",
+      "dates": "1871-1961",
+      "sort_name": "Clark, Joshua Reuben, Jr., 1871-1961",
+      "sort_name_auto_generate": true,
+      "created_by": "amd243",
+      "last_modified_by": "amd243",
+      "create_time": "2019-09-06T13:18:45Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "source": "naf",
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "authorized": false,
+      "is_display_name": false,
+      "parallel_names": []
+    }
+  ],
+  "agent_genders": [],
+  "related_agents": [],
+  "uri": "/agents/people/68164",
+  "agent_type": "agent_person",
+  "is_linked_to_published_record": true,
+  "display_name": {
+    "lock_version": 0,
+    "primary_name": "Clark",
+    "title": "Jr.",
+    "rest_of_name": "J. Reuben",
+    "dates": "1871-1961",
+    "sort_name": "Clark, J. Reuben, Jr., 1871-1961",
+    "sort_name_auto_generate": true,
+    "created_by": "amd243",
+    "last_modified_by": "amd243",
+    "create_time": "2019-09-06T13:18:45Z",
+    "system_mtime": "2024-11-20T16:37:00Z",
+    "user_mtime": "2024-11-20T16:32:44Z",
+    "authorized": true,
+    "is_display_name": true,
+    "name_order": "inverted",
+    "jsonmodel_type": "name_person",
+    "use_dates": [],
+    "parallel_names": []
+  },
+  "title": "Clark, J. Reuben, Jr., 1871-1961"
+}

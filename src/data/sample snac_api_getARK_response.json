@@ -1,0 +1,1154 @@
+{
+    "result": "success-notice",
+    "message": {
+        "text": "Please update your cache, the Constellation you requested has been merged into http:\/\/n2t.net\/ark:\/99166\/w6hf8k3c.",
+        "info": {
+            "type": "merged",
+            "redirect": "http:\/\/n2t.net\/ark:\/99166\/w6hf8k3c"
+        }
+    },
+    "maybesame_count": 0,
+    "constellation": {
+        "dataType": "Constellation",
+        "status": "editable",
+        "ark": "http:\/\/n2t.net\/ark:\/99166\/w6hf8k3c",
+        "entityType": {
+            "id": "700",
+            "term": "person",
+            "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Person",
+            "type": "entity_type"
+        },
+        "languagesUsed": [
+            {
+                "dataType": "Language",
+                "language": {
+                    "id": "130",
+                    "term": "eng",
+                    "type": "language_code",
+                    "description": "English"
+                },
+                "script": {
+                    "id": "586",
+                    "term": "Latn",
+                    "type": "script_code",
+                    "description": "Latin"
+                },
+                "id": "84363957",
+                "version": "11360060"
+            }
+        ],
+        "nameEntries": [
+            {
+                "dataType": "NameEntry",
+                "original": "Steichen, Edward, 1879-1973",
+                "preferenceScore": "99",
+                "contributors": [
+                    {
+                        "dataType": "Contributor",
+                        "type": {
+                            "id": "7658",
+                            "term": "authorizedForm",
+                            "type": "name_type"
+                        },
+                        "rule": {
+                            "id": "7661",
+                            "term": "rda",
+                            "type": "name_rule"
+                        },
+                        "id": "84364383",
+                        "version": "11360070"
+                    }
+                ],
+                "components": [
+                    {
+                        "dataType": "NameComponent",
+                        "text": "Steichen",
+                        "order": "0",
+                        "type": {
+                            "id": "400223",
+                            "term": "Surname",
+                            "type": "name_component"
+                        },
+                        "id": "84364380",
+                        "version": "11360070"
+                    },
+                    {
+                        "dataType": "NameComponent",
+                        "text": "Edward",
+                        "order": "1",
+                        "type": {
+                            "id": "400224",
+                            "term": "Forename",
+                            "type": "name_component"
+                        },
+                        "id": "84364381",
+                        "version": "11360070"
+                    },
+                    {
+                        "dataType": "NameComponent",
+                        "text": "1879-1973",
+                        "order": "2",
+                        "type": {
+                            "id": "400237",
+                            "term": "Date",
+                            "type": "name_component"
+                        },
+                        "id": "84364382",
+                        "version": "11360070"
+                    }
+                ],
+                "language": {
+                    "dataType": "Language",
+                    "language": {
+                        "id": "130",
+                        "term": "eng",
+                        "type": "language_code",
+                        "description": "English"
+                    },
+                    "script": {
+                        "id": "586",
+                        "term": "Latn",
+                        "type": "script_code",
+                        "description": "Latin"
+                    },
+                    "id": "84364384",
+                    "version": "11360070"
+                },
+                "id": "84364379",
+                "version": "11360070"
+            },
+            {
+                "dataType": "NameEntry",
+                "original": "Steichen, Edouard Jean, 1879-1973",
+                "preferenceScore": "0",
+                "contributors": [
+                    {
+                        "dataType": "Contributor",
+                        "type": {
+                            "id": "7657",
+                            "term": "alternativeForm",
+                            "type": "name_type"
+                        },
+                        "rule": {
+                            "id": "7661",
+                            "term": "rda",
+                            "type": "name_rule"
+                        },
+                        "id": "84364313",
+                        "version": "11360070"
+                    }
+                ],
+                "components": [
+                    {
+                        "dataType": "NameComponent",
+                        "text": "Steichen",
+                        "order": "0",
+                        "type": {
+                            "id": "400223",
+                            "term": "Surname",
+                            "type": "name_component"
+                        },
+                        "id": "84364310",
+                        "version": "11360070"
+                    },
+                    {
+                        "dataType": "NameComponent",
+                        "text": "Edouard Jean",
+                        "order": "1",
+                        "type": {
+                            "id": "400224",
+                            "term": "Forename",
+                            "type": "name_component"
+                        },
+                        "id": "84364311",
+                        "version": "11360070"
+                    },
+                    {
+                        "dataType": "NameComponent",
+                        "text": "1879-1973",
+                        "order": "2",
+                        "type": {
+                            "id": "400237",
+                            "term": "Date",
+                            "type": "name_component"
+                        },
+                        "id": "84364312",
+                        "version": "11360070"
+                    }
+                ],
+                "language": {
+                    "dataType": "Language",
+                    "language": {
+                        "id": "130",
+                        "term": "eng",
+                        "type": "language_code",
+                        "description": "English"
+                    },
+                    "script": {
+                        "id": "586",
+                        "term": "Latn",
+                        "type": "script_code",
+                        "description": "Latin"
+                    },
+                    "id": "84364314",
+                    "version": "11360031"
+                },
+                "id": "84363979",
+                "version": "11360031"
+            },
+            {
+                "dataType": "NameEntry",
+                "original": "Steichen, Eduard Jean, 1879-1973",
+                "preferenceScore": "0",
+                "contributors": [
+                    {
+                        "dataType": "Contributor",
+                        "type": {
+                            "id": "7657",
+                            "term": "alternativeForm",
+                            "type": "name_type"
+                        },
+                        "rule": {
+                            "id": "7661",
+                            "term": "rda",
+                            "type": "name_rule"
+                        },
+                        "id": "84364318",
+                        "version": "11360031"
+                    }
+                ],
+                "components": [
+                    {
+                        "dataType": "NameComponent",
+                        "text": "Steichen",
+                        "order": "1",
+                        "type": {
+                            "id": "400223",
+                            "term": "Surname",
+                            "type": "name_component"
+                        },
+                        "id": "84364315",
+                        "version": "11360031"
+                    },
+                    {
+                        "dataType": "NameComponent",
+                        "text": "Eduard Jean",
+                        "order": "2",
+                        "type": {
+                            "id": "400224",
+                            "term": "Forename",
+                            "type": "name_component"
+                        },
+                        "id": "84364316",
+                        "version": "11360031"
+                    },
+                    {
+                        "dataType": "NameComponent",
+                        "text": "1879-1973",
+                        "order": "3",
+                        "type": {
+                            "id": "400237",
+                            "term": "Date",
+                            "type": "name_component"
+                        },
+                        "id": "84364317",
+                        "version": "11360031"
+                    }
+                ],
+                "language": {
+                    "dataType": "Language",
+                    "language": {
+                        "id": "130",
+                        "term": "eng",
+                        "type": "language_code",
+                        "description": "English"
+                    },
+                    "script": {
+                        "id": "586",
+                        "term": "Latn",
+                        "type": "script_code",
+                        "description": "Latin"
+                    },
+                    "id": "84364319",
+                    "version": "11360031"
+                },
+                "id": "84363982",
+                "version": "11360031"
+            },
+            {
+                "dataType": "NameEntry",
+                "original": "Sutaiken, Edowado, 1879-1973",
+                "preferenceScore": "0",
+                "contributors": [
+                    {
+                        "dataType": "Contributor",
+                        "type": {
+                            "id": "7657",
+                            "term": "alternativeForm",
+                            "type": "name_type"
+                        },
+                        "rule": {
+                            "id": "7661",
+                            "term": "rda",
+                            "type": "name_rule"
+                        },
+                        "id": "84364323",
+                        "version": "11360031"
+                    }
+                ],
+                "components": [
+                    {
+                        "dataType": "NameComponent",
+                        "text": "Sutaiken",
+                        "order": "1",
+                        "type": {
+                            "id": "400223",
+                            "term": "Surname",
+                            "type": "name_component"
+                        },
+                        "id": "84364320",
+                        "version": "11360031"
+                    },
+                    {
+                        "dataType": "NameComponent",
+                        "text": "Edowado",
+                        "order": "2",
+                        "type": {
+                            "id": "400224",
+                            "term": "Forename",
+                            "type": "name_component"
+                        },
+                        "id": "84364321",
+                        "version": "11360031"
+                    },
+                    {
+                        "dataType": "NameComponent",
+                        "text": "1879-1973",
+                        "order": "3",
+                        "type": {
+                            "id": "400237",
+                            "term": "Date",
+                            "type": "name_component"
+                        },
+                        "id": "84364322",
+                        "version": "11360031"
+                    }
+                ],
+                "language": {
+                    "dataType": "Language",
+                    "language": {
+                        "id": "130",
+                        "term": "eng",
+                        "type": "language_code",
+                        "description": "English"
+                    },
+                    "script": {
+                        "id": "586",
+                        "term": "Latn",
+                        "type": "script_code",
+                        "description": "Latin"
+                    },
+                    "id": "84364324",
+                    "version": "11360031"
+                },
+                "id": "84363988",
+                "version": "11360031"
+            },
+            {
+                "dataType": "NameEntry",
+                "original": "\u30b9\u30bf\u30a4\u30b1\u30f3, \u30a8\u30c9\u30ef\u30fc\u30c9, 1879-1973",
+                "preferenceScore": "0",
+                "contributors": [
+                    {
+                        "dataType": "Contributor",
+                        "type": {
+                            "id": "7657",
+                            "term": "alternativeForm",
+                            "type": "name_type"
+                        },
+                        "rule": {
+                            "id": "7661",
+                            "term": "rda",
+                            "type": "name_rule"
+                        },
+                        "id": "84364328",
+                        "version": "11360031"
+                    }
+                ],
+                "components": [
+                    {
+                        "dataType": "NameComponent",
+                        "text": "\u30b9\u30bf\u30a4\u30b1\u30f3",
+                        "order": "1",
+                        "type": {
+                            "id": "400223",
+                            "term": "Surname",
+                            "type": "name_component"
+                        },
+                        "id": "84364325",
+                        "version": "11360031"
+                    },
+                    {
+                        "dataType": "NameComponent",
+                        "text": "\u30a8\u30c9\u30ef\u30fc\u30c9",
+                        "order": "2",
+                        "type": {
+                            "id": "400224",
+                            "term": "Forename",
+                            "type": "name_component"
+                        },
+                        "id": "84364326",
+                        "version": "11360031"
+                    },
+                    {
+                        "dataType": "NameComponent",
+                        "text": "1879-1973",
+                        "order": "3",
+                        "type": {
+                            "id": "400237",
+                            "term": "Date",
+                            "type": "name_component"
+                        },
+                        "id": "84364327",
+                        "version": "11360031"
+                    }
+                ],
+                "language": {
+                    "dataType": "Language",
+                    "language": {
+                        "id": "217",
+                        "term": "jpn",
+                        "type": "language_code",
+                        "description": "Japanese"
+                    },
+                    "script": {
+                        "id": "569",
+                        "term": "Jpan",
+                        "type": "script_code",
+                        "description": "Japanese (alias for Han + Hiragana + Katakana)"
+                    },
+                    "id": "84364329",
+                    "version": "11360031"
+                },
+                "id": "84364018",
+                "version": "11360031"
+            },
+            {
+                "dataType": "NameEntry",
+                "original": "Steichen, Eduard, 1879-1973",
+                "preferenceScore": "0",
+                "contributors": [
+                    {
+                        "dataType": "Contributor",
+                        "type": {
+                            "id": "7657",
+                            "term": "alternativeForm",
+                            "type": "name_type"
+                        },
+                        "rule": {
+                            "id": "7661",
+                            "term": "rda",
+                            "type": "name_rule"
+                        },
+                        "id": "84364333",
+                        "version": "11360031"
+                    }
+                ],
+                "components": [
+                    {
+                        "dataType": "NameComponent",
+                        "text": "Steichen",
+                        "order": "1",
+                        "type": {
+                            "id": "400223",
+                            "term": "Surname",
+                            "type": "name_component"
+                        },
+                        "id": "84364330",
+                        "version": "11360031"
+                    },
+                    {
+                        "dataType": "NameComponent",
+                        "text": "Eduard",
+                        "order": "2",
+                        "type": {
+                            "id": "400224",
+                            "term": "Forename",
+                            "type": "name_component"
+                        },
+                        "id": "84364331",
+                        "version": "11360031"
+                    },
+                    {
+                        "dataType": "NameComponent",
+                        "text": "1879-1973",
+                        "order": "3",
+                        "type": {
+                            "id": "400237",
+                            "term": "Date",
+                            "type": "name_component"
+                        },
+                        "id": "84364332",
+                        "version": "11360031"
+                    }
+                ],
+                "language": {
+                    "dataType": "Language",
+                    "language": {
+                        "id": "130",
+                        "term": "eng",
+                        "type": "language_code",
+                        "description": "English"
+                    },
+                    "script": {
+                        "id": "586",
+                        "term": "Latn",
+                        "type": "script_code",
+                        "description": "Latin"
+                    },
+                    "id": "84364334",
+                    "version": "11360031"
+                },
+                "id": "84364021",
+                "version": "11360031"
+            },
+            {
+                "dataType": "NameEntry",
+                "original": "Steichen, Edward Jean, 1879-1973",
+                "preferenceScore": "0",
+                "contributors": [
+                    {
+                        "dataType": "Contributor",
+                        "type": {
+                            "id": "7657",
+                            "term": "alternativeForm",
+                            "type": "name_type"
+                        },
+                        "rule": {
+                            "id": "7661",
+                            "term": "rda",
+                            "type": "name_rule"
+                        },
+                        "id": "84364044",
+                        "version": "11360070"
+                    }
+                ],
+                "components": [
+                    {
+                        "dataType": "NameComponent",
+                        "text": "Steichen",
+                        "order": "0",
+                        "type": {
+                            "id": "400223",
+                            "term": "Surname",
+                            "type": "name_component"
+                        },
+                        "id": "84364041",
+                        "version": "11360070"
+                    },
+                    {
+                        "dataType": "NameComponent",
+                        "text": "Edward Jean",
+                        "order": "1",
+                        "type": {
+                            "id": "400224",
+                            "term": "Forename",
+                            "type": "name_component"
+                        },
+                        "id": "84364042",
+                        "version": "11360070"
+                    },
+                    {
+                        "dataType": "NameComponent",
+                        "text": "1879-1973",
+                        "order": "2",
+                        "type": {
+                            "id": "400237",
+                            "term": "Date",
+                            "type": "name_component"
+                        },
+                        "id": "84364043",
+                        "version": "11360070"
+                    }
+                ],
+                "language": {
+                    "dataType": "Language",
+                    "language": {
+                        "id": "130",
+                        "term": "eng",
+                        "type": "language_code",
+                        "description": "English"
+                    },
+                    "script": {
+                        "id": "586",
+                        "term": "Latn",
+                        "type": "script_code",
+                        "description": "Latin"
+                    },
+                    "id": "84364045",
+                    "version": "11360070"
+                },
+                "id": "84364039",
+                "version": "11360070"
+            },
+            {
+                "dataType": "NameEntry",
+                "original": "\u0421\u0442\u0430\u0439\u0445\u0435\u043d, \u042d\u0434\u0432\u0430\u0440\u0434, 1879-1973",
+                "preferenceScore": "0",
+                "contributors": [
+                    {
+                        "dataType": "Contributor",
+                        "type": {
+                            "id": "7657",
+                            "term": "alternativeForm",
+                            "type": "name_type"
+                        },
+                        "rule": {
+                            "id": "7661",
+                            "term": "rda",
+                            "type": "name_rule"
+                        },
+                        "id": "84364352",
+                        "version": "11360034"
+                    }
+                ],
+                "components": [
+                    {
+                        "dataType": "NameComponent",
+                        "text": "\u0421\u0442\u0430\u0439\u0445\u0435\u043d",
+                        "order": "1",
+                        "type": {
+                            "id": "400223",
+                            "term": "Surname",
+                            "type": "name_component"
+                        },
+                        "id": "84364349",
+                        "version": "11360034"
+                    },
+                    {
+                        "dataType": "NameComponent",
+                        "text": "\u042d\u0434\u0432\u0430\u0440\u0434",
+                        "order": "2",
+                        "type": {
+                            "id": "400224",
+                            "term": "Forename",
+                            "type": "name_component"
+                        },
+                        "id": "84364350",
+                        "version": "11360034"
+                    },
+                    {
+                        "dataType": "NameComponent",
+                        "text": "1879-1973",
+                        "order": "3",
+                        "type": {
+                            "id": "400237",
+                            "term": "Date",
+                            "type": "name_component"
+                        },
+                        "id": "84364351",
+                        "version": "11360034"
+                    }
+                ],
+                "language": {
+                    "dataType": "Language",
+                    "language": {
+                        "id": "380",
+                        "term": "rus",
+                        "type": "language_code",
+                        "description": "Russian"
+                    },
+                    "script": {
+                        "id": "536",
+                        "term": "Cyrl",
+                        "type": "script_code",
+                        "description": "Cyrillic"
+                    },
+                    "id": "84364353",
+                    "version": "11360034"
+                },
+                "id": "84364348",
+                "version": "11360034"
+            },
+            {
+                "dataType": "NameEntry",
+                "original": "\u05d0\u05d3\u05d5\u05d0\u05e8\u05d3 \u05e1\u05d8\u05d9\u05d9\u05db\u05df, 1879-1973",
+                "preferenceScore": "0",
+                "contributors": [
+                    {
+                        "dataType": "Contributor",
+                        "type": {
+                            "id": "7657",
+                            "term": "alternativeForm",
+                            "type": "name_type"
+                        },
+                        "rule": {
+                            "id": "7661",
+                            "term": "rda",
+                            "type": "name_rule"
+                        },
+                        "id": "84364357",
+                        "version": "11360035"
+                    }
+                ],
+                "components": [
+                    {
+                        "dataType": "NameComponent",
+                        "text": "\u05d0\u05d3\u05d5\u05d0\u05e8\u05d3 \u05e1\u05d8\u05d9\u05d9\u05db\u05df",
+                        "order": "1",
+                        "type": {
+                            "id": "400224",
+                            "term": "Forename",
+                            "type": "name_component"
+                        },
+                        "id": "84364355",
+                        "version": "11360035"
+                    },
+                    {
+                        "dataType": "NameComponent",
+                        "text": "1879-1973",
+                        "order": "2",
+                        "type": {
+                            "id": "400237",
+                            "term": "Date",
+                            "type": "name_component"
+                        },
+                        "id": "84364356",
+                        "version": "11360035"
+                    }
+                ],
+                "language": {
+                    "dataType": "Language",
+                    "language": {
+                        "id": "184",
+                        "term": "heb",
+                        "type": "language_code",
+                        "description": "Hebrew"
+                    },
+                    "script": {
+                        "id": "560",
+                        "term": "Hebr",
+                        "type": "script_code",
+                        "description": "Hebrew"
+                    },
+                    "id": "84364358",
+                    "version": "11360035"
+                },
+                "id": "84364354",
+                "version": "11360035"
+            }
+        ],
+        "occupations": [
+            {
+                "dataType": "Occupation",
+                "term": {
+                    "id": "1501",
+                    "term": "Art museum directors",
+                    "type": "occupation"
+                },
+                "id": "84364048",
+                "version": "11360023"
+            },
+            {
+                "dataType": "Occupation",
+                "term": {
+                    "id": "5338",
+                    "term": "Photographers",
+                    "type": "occupation"
+                },
+                "id": "84364047",
+                "version": "11360023"
+            }
+        ],
+        "biogHists": [
+            {
+                "dataType": "BiogHist",
+                "language": {
+                    "dataType": "Language",
+                    "language": {
+                        "id": "130",
+                        "term": "eng",
+                        "type": "language_code",
+                        "description": "English"
+                    },
+                    "script": {
+                        "id": "586",
+                        "term": "Latn",
+                        "type": "script_code",
+                        "description": "Latin"
+                    },
+                    "id": "84363952",
+                    "version": "11527646"
+                },
+                "text": "<p> Edward Jean Steichen, born Eduard Jean Steichen (March 27, 1879 \u2013 March 25, 1973), was a Luxembourgish American photographer, painter, and curator. His were the photographs that most frequently appeared in Alfred Stieglitz's groundbreaking magazine Camera Work during its publication from 1903 to 1917. <\/p>\r\n\r\n<p> Steichen laid claim to his photos of gowns for the magazine Art et D\u00e9coration in 1911, being the first modern fashion photographs ever published. Steichen used his talents in the military in WWI taking aerial photography. This experience led him to vow to focus only on realist photography henceforth, seeing photography not as an art but as a window into the world of man. From 1923 to 1938, Steichen was a photographer for the Cond\u00e9 Nast magazines Vogue and Vanity Fair, while also working for many advertising agencies, including J. Walter Thompson. During these years, Steichen was regarded as the best known and highest paid photographer in the world. After this work of a commercial photographer, Steichen again did military work during WWII and in 1944, he directed the war documentary The Fighting Lady, which won the 1945 Academy Award for Best Documentary. <\/p>\r\n\r\n<p> From 1947 to 1961, Steichen served as Director of the department of photography at New York's Museum of Modern Art. While there, he curated and assembled exhibits including The Family of Man, which was seen by nine million people. <\/p>\r\n          ",
+                "id": "84363951",
+                "version": "11527646"
+            }
+        ],
+        "sameAsRelations": [
+            {
+                "dataType": "SameAs",
+                "type": {
+                    "id": "28225",
+                    "term": "sameAs",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#sameAs",
+                    "type": "record_type"
+                },
+                "text": "Steichen, Edward (1879-1973)",
+                "uri": "https:\/\/catalogue.bnf.fr\/ark:\/12148\/cb12342254r\/PUBLIC",
+                "id": "84364049",
+                "version": "11360023"
+            },
+            {
+                "dataType": "SameAs",
+                "type": {
+                    "id": "28225",
+                    "term": "sameAs",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#sameAs",
+                    "type": "record_type"
+                },
+                "text": "Steichen, Edward, 1879-1973",
+                "uri": "https:\/\/id.loc.gov\/authorities\/n80025899",
+                "id": "84364050",
+                "version": "11360023"
+            },
+            {
+                "dataType": "SameAs",
+                "type": {
+                    "id": "28225",
+                    "term": "sameAs",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#sameAs",
+                    "type": "record_type"
+                },
+                "text": "Steichen, Edward, 1879-1973",
+                "uri": "https:\/\/catalog.archives.gov\/id\/10581940",
+                "id": "84364051",
+                "version": "11360023"
+            },
+            {
+                "dataType": "SameAs",
+                "type": {
+                    "id": "28225",
+                    "term": "sameAs",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#sameAs",
+                    "type": "record_type"
+                },
+                "text": "Steichen, Edward, 1879-1973",
+                "uri": "https:\/\/viaf.org\/viaf\/73926135",
+                "id": "84364052",
+                "version": "11360023"
+            },
+            {
+                "dataType": "SameAs",
+                "type": {
+                    "id": "28225",
+                    "term": "sameAs",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#sameAs",
+                    "type": "record_type"
+                },
+                "uri": "https:\/\/www.wikidata.org\/entity\/Q313899",
+                "id": "84364053",
+                "version": "11360023"
+            },
+            {
+                "dataType": "SameAs",
+                "type": {
+                    "id": "28225",
+                    "term": "sameAs",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#sameAs",
+                    "type": "record_type"
+                },
+                "uri": "https:\/\/www.worldcat.org\/identities\/lccn-n80025899",
+                "id": "84364054",
+                "version": "11360023"
+            }
+        ],
+        "places": [
+            {
+                "dataType": "Place",
+                "type": {
+                    "id": "705",
+                    "term": "AssociatedPlace",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#AssociatedPlace",
+                    "type": "place_type"
+                },
+                "role": {
+                    "id": "400239",
+                    "term": "Death",
+                    "type": "place_role"
+                },
+                "geoplace": {
+                    "id": "2894",
+                    "uri": "http:\/\/www.geonames.org\/4831725",
+                    "name": "Connecticut",
+                    "latitude": "41.6670400",
+                    "longitude": "-72.6664800",
+                    "administrationCode": "CT",
+                    "countryCode": "US"
+                },
+                "confirmed": true,
+                "id": "84364373",
+                "version": "11360056"
+            },
+            {
+                "dataType": "Place",
+                "type": {
+                    "id": "705",
+                    "term": "AssociatedPlace",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#AssociatedPlace",
+                    "type": "place_type"
+                },
+                "role": {
+                    "id": "400238",
+                    "term": "Birth",
+                    "type": "place_role"
+                },
+                "geoplace": {
+                    "id": "7716",
+                    "uri": "http:\/\/www.geonames.org\/2960316",
+                    "name": "Luxembourg",
+                    "latitude": "49.6116700",
+                    "longitude": "6.1300000",
+                    "administrationCode": "03",
+                    "countryCode": "LU"
+                },
+                "confirmed": true,
+                "id": "84364372",
+                "version": "11360055"
+            }
+        ],
+        "subjects": [
+            {
+                "dataType": "Subject",
+                "term": {
+                    "id": "1500",
+                    "term": "Art museum curators",
+                    "type": "subject"
+                },
+                "id": "84364084",
+                "version": "11360023"
+            },
+            {
+                "dataType": "Subject",
+                "term": {
+                    "id": "97826",
+                    "term": "Civil rights",
+                    "type": "subject"
+                },
+                "id": "84364076",
+                "version": "11360023"
+            },
+            {
+                "dataType": "Subject",
+                "term": {
+                    "id": "401556",
+                    "term": "Painters",
+                    "type": "subject"
+                },
+                "id": "84364078",
+                "version": "11360023"
+            },
+            {
+                "dataType": "Subject",
+                "term": {
+                    "id": "267715",
+                    "term": "Painting, American",
+                    "type": "subject"
+                },
+                "id": "84364079",
+                "version": "11360023"
+            },
+            {
+                "dataType": "Subject",
+                "term": {
+                    "id": "5338",
+                    "term": "Photographers",
+                    "type": "subject"
+                },
+                "id": "84364080",
+                "version": "11360023"
+            },
+            {
+                "dataType": "Subject",
+                "term": {
+                    "id": "5338",
+                    "term": "Photographers",
+                    "type": "subject"
+                },
+                "id": "84364074",
+                "version": "11360023"
+            },
+            {
+                "dataType": "Subject",
+                "term": {
+                    "id": "5338",
+                    "term": "Photographers",
+                    "type": "subject"
+                },
+                "id": "84364073",
+                "version": "11360023"
+            },
+            {
+                "dataType": "Subject",
+                "term": {
+                    "id": "275993",
+                    "term": "Photographs as information resources",
+                    "type": "subject"
+                },
+                "id": "84364083",
+                "version": "11360023"
+            },
+            {
+                "dataType": "Subject",
+                "term": {
+                    "id": "5362",
+                    "term": "Photography",
+                    "type": "subject"
+                },
+                "id": "84364075",
+                "version": "11360023"
+            },
+            {
+                "dataType": "Subject",
+                "term": {
+                    "id": "5362",
+                    "term": "Photography",
+                    "type": "subject"
+                },
+                "id": "84364072",
+                "version": "11360023"
+            },
+            {
+                "dataType": "Subject",
+                "term": {
+                    "id": "276116",
+                    "term": "Photography, Artistic",
+                    "type": "subject"
+                },
+                "id": "84364081",
+                "version": "11360023"
+            },
+            {
+                "dataType": "Subject",
+                "term": {
+                    "id": "301190",
+                    "term": "Racism",
+                    "type": "subject"
+                },
+                "id": "84364069",
+                "version": "11360023"
+            },
+            {
+                "dataType": "Subject",
+                "term": {
+                    "id": "394890",
+                    "term": "World War, 1939-1945",
+                    "type": "subject"
+                },
+                "id": "84364071",
+                "version": "11360023"
+            },
+            {
+                "dataType": "Subject",
+                "term": {
+                    "id": "394890",
+                    "term": "World War, 1939-1945",
+                    "type": "subject"
+                },
+                "id": "84364070",
+                "version": "11360023"
+            },
+            {
+                "dataType": "Subject",
+                "term": {
+                    "id": "394890",
+                    "term": "World War, 1939-1945",
+                    "type": "subject"
+                },
+                "id": "84364077",
+                "version": "11360023"
+            },
+            {
+                "dataType": "Subject",
+                "term": {
+                    "id": "394890",
+                    "term": "World War, 1939-1945",
+                    "type": "subject"
+                },
+                "id": "84364068",
+                "version": "11360023"
+            },
+            {
+                "dataType": "Subject",
+                "term": {
+                    "id": "395303",
+                    "term": "World War, 1939-1945 Campaigns Pacific Ocean",
+                    "type": "subject"
+                },
+                "id": "84364082",
+                "version": "11360023"
+            }
+        ],
+        "nationalities": [
+            {
+                "dataType": "Nationality",
+                "term": {
+                    "id": "400361",
+                    "term": "Luxembourgers",
+                    "type": "nationality"
+                },
+                "id": "84364376",
+                "version": "11360059"
+            },
+            {
+                "dataType": "Nationality",
+                "term": {
+                    "id": "8188",
+                    "term": "Americans",
+                    "type": "nationality"
+                },
+                "id": "84364046",
+                "version": "11360059"
+            }
+        ],
+        "genders": [
+            {
+                "dataType": "Gender",
+                "term": {
+                    "id": "7655",
+                    "term": "Male",
+                    "type": "gender"
+                },
+                "id": "84364375",
+                "version": "11360058"
+            }
+        ],
+        "id": "84363950",
+        "version": "11527648",
+        "dates": [
+            {
+                "dataType": "SNACDate",
+                "fromDate": "1879-03-27",
+                "fromDateOriginal": "March 27, 1879",
+                "fromType": {
+                    "id": "689",
+                    "term": "Birth",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Birth",
+                    "type": "date_type"
+                },
+                "toDate": "1973-03-25",
+                "toDateOriginal": "March 25, 1973",
+                "toType": {
+                    "id": "690",
+                    "term": "Death",
+                    "uri": "http:\/\/socialarchive.iath.virginia.edu\/control\/term#Death",
+                    "type": "date_type"
+                },
+                "isRange": true,
+                "id": "84363953",
+                "version": "11360054"
+            }
+        ]
+    },
+    "timing": 203.31
+}

@@ -1,0 +1,172 @@
+{
+  "lock_version": 54,
+  "publish": true,
+  "created_by": "lyrasis-dts",
+  "last_modified_by": "mf325",
+  "create_time": "2018-07-21T04:51:24Z",
+  "system_mtime": "2025-01-06T18:24:09Z",
+  "user_mtime": "2024-11-20T16:30:23Z",
+  "is_slug_auto": false,
+  "jsonmodel_type": "agent_person",
+  "agent_contacts": [],
+  "agent_record_controls": [],
+  "agent_alternate_sets": [],
+  "agent_conventions_declarations": [],
+  "agent_other_agency_codes": [],
+  "agent_maintenance_histories": [],
+  "agent_record_identifiers": [
+    {
+      "primary_identifier": true,
+      "record_identifier": "http://id.loc.gov/authorities/names/nr98006256",
+      "created_by": "admin",
+      "last_modified_by": "admin",
+      "create_time": "2023-06-07T03:43:53Z",
+      "system_mtime": "2024-11-20T16:34:37Z",
+      "user_mtime": "2024-11-20T16:30:23Z",
+      "lock_version": 0,
+      "source": "naf",
+      "jsonmodel_type": "agent_record_identifier"
+    }
+  ],
+  "agent_identifiers": [],
+  "agent_sources": [],
+  "agent_places": [],
+  "agent_occupations": [],
+  "agent_functions": [],
+  "agent_topics": [],
+  "agent_resources": [],
+  "linked_agent_roles": [
+    "creator",
+    "subject"
+  ],
+  "external_documents": [],
+  "notes": [
+    {
+      "jsonmodel_type": "note_bioghist",
+      "subnotes": [
+        {
+          "jsonmodel_type": "note_text",
+          "content": "Martha Bradstreet (1780-1871) was the step-granddaughter of Major General John Bradstreet (1714-1774). She pursued legal claims to land inherited from him and other relatives in the Mohawk River Valley in New York State. ",
+          "publish": true
+        }
+      ],
+      "persistent_id": "4306a0b71d2113947ae35151d55d8d0f",
+      "publish": true
+    }
+  ],
+  "used_within_repositories": [],
+  "used_within_published_repositories": [],
+  "dates_of_existence": [
+    {
+      "create_time": "2023-06-02T21:37:37Z",
+      "system_mtime": "2024-11-20T16:37:43Z",
+      "user_mtime": "2024-11-20T16:33:27Z",
+      "lock_version": 0,
+      "date_type_structured": "single",
+      "date_label": "existence",
+      "jsonmodel_type": "structured_date_label",
+      "structured_date_single": {
+        "date_standardized": "1780",
+        "create_time": "2023-06-02T21:37:37Z",
+        "system_mtime": "2024-11-20T16:37:43Z",
+        "user_mtime": "2024-11-20T16:33:27Z",
+        "lock_version": 0,
+        "date_role": "begin",
+        "date_standardized_type": "standard",
+        "jsonmodel_type": "structured_date_single"
+      }
+    }
+  ],
+  "used_languages": [],
+  "metadata_rights_declarations": [],
+  "names": [
+    {
+      "lock_version": 0,
+      "primary_name": "Bradstreet",
+      "rest_of_name": "Martha",
+      "dates": "1780-",
+      "sort_name": "Bradstreet, Martha, 1780-",
+      "sort_name_auto_generate": true,
+      "created_by": "mf325",
+      "last_modified_by": "mf325",
+      "create_time": "2020-06-10T15:27:19Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "authorized": true,
+      "is_display_name": true,
+      "rules": "aacr",
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "parallel_names": []
+    },
+    {
+      "lock_version": 0,
+      "primary_name": "Bradstreet",
+      "rest_of_name": "Martha",
+      "dates": "b. 1780",
+      "sort_name": "Bradstreet, Martha, b. 1780",
+      "sort_name_auto_generate": true,
+      "created_by": "mf325",
+      "last_modified_by": "mf325",
+      "create_time": "2020-06-10T15:27:19Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "source": "naf",
+      "rules": "aacr",
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "authorized": false,
+      "is_display_name": false,
+      "parallel_names": []
+    },
+    {
+      "lock_version": 0,
+      "primary_name": "Codd",
+      "rest_of_name": "Martha Bradstreet",
+      "dates": "1780-",
+      "sort_name": "Codd, Martha Bradstreet, 1780-",
+      "sort_name_auto_generate": true,
+      "created_by": "mf325",
+      "last_modified_by": "mf325",
+      "create_time": "2020-06-10T15:27:19Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "source": "naf",
+      "rules": "aacr",
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "authorized": false,
+      "is_display_name": false,
+      "parallel_names": []
+    }
+  ],
+  "agent_genders": [],
+  "related_agents": [],
+  "uri": "/agents/people/83062",
+  "agent_type": "agent_person",
+  "is_linked_to_published_record": true,
+  "display_name": {
+    "lock_version": 0,
+    "primary_name": "Bradstreet",
+    "rest_of_name": "Martha",
+    "dates": "1780-",
+    "sort_name": "Bradstreet, Martha, 1780-",
+    "sort_name_auto_generate": true,
+    "created_by": "mf325",
+    "last_modified_by": "mf325",
+    "create_time": "2020-06-10T15:27:19Z",
+    "system_mtime": "2024-11-20T16:37:00Z",
+    "user_mtime": "2024-11-20T16:32:44Z",
+    "authorized": true,
+    "is_display_name": true,
+    "rules": "aacr",
+    "name_order": "inverted",
+    "jsonmodel_type": "name_person",
+    "use_dates": [],
+    "parallel_names": []
+  },
+  "title": "Bradstreet, Martha, 1780-"
+}

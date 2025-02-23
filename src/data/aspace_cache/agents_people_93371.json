@@ -1,0 +1,133 @@
+{
+  "lock_version": 23,
+  "publish": true,
+  "created_by": "ml749",
+  "last_modified_by": "amd243",
+  "create_time": "2018-09-28T14:31:28Z",
+  "system_mtime": "2025-01-06T18:53:08Z",
+  "user_mtime": "2024-11-20T16:30:23Z",
+  "is_slug_auto": false,
+  "jsonmodel_type": "agent_person",
+  "agent_contacts": [
+    {
+      "lock_version": 0,
+      "name": "Bentley Layton",
+      "address_1": "451 College Street",
+      "city": "New Haven ",
+      "region": "CT",
+      "post_code": "06511",
+      "email": "bentley.layton@yale.edu",
+      "created_by": "amd243",
+      "last_modified_by": "amd243",
+      "create_time": "2018-11-28T19:33:57Z",
+      "system_mtime": "2024-11-20T16:34:37Z",
+      "user_mtime": "2024-11-20T16:30:22Z",
+      "jsonmodel_type": "agent_contact",
+      "telephones": [
+        {
+          "number": "(203) 432-0844",
+          "created_by": "amd243",
+          "last_modified_by": "amd243",
+          "create_time": "2018-11-28T19:33:57Z",
+          "system_mtime": "2024-11-20T16:38:14Z",
+          "user_mtime": "2024-11-20T16:34:00Z",
+          "number_type": "business",
+          "jsonmodel_type": "telephone",
+          "uri": "/telephone/690"
+        }
+      ],
+      "notes": [
+        {
+          "jsonmodel_type": "note_contact_note",
+          "date_of_contact": "Before 2023-06-02",
+          "contact_notes": "Professor Emeritus of Near Eastern Languages and Civilizations and of Religious Studies",
+          "persistent_id": "e8d3b989d76d58e358b3add599c2908e",
+          "publish": false
+        }
+      ],
+      "is_representative": false
+    }
+  ],
+  "agent_record_controls": [],
+  "agent_alternate_sets": [],
+  "agent_conventions_declarations": [],
+  "agent_other_agency_codes": [],
+  "agent_maintenance_histories": [],
+  "agent_record_identifiers": [
+    {
+      "primary_identifier": true,
+      "record_identifier": "http://id.loc.gov/authorities/names/n79089916",
+      "created_by": "admin",
+      "last_modified_by": "admin",
+      "create_time": "2023-06-07T03:43:53Z",
+      "system_mtime": "2024-11-20T16:34:37Z",
+      "user_mtime": "2024-11-20T16:30:23Z",
+      "lock_version": 0,
+      "source": "naf",
+      "jsonmodel_type": "agent_record_identifier"
+    }
+  ],
+  "agent_identifiers": [],
+  "agent_sources": [],
+  "agent_places": [],
+  "agent_occupations": [],
+  "agent_functions": [],
+  "agent_topics": [],
+  "agent_resources": [],
+  "linked_agent_roles": [
+    "source"
+  ],
+  "external_documents": [],
+  "notes": [],
+  "used_within_repositories": [],
+  "used_within_published_repositories": [],
+  "dates_of_existence": [],
+  "used_languages": [],
+  "metadata_rights_declarations": [],
+  "names": [
+    {
+      "lock_version": 0,
+      "primary_name": "Layton",
+      "rest_of_name": "Bentley",
+      "sort_name": "Layton, Bentley",
+      "sort_name_auto_generate": true,
+      "created_by": "amd243",
+      "last_modified_by": "amd243",
+      "create_time": "2018-11-28T19:33:57Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "authorized": true,
+      "is_display_name": true,
+      "rules": "dacs",
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "parallel_names": []
+    }
+  ],
+  "agent_genders": [],
+  "related_agents": [],
+  "uri": "/agents/people/93371",
+  "agent_type": "agent_person",
+  "is_linked_to_published_record": true,
+  "display_name": {
+    "lock_version": 0,
+    "primary_name": "Layton",
+    "rest_of_name": "Bentley",
+    "sort_name": "Layton, Bentley",
+    "sort_name_auto_generate": true,
+    "created_by": "amd243",
+    "last_modified_by": "amd243",
+    "create_time": "2018-11-28T19:33:57Z",
+    "system_mtime": "2024-11-20T16:37:00Z",
+    "user_mtime": "2024-11-20T16:32:44Z",
+    "authorized": true,
+    "is_display_name": true,
+    "rules": "dacs",
+    "name_order": "inverted",
+    "jsonmodel_type": "name_person",
+    "use_dates": [],
+    "parallel_names": []
+  },
+  "title": "Layton, Bentley"
+}

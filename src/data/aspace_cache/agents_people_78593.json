@@ -1,0 +1,152 @@
+{
+  "lock_version": 65,
+  "publish": true,
+  "created_by": "lyrasis-dts",
+  "last_modified_by": "sl2624",
+  "create_time": "2018-07-21T04:43:25Z",
+  "system_mtime": "2025-01-06T18:54:26Z",
+  "user_mtime": "2024-11-20T16:30:23Z",
+  "is_slug_auto": false,
+  "jsonmodel_type": "agent_person",
+  "agent_contacts": [],
+  "agent_record_controls": [],
+  "agent_alternate_sets": [],
+  "agent_conventions_declarations": [],
+  "agent_other_agency_codes": [],
+  "agent_maintenance_histories": [],
+  "agent_record_identifiers": [
+    {
+      "primary_identifier": true,
+      "record_identifier": "http://id.loc.gov/authorities/names/n82151649",
+      "created_by": "admin",
+      "last_modified_by": "admin",
+      "create_time": "2023-06-07T03:43:53Z",
+      "system_mtime": "2024-11-20T16:34:37Z",
+      "user_mtime": "2024-11-20T16:30:23Z",
+      "lock_version": 0,
+      "source": "naf",
+      "jsonmodel_type": "agent_record_identifier"
+    }
+  ],
+  "agent_identifiers": [],
+  "agent_sources": [],
+  "agent_places": [],
+  "agent_occupations": [],
+  "agent_functions": [],
+  "agent_topics": [],
+  "agent_resources": [],
+  "linked_agent_roles": [
+    "creator",
+    "subject"
+  ],
+  "external_documents": [],
+  "notes": [
+    {
+      "jsonmodel_type": "note_bioghist",
+      "subnotes": [
+        {
+          "jsonmodel_type": "note_text",
+          "content": "Kathryn Cavarly Hulme was born in San Francisco on July 6, 1900, the daughter of Edwin Page and Julia Cavarly Hulme. After her graduation from high school in 1918, Hulme attended the University of California at Berkeley for three years. In 1922 she moved to New York City, where she studied journalism, wrote freelance articles, and worked as publicity director for the Ask Mr. Foster Travel Service. Hulme spent much time in Europe during the 1930's, and her early books reflect her interest in travel. Her first critical success, however, was her 1938 memoir We Lived As Children.\r\n\r\nHulme worked as an electric arc welder at the Kaiser ship yards during World War II. After the war, she spent six years in Germany as deputy director of United Nations Relief and Refugee Association field teams. The Wild Place, which won the 1952 Atlantic non-fiction prize, describes conditions at the refugee camp of Wildflecken. While there, Hulme met and befriended Marie-Louise Habets, a Belgian nurse and former nun. Her experiences were the basis for Hulme's best-seller, The Nun's Story (1956), which was both a critical and a popular success. Hulme followed this with Annie's Captain (1961), a fictionalized account of her grandparents' lives. Her final works were both non-fiction. Undiscovered Country (1966) is a memoir centered on her years as a pupil of Gurdjieff. Look a Lion in the Eye (1973) describes Hulme's 1971 safari in East Africa.\r\n\r\nFrom 1960 until her death, Hulme resided on the island of Kauai with Marie-Louise Habets. She hoped to write a novel with a Hawaiian background, but never accomplished this goal, perhaps because of increasing ill-health in her late years.\r\n\r\nKathryn Hulme married Leonard D. Geldert in New York City on August 25, 1925. The couple were divorced in 1928; there were no children. Hulme died in Lihue, Kauai, on August 25, 1981.",
+          "publish": true
+        }
+      ],
+      "persistent_id": "7cb5fd1da94d5e0d3797288e42a46698",
+      "publish": true
+    }
+  ],
+  "used_within_repositories": [],
+  "used_within_published_repositories": [],
+  "dates_of_existence": [
+    {
+      "create_time": "2023-06-02T21:37:51Z",
+      "system_mtime": "2024-11-20T16:37:43Z",
+      "user_mtime": "2024-11-20T16:33:27Z",
+      "lock_version": 0,
+      "date_type_structured": "range",
+      "date_label": "existence",
+      "jsonmodel_type": "structured_date_label",
+      "structured_date_range": {
+        "begin_date_standardized": "1900",
+        "end_date_standardized": "1981-08-25",
+        "create_time": "2023-06-02T21:37:51Z",
+        "system_mtime": "2024-11-20T16:37:43Z",
+        "user_mtime": "2024-11-20T16:33:27Z",
+        "lock_version": 0,
+        "begin_date_standardized_type": "standard",
+        "end_date_standardized_type": "standard",
+        "jsonmodel_type": "structured_date_range"
+      }
+    }
+  ],
+  "used_languages": [],
+  "metadata_rights_declarations": [],
+  "names": [
+    {
+      "lock_version": 0,
+      "primary_name": "Hulme",
+      "rest_of_name": "Kathryn",
+      "dates": "1900-1981",
+      "sort_name": "Hulme, Kathryn, 1900-1981",
+      "sort_name_auto_generate": true,
+      "created_by": "sl2624",
+      "last_modified_by": "sl2624",
+      "create_time": "2020-07-24T12:00:29Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "authorized": true,
+      "is_display_name": true,
+      "rules": "aacr",
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "parallel_names": []
+    },
+    {
+      "lock_version": 0,
+      "primary_name": "Hulme",
+      "rest_of_name": "Kathryn Cavarly",
+      "dates": "1900-",
+      "sort_name": "Hulme, Kathryn Cavarly, 1900-",
+      "sort_name_auto_generate": true,
+      "created_by": "sl2624",
+      "last_modified_by": "sl2624",
+      "create_time": "2020-07-24T12:00:29Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "source": "naf",
+      "rules": "aacr",
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "authorized": false,
+      "is_display_name": false,
+      "parallel_names": []
+    }
+  ],
+  "agent_genders": [],
+  "related_agents": [],
+  "uri": "/agents/people/78593",
+  "agent_type": "agent_person",
+  "is_linked_to_published_record": true,
+  "display_name": {
+    "lock_version": 0,
+    "primary_name": "Hulme",
+    "rest_of_name": "Kathryn",
+    "dates": "1900-1981",
+    "sort_name": "Hulme, Kathryn, 1900-1981",
+    "sort_name_auto_generate": true,
+    "created_by": "sl2624",
+    "last_modified_by": "sl2624",
+    "create_time": "2020-07-24T12:00:29Z",
+    "system_mtime": "2024-11-20T16:37:00Z",
+    "user_mtime": "2024-11-20T16:32:44Z",
+    "authorized": true,
+    "is_display_name": true,
+    "rules": "aacr",
+    "name_order": "inverted",
+    "jsonmodel_type": "name_person",
+    "use_dates": [],
+    "parallel_names": []
+  },
+  "title": "Hulme, Kathryn, 1900-1981"
+}

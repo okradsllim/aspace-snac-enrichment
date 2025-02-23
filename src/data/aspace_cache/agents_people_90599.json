@@ -1,0 +1,169 @@
+{
+  "lock_version": 19,
+  "publish": true,
+  "created_by": "lyrasis-dts",
+  "last_modified_by": "sl2624",
+  "create_time": "2018-07-21T05:10:18Z",
+  "system_mtime": "2025-01-06T18:25:23Z",
+  "user_mtime": "2024-11-20T16:30:23Z",
+  "is_slug_auto": false,
+  "jsonmodel_type": "agent_person",
+  "agent_contacts": [],
+  "agent_record_controls": [],
+  "agent_alternate_sets": [],
+  "agent_conventions_declarations": [],
+  "agent_other_agency_codes": [],
+  "agent_maintenance_histories": [],
+  "agent_record_identifiers": [
+    {
+      "primary_identifier": true,
+      "record_identifier": "http://id.loc.gov/authorities/names/n84125171",
+      "created_by": "admin",
+      "last_modified_by": "admin",
+      "create_time": "2023-06-07T03:43:53Z",
+      "system_mtime": "2024-11-20T16:34:37Z",
+      "user_mtime": "2024-11-20T16:30:23Z",
+      "lock_version": 0,
+      "source": "naf",
+      "jsonmodel_type": "agent_record_identifier"
+    }
+  ],
+  "agent_identifiers": [],
+  "agent_sources": [],
+  "agent_places": [],
+  "agent_occupations": [],
+  "agent_functions": [],
+  "agent_topics": [],
+  "agent_resources": [],
+  "linked_agent_roles": [
+    "creator",
+    "subject"
+  ],
+  "external_documents": [],
+  "notes": [
+    {
+      "jsonmodel_type": "note_bioghist",
+      "subnotes": [
+        {
+          "jsonmodel_type": "note_text",
+          "content": "David Alexander Cecil Low was born in 1891 in Dunedin, New Zealand, to David Brown and Caroline Flanagan Low. At an early age the Low children were removed from school because their parents felt that the educational system inhibited their natural intellectual curiosity and growth. Thereafter the children were educated by their parents at home and encouraged to develop their talents; David's was drawing. At the age of eleven he sold his first cartoon. This was the beginning of a career as one of the most famous political caricaturist of the twentieth century.\r\n\r\nAs an adolescent, Low sold drawings, cartoons, and caricatures of local individuals to various illustrated publications in New Zealand. At seventeen he landed his first full-time job as political cartoonist with the Christchurch Spectator, where he worked for three years. In 1911 Low left for Australia to work on the Bulletin, where for the next nine years he thoroughly learned his trade and produced The Billy Book, a compilation of caricatures of Billy Hughes, Australia's colorful prime minister. This was the first of dozens of similar works Low would produce throughout his life. Having gained recognition as one of the most talented young cartoonists in the Empire, Low accepted an invitation to work in London, arriving there in December 1919.\r\n\r\nHe began his London career with the Star. Soon after his arrival he married Madeline Kenning of Auckland, New Zealand, whom he had met on the trip. In 1927 Low began his twenty-three-year association with Lord Beaverbrook's Evening Standard. This union of an arch-liberal caricaturist with an arch-conservative newspaper proved highly successful. Low established a worldwide reputation as a champion of democracy and freedom against the forces of aggression and fascism. His caricatures of Mussolini and Hitler stirred the hearts of millions. During this same period Low created his most famous cartoon character, Colonel Blimp. He left the Tory Evening Standard in 1950 for the Labour Daily Herald and in 1953 joined the Manchester Guardian, with which he remained associated until his death in 1963.\r\n\r\nDuring his professional career Low developed friendships with many leading individuals in literature, the arts, journalism, and politics. Toward the end of his life he received numerous honors, including a knighthood in 1962. David Low died in London on September 19, 1963.",
+          "publish": true
+        }
+      ],
+      "persistent_id": "032354e244e88d18873ea1c3e940b35b",
+      "publish": true
+    }
+  ],
+  "used_within_repositories": [],
+  "used_within_published_repositories": [],
+  "dates_of_existence": [
+    {
+      "create_time": "2023-06-02T21:37:42Z",
+      "system_mtime": "2024-11-20T16:37:43Z",
+      "user_mtime": "2024-11-20T16:33:27Z",
+      "lock_version": 0,
+      "date_type_structured": "range",
+      "date_label": "existence",
+      "jsonmodel_type": "structured_date_label",
+      "structured_date_range": {
+        "begin_date_standardized": "1891-04-07",
+        "end_date_standardized": "1963-09-19",
+        "create_time": "2023-06-02T21:37:42Z",
+        "system_mtime": "2024-11-20T16:37:43Z",
+        "user_mtime": "2024-11-20T16:33:27Z",
+        "lock_version": 0,
+        "begin_date_standardized_type": "standard",
+        "end_date_standardized_type": "standard",
+        "jsonmodel_type": "structured_date_range"
+      }
+    }
+  ],
+  "used_languages": [],
+  "metadata_rights_declarations": [],
+  "names": [
+    {
+      "lock_version": 0,
+      "primary_name": "Low",
+      "rest_of_name": "David",
+      "dates": "1891-1963",
+      "sort_name": "Low, David, 1891-1963",
+      "sort_name_auto_generate": true,
+      "created_by": "sl2624",
+      "last_modified_by": "sl2624",
+      "create_time": "2020-06-29T15:47:23Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "authorized": true,
+      "is_display_name": true,
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "parallel_names": []
+    },
+    {
+      "lock_version": 0,
+      "primary_name": "Low",
+      "dates": "1891-1963",
+      "sort_name": "Low, 1891-1963",
+      "sort_name_auto_generate": true,
+      "created_by": "sl2624",
+      "last_modified_by": "sl2624",
+      "create_time": "2020-06-29T15:47:23Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "source": "naf",
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "authorized": false,
+      "is_display_name": false,
+      "parallel_names": []
+    },
+    {
+      "lock_version": 0,
+      "primary_name": "Low",
+      "title": "Sir",
+      "rest_of_name": "David",
+      "dates": "1891-1963",
+      "sort_name": "Low, David, Sir, 1891-1963",
+      "sort_name_auto_generate": true,
+      "created_by": "sl2624",
+      "last_modified_by": "sl2624",
+      "create_time": "2020-06-29T15:47:23Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "source": "naf",
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "authorized": false,
+      "is_display_name": false,
+      "parallel_names": []
+    }
+  ],
+  "agent_genders": [],
+  "related_agents": [],
+  "uri": "/agents/people/90599",
+  "agent_type": "agent_person",
+  "is_linked_to_published_record": true,
+  "display_name": {
+    "lock_version": 0,
+    "primary_name": "Low",
+    "rest_of_name": "David",
+    "dates": "1891-1963",
+    "sort_name": "Low, David, 1891-1963",
+    "sort_name_auto_generate": true,
+    "created_by": "sl2624",
+    "last_modified_by": "sl2624",
+    "create_time": "2020-06-29T15:47:23Z",
+    "system_mtime": "2024-11-20T16:37:00Z",
+    "user_mtime": "2024-11-20T16:32:44Z",
+    "authorized": true,
+    "is_display_name": true,
+    "name_order": "inverted",
+    "jsonmodel_type": "name_person",
+    "use_dates": [],
+    "parallel_names": []
+  },
+  "title": "Low, David, 1891-1963"
+}

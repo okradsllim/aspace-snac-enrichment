@@ -31,7 +31,7 @@ def clean_snac_xlsx():
         df = df.map(lambda x: x.strip() if isinstance(x, str) else x)
 
         # Save as cleaned CSV
-        df.to_csv(output_path, index=False)
+        df.to_csv(output_path, index=False, encoding="utf-8-sig")
         logging.info("Saved cleaned CSV to src/data/snac_uris_outfile_cleaned.csv")
 
     except FileNotFoundError:

@@ -1,0 +1,173 @@
+{
+  "lock_version": 508,
+  "publish": true,
+  "created_by": "lyrasis-dts",
+  "last_modified_by": "sl2624",
+  "create_time": "2018-07-21T05:11:14Z",
+  "system_mtime": "2025-02-06T17:53:01Z",
+  "user_mtime": "2024-11-20T16:30:23Z",
+  "is_slug_auto": false,
+  "jsonmodel_type": "agent_person",
+  "agent_contacts": [],
+  "agent_record_controls": [],
+  "agent_alternate_sets": [],
+  "agent_conventions_declarations": [],
+  "agent_other_agency_codes": [],
+  "agent_maintenance_histories": [],
+  "agent_record_identifiers": [
+    {
+      "primary_identifier": true,
+      "record_identifier": "http://id.loc.gov/authorities/names/n80015459",
+      "created_by": "admin",
+      "last_modified_by": "admin",
+      "create_time": "2023-06-07T03:43:53Z",
+      "system_mtime": "2024-11-20T16:34:37Z",
+      "user_mtime": "2024-11-20T16:30:23Z",
+      "lock_version": 0,
+      "source": "naf",
+      "jsonmodel_type": "agent_record_identifier"
+    }
+  ],
+  "agent_identifiers": [],
+  "agent_sources": [],
+  "agent_places": [],
+  "agent_occupations": [],
+  "agent_functions": [],
+  "agent_topics": [],
+  "agent_resources": [],
+  "linked_agent_roles": [
+    "creator",
+    "subject"
+  ],
+  "external_documents": [],
+  "notes": [
+    {
+      "jsonmodel_type": "note_bioghist",
+      "subnotes": [
+        {
+          "jsonmodel_type": "note_text",
+          "content": "Archibald MacLeish, poet, playwright, and government official, was born on May 7, 1892, in Glencoe, Illinois. He graduated from Yale in 1915, entered Harvard Law School, and married Ada Hitchcock in 1916. After the United States entered World War I, he enlisted as a private in the army, served in the artillery in France, and was discharged with the rank of captain. He graduated from Harvard Law School in 1919 and the next year joined the Boston law firm of Choate, Hall, and Stewart. In 1923 the MacLeish family moved to Paris, where they remained for five years. After returning to the United States, he travelled to Mexico to follow the route of Cortez's army in preparation for writing Conquistador.\r\n\r\nDuring the 1930s MacLeish was an editor of Fortune magazine. He served as Librarian of Congress, 1939-44, Assistant Secretary of State for Public and Cultural Affairs, 1944-45, and Boylston Professor of Rhetoric and Poetry at Harvard University, 1949-62. MacLeish's poetry and dramatic writings earned him Pulitizer Prizes in 1932, 1952, and 1959, the Bollingen Prize and the National Book Award for poetry in 1953, the Presidential Medal of Freedom in 1977, and the National Medal for Literature in 1978. Archibald MacLeish died in Boston on April 20, 1982.\r\n\r\nHis major works of poetry include Tower of Ivory (1917), The Pot of Earth (1925), The Hamlet of A. MacLeish (1928), New Found Land (1930), Conquistador (1932), America Was Promises (1939), Collected Poems, 1917-1952 (1952), and Songs for Eve (1954). MacLeish also wrote several plays, some of the most important being Panic (1935), The Fall of the City (1937), Air Raid (1938), J.B. (1958), Herakles (1967), and Scratch (1971). Counted among his works of prose are A Time to Speak (1941), The American Story (1944), Poetry and Experience, (1960), and A Continuing Journey (1968).",
+          "publish": true
+        }
+      ],
+      "persistent_id": "238b9ffa844e70ad1cd1b2ebbe6599c3",
+      "publish": true
+    }
+  ],
+  "used_within_repositories": [],
+  "used_within_published_repositories": [],
+  "dates_of_existence": [
+    {
+      "create_time": "2023-06-02T21:37:41Z",
+      "system_mtime": "2024-11-20T16:37:43Z",
+      "user_mtime": "2024-11-20T16:33:27Z",
+      "lock_version": 0,
+      "date_type_structured": "range",
+      "date_label": "existence",
+      "jsonmodel_type": "structured_date_label",
+      "structured_date_range": {
+        "begin_date_standardized": "1892",
+        "end_date_standardized": "1982",
+        "create_time": "2023-06-02T21:37:41Z",
+        "system_mtime": "2024-11-20T16:37:43Z",
+        "user_mtime": "2024-11-20T16:33:27Z",
+        "lock_version": 0,
+        "begin_date_standardized_type": "standard",
+        "end_date_standardized_type": "standard",
+        "jsonmodel_type": "structured_date_range"
+      }
+    }
+  ],
+  "used_languages": [],
+  "metadata_rights_declarations": [],
+  "names": [
+    {
+      "lock_version": 0,
+      "primary_name": "MacLeish",
+      "rest_of_name": "Archibald",
+      "dates": "1892-1982",
+      "sort_name": "MacLeish, Archibald, 1892-1982",
+      "sort_name_auto_generate": true,
+      "created_by": "sl2624",
+      "last_modified_by": "sl2624",
+      "create_time": "2020-06-23T19:55:03Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "authorized": true,
+      "is_display_name": true,
+      "rules": "aacr",
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "parallel_names": []
+    },
+    {
+      "lock_version": 0,
+      "primary_name": "Mac Leish",
+      "rest_of_name": "Archibald",
+      "dates": "1892-1982",
+      "sort_name": "Mac Leish, Archibald, 1892-1982",
+      "sort_name_auto_generate": true,
+      "created_by": "sl2624",
+      "last_modified_by": "sl2624",
+      "create_time": "2020-06-23T19:55:03Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "source": "naf",
+      "rules": "aacr",
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "authorized": false,
+      "is_display_name": false,
+      "parallel_names": []
+    },
+    {
+      "lock_version": 0,
+      "primary_name": "McLeish",
+      "rest_of_name": "Archibald",
+      "dates": "1892-1982",
+      "sort_name": "McLeish, Archibald, 1892-1982",
+      "sort_name_auto_generate": true,
+      "created_by": "sl2624",
+      "last_modified_by": "sl2624",
+      "create_time": "2020-06-23T19:55:03Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "source": "naf",
+      "rules": "aacr",
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "authorized": false,
+      "is_display_name": false,
+      "parallel_names": []
+    }
+  ],
+  "agent_genders": [],
+  "related_agents": [],
+  "uri": "/agents/people/90745",
+  "agent_type": "agent_person",
+  "is_linked_to_published_record": true,
+  "display_name": {
+    "lock_version": 0,
+    "primary_name": "MacLeish",
+    "rest_of_name": "Archibald",
+    "dates": "1892-1982",
+    "sort_name": "MacLeish, Archibald, 1892-1982",
+    "sort_name_auto_generate": true,
+    "created_by": "sl2624",
+    "last_modified_by": "sl2624",
+    "create_time": "2020-06-23T19:55:03Z",
+    "system_mtime": "2024-11-20T16:37:00Z",
+    "user_mtime": "2024-11-20T16:32:44Z",
+    "authorized": true,
+    "is_display_name": true,
+    "rules": "aacr",
+    "name_order": "inverted",
+    "jsonmodel_type": "name_person",
+    "use_dates": [],
+    "parallel_names": []
+  },
+  "title": "MacLeish, Archibald, 1892-1982"
+}

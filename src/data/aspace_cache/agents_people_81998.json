@@ -1,0 +1,170 @@
+{
+  "lock_version": 55,
+  "publish": true,
+  "created_by": "lyrasis-dts",
+  "last_modified_by": "sl2624",
+  "create_time": "2018-07-21T04:49:30Z",
+  "system_mtime": "2025-02-06T17:51:14Z",
+  "user_mtime": "2024-11-20T16:30:23Z",
+  "is_slug_auto": false,
+  "jsonmodel_type": "agent_person",
+  "agent_contacts": [],
+  "agent_record_controls": [],
+  "agent_alternate_sets": [],
+  "agent_conventions_declarations": [],
+  "agent_other_agency_codes": [],
+  "agent_maintenance_histories": [],
+  "agent_record_identifiers": [
+    {
+      "primary_identifier": true,
+      "record_identifier": "http://id.loc.gov/authorities/names/n83022666",
+      "created_by": "admin",
+      "last_modified_by": "admin",
+      "create_time": "2023-06-07T03:43:53Z",
+      "system_mtime": "2024-11-20T16:34:37Z",
+      "user_mtime": "2024-11-20T16:30:23Z",
+      "lock_version": 0,
+      "source": "naf",
+      "jsonmodel_type": "agent_record_identifier"
+    }
+  ],
+  "agent_identifiers": [],
+  "agent_sources": [],
+  "agent_places": [],
+  "agent_occupations": [],
+  "agent_functions": [],
+  "agent_topics": [],
+  "agent_resources": [],
+  "linked_agent_roles": [
+    "creator",
+    "source",
+    "subject"
+  ],
+  "external_documents": [],
+  "notes": [
+    {
+      "jsonmodel_type": "note_bioghist",
+      "persistent_id": "59aac2fc6f96fbca0d231069f0dcdabb",
+      "subnotes": [
+        {
+          "jsonmodel_type": "note_text",
+          "content": "John Jermain Slocum, Foreign Service officer, James Joyce bibliographer and rare book collector, was born in 1914 Lakewood, New Jersey in 1914. In 1936 he was graduated from Harvard College, where he met David Rockefeller and James Laughlin, and the Columbia University Graduate School of Journalism in 1938. He then became a press aide to New York City mayor LaGuardia on Rockefeller's recommendation, but resigned in 1941 to enlist in the Army, where he served in various public information posts, including a stint as spokesman for the forces conducting atomic bomb testing on the Marshall Islands in 1946.\r\n\r\nAfter the war, he joined the United States Information Agency and served with them until 1970, representing the agency in Germany and Egypt and traveling to Asia and South America as part of their inspection team.\r\n\r\nSlocum assembled what was widely considered the world's leading collection of James Joyce printed and manuscript material. The collection was acquired by Yale University in 1951. In 1953 Yale University Press published A Bibliography of James Joyce by Slocum and Herbert Cahoon. Stephen Hero, a new edition of the Joyce \"draft\" that became Portrait of the Artist as a Young Man, was published by Laughlin's New Directions press in 1963.\r\n\r\nSlocum was the founding president of the Friends of the Folger Shakespeare Library in 1974 and a leading member of the American Numismatic Society. He also served on a Presidential Cultural Advisory Committee; and participated in an effort to reorganize the Smithsonian Institution.\r\n\r\nJohn Jermain Slocum lived in Newport, Rhode Island, where he died on August 12, 1997. He was survived by his wife of many years, Eileen Gillespie Slocum, and their two daughters.",
+          "publish": true
+        }
+      ],
+      "publish": true
+    }
+  ],
+  "used_within_repositories": [],
+  "used_within_published_repositories": [],
+  "dates_of_existence": [
+    {
+      "create_time": "2023-06-02T21:37:49Z",
+      "system_mtime": "2024-11-20T16:37:43Z",
+      "user_mtime": "2024-11-20T16:33:27Z",
+      "lock_version": 0,
+      "date_type_structured": "range",
+      "date_label": "existence",
+      "jsonmodel_type": "structured_date_label",
+      "structured_date_range": {
+        "begin_date_standardized": "1914",
+        "end_date_standardized": "1997",
+        "create_time": "2023-06-02T21:37:49Z",
+        "system_mtime": "2024-11-20T16:37:43Z",
+        "user_mtime": "2024-11-20T16:33:27Z",
+        "lock_version": 0,
+        "begin_date_standardized_type": "standard",
+        "end_date_standardized_type": "standard",
+        "jsonmodel_type": "structured_date_range"
+      }
+    }
+  ],
+  "used_languages": [],
+  "metadata_rights_declarations": [],
+  "names": [
+    {
+      "lock_version": 0,
+      "primary_name": "Slocum",
+      "rest_of_name": "John J.",
+      "sort_name": "Slocum, John J.",
+      "sort_name_auto_generate": true,
+      "created_by": "sl2624",
+      "last_modified_by": "sl2624",
+      "create_time": "2020-07-20T19:22:55Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "authorized": true,
+      "is_display_name": true,
+      "rules": "aacr",
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "parallel_names": []
+    },
+    {
+      "lock_version": 0,
+      "primary_name": "S.",
+      "rest_of_name": "J. J.",
+      "fuller_form": "John J. Slocum",
+      "sort_name": "S., J. J. (John J. Slocum)",
+      "sort_name_auto_generate": true,
+      "created_by": "sl2624",
+      "last_modified_by": "sl2624",
+      "create_time": "2020-07-20T19:22:55Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "source": "naf",
+      "rules": "aacr",
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "authorized": false,
+      "is_display_name": false,
+      "parallel_names": []
+    },
+    {
+      "lock_version": 0,
+      "primary_name": "J. J. S.",
+      "fuller_form": "John J. Slocum",
+      "sort_name": "J. J. S. (John J. Slocum)",
+      "sort_name_auto_generate": true,
+      "created_by": "sl2624",
+      "last_modified_by": "sl2624",
+      "create_time": "2020-07-20T19:22:55Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "source": "naf",
+      "name_order": "direct",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "authorized": false,
+      "is_display_name": false,
+      "parallel_names": []
+    }
+  ],
+  "agent_genders": [],
+  "related_agents": [],
+  "uri": "/agents/people/81998",
+  "agent_type": "agent_person",
+  "is_linked_to_published_record": true,
+  "display_name": {
+    "lock_version": 0,
+    "primary_name": "Slocum",
+    "rest_of_name": "John J.",
+    "sort_name": "Slocum, John J.",
+    "sort_name_auto_generate": true,
+    "created_by": "sl2624",
+    "last_modified_by": "sl2624",
+    "create_time": "2020-07-20T19:22:55Z",
+    "system_mtime": "2024-11-20T16:37:00Z",
+    "user_mtime": "2024-11-20T16:32:44Z",
+    "authorized": true,
+    "is_display_name": true,
+    "rules": "aacr",
+    "name_order": "inverted",
+    "jsonmodel_type": "name_person",
+    "use_dates": [],
+    "parallel_names": []
+  },
+  "title": "Slocum, John J."
+}

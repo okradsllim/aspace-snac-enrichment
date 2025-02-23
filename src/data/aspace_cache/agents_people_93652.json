@@ -1,0 +1,131 @@
+{
+  "lock_version": 147,
+  "publish": true,
+  "created_by": "amd243",
+  "last_modified_by": "sl2624",
+  "create_time": "2018-11-13T20:31:26Z",
+  "system_mtime": "2025-01-06T18:52:01Z",
+  "user_mtime": "2024-11-20T16:30:23Z",
+  "is_slug_auto": false,
+  "jsonmodel_type": "agent_person",
+  "agent_contacts": [],
+  "agent_record_controls": [],
+  "agent_alternate_sets": [],
+  "agent_conventions_declarations": [],
+  "agent_other_agency_codes": [],
+  "agent_maintenance_histories": [],
+  "agent_record_identifiers": [
+    {
+      "primary_identifier": true,
+      "record_identifier": "http://id.loc.gov/authorities/names/n79054478",
+      "created_by": "admin",
+      "last_modified_by": "admin",
+      "create_time": "2023-06-07T03:43:53Z",
+      "system_mtime": "2024-11-20T16:34:37Z",
+      "user_mtime": "2024-11-20T16:30:23Z",
+      "lock_version": 0,
+      "source": "naf",
+      "jsonmodel_type": "agent_record_identifier"
+    }
+  ],
+  "agent_identifiers": [],
+  "agent_sources": [],
+  "agent_places": [],
+  "agent_occupations": [],
+  "agent_functions": [],
+  "agent_topics": [],
+  "agent_resources": [],
+  "linked_agent_roles": [
+    "creator",
+    "source",
+    "subject"
+  ],
+  "external_documents": [],
+  "notes": [
+    {
+      "jsonmodel_type": "note_bioghist",
+      "persistent_id": "395def31e345bb99d222f7bd8f0e3a3c",
+      "label": "Biographical / Historical",
+      "subnotes": [
+        {
+          "jsonmodel_type": "note_text",
+          "content": "James Purdy was born in Ohio on July 17, 1923, the third of five sons of William Purdy and Vera Covick Purdy. The Purdys divorced in 1926, and in the following years James moved frequently, living at various times with his mother, his father, and his grandmother. He eventually left home and went to Chicago, where he graduated from high school in 1940. In the following year, he attended classes at the University of Chicago, but was soon drafted into the Army. Upon his discharge, Purdy traveled to Mexico and studied at the University of Puebla.\r\n\r\nDuring the 1940s, Purdy was employed first as an English teacher at a school for boys in Havana, and later as an interpreter and translator in Latin America, France, and Spain. He joined the faculty of Lawrence College in Wisconsin in 1949, but left in 1953 in order to write full-time. Over the next three years, however, his short stories were consistently rejected by publishers and magazines.\r\n\r\nThe Chicago businessman and critic Osborn Andreas was impressed by Purdy's work, and in 1956 he subsidized the publication of about 1,000 copies of Don't Call Me by My Right Name. In the same year Purdy's friend Jorma Jules Sjoblom borrowed money to subsidize the printing of Purdy's novella 63: Dream Palace. Purdy sent copies of both these works to a number of authors and critics in England and America. Edith Sitwell admired them and was instrumental in persuading Victor Gollancz to publish an English edition of both works under the title 63: Dream Palace.\r\n\r\nPurdy received enthusiastic reviews from such literary figures as Angus Wilson and John Cowper Powys, and the attention the book received attracted American publishers. The same material, with two stories added, was brought out in the United States under the title Color of Darkness in 1957 by New Directions.\r\n\r\nPurdy received a National Institute of Arts and Letters grant and a Guggenheim fellowship in 1958. Malcolm was published in the following year and received much praise, including an enthusiastic review by Dorothy Parker. The novel has been translated into fifteen languages and was adapted for the stage by Edward Albee in 1966.\r\n\r\nPurdy settled in New York City in 1960. He received a Ford Foundation grant in 1961 and a second Guggenheim in 1962. Malcolm was followed in 1960 by The Nephew and in 1961 by Children Is All, a collection of stories and plays. His best-known play, \"Cracks,\" was produced off-Broadway in 1963. The satiric novel Cabot Wright Begins appeared in 1964, and the controversial Eustace Chisholm and the Works in 1967.\r\n\r\nIn the next two decades, Purdy published eleven more novels including I Am Elijah Thrush (1972); The House of the Solitary Maggot (1974); In a Shallow Grave (1976); Narrow Rooms (1978); Mourners Below (1981); and On Glory's Course (1984) which was nominated for the P.E.N.-Faulkner Award in 1985. Purdy has also authored several collections of short stories, poems, and plays. Several of the plays have been produced off-Broadway and in regional theaters, and Purdy poems have been set to music by Richard Hundley and Robert Helps. In 1982, Purdy visited Israel, Finland, and Germany as a lecturer for the United States Information Agency. His most recent publication is the collection Candles of Your Eyes (1986).",
+          "publish": true
+        }
+      ],
+      "publish": true
+    }
+  ],
+  "used_within_repositories": [],
+  "used_within_published_repositories": [],
+  "dates_of_existence": [
+    {
+      "create_time": "2023-06-02T21:38:59Z",
+      "system_mtime": "2024-11-20T16:37:43Z",
+      "user_mtime": "2024-11-20T16:33:27Z",
+      "lock_version": 0,
+      "date_type_structured": "range",
+      "date_label": "existence",
+      "jsonmodel_type": "structured_date_label",
+      "structured_date_range": {
+        "begin_date_standardized": "1914",
+        "end_date_standardized": "2009",
+        "create_time": "2023-06-02T21:38:59Z",
+        "system_mtime": "2024-11-20T16:37:43Z",
+        "user_mtime": "2024-11-20T16:33:27Z",
+        "lock_version": 0,
+        "begin_date_standardized_type": "standard",
+        "end_date_standardized_type": "standard",
+        "jsonmodel_type": "structured_date_range"
+      }
+    }
+  ],
+  "used_languages": [],
+  "metadata_rights_declarations": [],
+  "names": [
+    {
+      "lock_version": 0,
+      "primary_name": "Purdy",
+      "rest_of_name": "James",
+      "dates": "1914-2009",
+      "sort_name": "Purdy, James, 1914-2009",
+      "sort_name_auto_generate": true,
+      "created_by": "sl2624",
+      "last_modified_by": "sl2624",
+      "create_time": "2020-10-12T12:08:31Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "authorized": true,
+      "is_display_name": true,
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "parallel_names": []
+    }
+  ],
+  "agent_genders": [],
+  "related_agents": [],
+  "uri": "/agents/people/93652",
+  "agent_type": "agent_person",
+  "is_linked_to_published_record": true,
+  "display_name": {
+    "lock_version": 0,
+    "primary_name": "Purdy",
+    "rest_of_name": "James",
+    "dates": "1914-2009",
+    "sort_name": "Purdy, James, 1914-2009",
+    "sort_name_auto_generate": true,
+    "created_by": "sl2624",
+    "last_modified_by": "sl2624",
+    "create_time": "2020-10-12T12:08:31Z",
+    "system_mtime": "2024-11-20T16:37:00Z",
+    "user_mtime": "2024-11-20T16:32:44Z",
+    "authorized": true,
+    "is_display_name": true,
+    "name_order": "inverted",
+    "jsonmodel_type": "name_person",
+    "use_dates": [],
+    "parallel_names": []
+  },
+  "title": "Purdy, James, 1914-2009"
+}

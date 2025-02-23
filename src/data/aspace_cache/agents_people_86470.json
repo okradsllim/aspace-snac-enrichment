@@ -1,0 +1,131 @@
+{
+  "lock_version": 62,
+  "publish": true,
+  "created_by": "lyrasis-dts",
+  "last_modified_by": "sl2624",
+  "create_time": "2018-07-21T04:58:12Z",
+  "system_mtime": "2025-01-06T18:29:26Z",
+  "user_mtime": "2024-11-20T16:30:23Z",
+  "is_slug_auto": false,
+  "jsonmodel_type": "agent_person",
+  "agent_contacts": [],
+  "agent_record_controls": [],
+  "agent_alternate_sets": [],
+  "agent_conventions_declarations": [],
+  "agent_other_agency_codes": [],
+  "agent_maintenance_histories": [],
+  "agent_record_identifiers": [
+    {
+      "primary_identifier": true,
+      "record_identifier": "http://id.loc.gov/authorities/names/n50037311",
+      "created_by": "admin",
+      "last_modified_by": "admin",
+      "create_time": "2023-06-07T03:43:53Z",
+      "system_mtime": "2024-11-20T16:34:37Z",
+      "user_mtime": "2024-11-20T16:30:23Z",
+      "lock_version": 0,
+      "source": "naf",
+      "jsonmodel_type": "agent_record_identifier"
+    }
+  ],
+  "agent_identifiers": [],
+  "agent_sources": [],
+  "agent_places": [],
+  "agent_occupations": [],
+  "agent_functions": [],
+  "agent_topics": [],
+  "agent_resources": [],
+  "linked_agent_roles": [
+    "creator",
+    "subject"
+  ],
+  "external_documents": [],
+  "notes": [
+    {
+      "jsonmodel_type": "note_bioghist",
+      "subnotes": [
+        {
+          "jsonmodel_type": "note_text",
+          "content": "Robert Henri, American artist, teacher, leader of The Eight and the Ashcan School, was born in Cincinnati in 1865. Originally named Robert Henry Cozad, he later changed his name because of a family scandal (see note below).\r\n\r\nIn 1886, Robert Henri was accepted to the Pennsylvania Academy of Fine Arts in Philadelphia. There he studied under Thomas Anshutz, who had been a student of Thomas Eakins. In 1888 Henri left the Academy for Paris, where he studied at the Acad\u00e9mie Julian and at the Ecole des Beaux-Arts. Returning to the United States, he taught briefly at the School of Design for Women in Philadelphia, before leaving again for Europe, where he lived from 1895 to 1900.\r\n\r\nUpon his return, Henri taught at the New York School of Art. It was during this time that he became an influential voice in the American art world, both as an artist and as a teacher. He was elected to the National Academy of Design, the Association of American Painters and Sculptors, and the National Institute of Arts and Letters. In May 1907, he launched the first of many attacks against the art jury system when he withdrew two pictures from the National Academy of Design's annual show for what he termed \"an unfair attitude\" toward young artists.\r\n\r\nHenri was the leader of a group of American painters called The Eight, who exhibited together in 1908. This circle, which included Everett Shinn, John Sloan, Arthur B. Davies, Ernest Lawson, Maurice Prendergast, George Luks, and William J. Glackens, was later absorbed into the Ashcan Group (George Bellows, Edward Hopper, Glenn Coleman, Eugene Higgins, and Jerome Myers). Both groups sought to create an American style of painting, using new approaches to art and its subjects. They advocated the release of American art from what they considered its subservience to European aesthetics, encouraging artists instead to present unidealized depictions of American culture, and the life of the modern city. Henri urged his students to go into the streets to capture the spontaneity and character of the people they encountered, and gained fame himself as a portrait painter; his works include \"Young Woman in Black,\" \"Girl with a Fan,\" and \"Himself.\"\r\n\r\nFrom 1909 to 1912, Henri ran his own school, and from 1915 to 1928 he taught at the Art Students' League in New York. In 1923 he published The Art Spirit, a collection of essays and excerpts from letters, lectures and advice to students, embodying his philosophy of art. In the 1920s he experimented with the theories of color and composition promulgated by Hardesty Maratta, and with the \"Whirling Square\" theories of Jay Hambidge, who devised a mathematical system of proportion applied to the placement of the subject on the canvas.\r\n\r\nIn 1898 Henri married Linda Craige. She died in 1905, and in 1908 he remarried, this time a fellow artist, Marjorie Organ. Together, they spent several summers in Santa Fe, New Mexico, inspiring friends George Bellows, Leon Kroll, John Sloan, and Randall Davey to follow suit. The Henris also spent a number of summers in Ireland, where in 1924 they purchased a house on Achill Island, at the extreme western tip of Ireland. In 1928, Henri developed an inflamed sciatic nerve on his last trip back from Ireland, and during this illness it was discovered that he had inoperable cancer of the pelvic bone. He was not told about the cancer, and when he died in July 1929, it came as a surprise not only to the public at large, but to many of his friends.\r\n\r\nFor more information, see William Innes Homer's biography, written with the assistance of Violet Organ, Henri's sister-in-law: Robert Henri and His Circle (Ithaca: Cornell University Press, 1969). Family history note:\r\n\r\nRobert Henry Cozad was the son of John Jackson and Theresa Gatewood Cozad. John Jackson Cozad was a professional gambler turned real estate promoter who founded Cozaddale on the outskirts of Cincinnati in 1869, and the town of Cozad, Nebraska three years later. In 1882, tensions with local cattleman erupted into a fight between a drunken cattleman, named Alfred Pearson, and John Cozad. When Pearson attacked Cozad with a knife, Cozad drew his pistol and mortally wounded Pearson. Fearing for their lives, the Cozads sold their land and left town. Pearson died two months later, and although Cozad was eventually cleared of the murder charge, the family decided to move to New York and change their names to rid themselves of connection to the scandal. John Jackson and Theresa Gatewood Cozad changed their names to Richard H. and Theresa Lee. Robert's older brother John changed his name to Frank L. Southrn, and Robert Henry Cozad became Robert Earl Henri, changing his middle name to his surname, and changing the spelling to reflect his French ancestry. Robert later insisted that everyone pronounce his name Hen'rye, in the American manner. To conceal their identity, the Lees said that the two boys were adopted sons and foster brothers. A novel by Mari Sandoz, Son of the Gamblin' Man; the Youth of an Artist (New York: C.N. Potter, 1960), is based on the lives of John Jackson Cozad and Robert Henri.",
+          "publish": true
+        }
+      ],
+      "persistent_id": "d54e23b467a8b0e835374f9c5d59a541",
+      "publish": true
+    }
+  ],
+  "used_within_repositories": [],
+  "used_within_published_repositories": [],
+  "dates_of_existence": [],
+  "used_languages": [],
+  "metadata_rights_declarations": [],
+  "names": [
+    {
+      "lock_version": 0,
+      "primary_name": "Henri",
+      "rest_of_name": "Robert",
+      "dates": "1865-1929",
+      "sort_name": "Henri, Robert, 1865-1929",
+      "sort_name_auto_generate": true,
+      "created_by": "sl2624",
+      "last_modified_by": "sl2624",
+      "create_time": "2020-08-03T11:46:17Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "authorized": true,
+      "is_display_name": true,
+      "rules": "aacr",
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "parallel_names": []
+    },
+    {
+      "lock_version": 0,
+      "primary_name": "Cozad",
+      "rest_of_name": "Robert Henry",
+      "dates": "1865-1929",
+      "sort_name": "Cozad, Robert Henry, 1865-1929",
+      "sort_name_auto_generate": true,
+      "created_by": "sl2624",
+      "last_modified_by": "sl2624",
+      "create_time": "2020-08-03T11:46:17Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "source": "naf",
+      "rules": "aacr",
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "authorized": false,
+      "is_display_name": false,
+      "parallel_names": []
+    }
+  ],
+  "agent_genders": [],
+  "related_agents": [],
+  "uri": "/agents/people/86470",
+  "agent_type": "agent_person",
+  "is_linked_to_published_record": true,
+  "display_name": {
+    "lock_version": 0,
+    "primary_name": "Henri",
+    "rest_of_name": "Robert",
+    "dates": "1865-1929",
+    "sort_name": "Henri, Robert, 1865-1929",
+    "sort_name_auto_generate": true,
+    "created_by": "sl2624",
+    "last_modified_by": "sl2624",
+    "create_time": "2020-08-03T11:46:17Z",
+    "system_mtime": "2024-11-20T16:37:00Z",
+    "user_mtime": "2024-11-20T16:32:44Z",
+    "authorized": true,
+    "is_display_name": true,
+    "rules": "aacr",
+    "name_order": "inverted",
+    "jsonmodel_type": "name_person",
+    "use_dates": [],
+    "parallel_names": []
+  },
+  "title": "Henri, Robert, 1865-1929"
+}

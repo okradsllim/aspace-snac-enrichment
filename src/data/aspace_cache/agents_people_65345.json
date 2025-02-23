@@ -1,0 +1,110 @@
+{
+  "lock_version": 20,
+  "publish": true,
+  "created_by": "lyrasis-dts",
+  "last_modified_by": "sl2624",
+  "create_time": "2018-07-21T04:19:27Z",
+  "system_mtime": "2025-01-06T18:31:32Z",
+  "user_mtime": "2024-11-20T16:30:23Z",
+  "is_slug_auto": false,
+  "jsonmodel_type": "agent_person",
+  "agent_contacts": [],
+  "agent_record_controls": [],
+  "agent_alternate_sets": [],
+  "agent_conventions_declarations": [],
+  "agent_other_agency_codes": [],
+  "agent_maintenance_histories": [],
+  "agent_record_identifiers": [
+    {
+      "primary_identifier": true,
+      "record_identifier": "http://id.loc.gov/authorities/names/n86145774",
+      "created_by": "admin",
+      "last_modified_by": "admin",
+      "create_time": "2023-06-07T03:43:53Z",
+      "system_mtime": "2024-11-20T16:34:37Z",
+      "user_mtime": "2024-11-20T16:30:23Z",
+      "lock_version": 0,
+      "source": "naf",
+      "jsonmodel_type": "agent_record_identifier"
+    }
+  ],
+  "agent_identifiers": [],
+  "agent_sources": [],
+  "agent_places": [],
+  "agent_occupations": [],
+  "agent_functions": [],
+  "agent_topics": [],
+  "agent_resources": [],
+  "linked_agent_roles": [
+    "creator",
+    "subject"
+  ],
+  "external_documents": [],
+  "notes": [
+    {
+      "jsonmodel_type": "note_bioghist",
+      "persistent_id": "ce972e4807db18972289c697d41aa623",
+      "subnotes": [
+        {
+          "jsonmodel_type": "note_text",
+          "content": "George Henry Seeley (1880-1955) was a photographer. He was a lifetime resident of Stockbridge, Massachusetts and supervisor of the art instruction for local schools, as well as an amateur ornithologist. As a photographer, Seeley was a leading member of the Photo-Secession movement along with Alfred Stieglitz, Clarence White, and others. Related to this work, he wrote articles about photography and published his photographs in photographic journals, including Camera Work, as well as exhibiting his images around the world. Seeley frequently used his sisters, May Elizabeth Seeley (born 1878), Lilian R. Seeley (born 1884), and Laura S. Seeley (1888-1979), as models for his photographs. His photography emphasizes soft focuses and subtle tonality. Seeley is also known for his landscape photography of winters in New England and Cape Cod beachscapes.",
+          "publish": true
+        }
+      ],
+      "publish": true
+    }
+  ],
+  "used_within_repositories": [],
+  "used_within_published_repositories": [],
+  "dates_of_existence": [],
+  "used_languages": [],
+  "metadata_rights_declarations": [],
+  "names": [
+    {
+      "lock_version": 0,
+      "primary_name": "Seeley",
+      "rest_of_name": "George H.",
+      "dates": "1880-1955",
+      "sort_name": "Seeley, George H., 1880-1955",
+      "sort_name_auto_generate": true,
+      "created_by": "sl2624",
+      "last_modified_by": "sl2624",
+      "create_time": "2020-08-03T12:20:20Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "authorized": true,
+      "is_display_name": true,
+      "rules": "aacr",
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "parallel_names": []
+    }
+  ],
+  "agent_genders": [],
+  "related_agents": [],
+  "uri": "/agents/people/65345",
+  "agent_type": "agent_person",
+  "is_linked_to_published_record": true,
+  "display_name": {
+    "lock_version": 0,
+    "primary_name": "Seeley",
+    "rest_of_name": "George H.",
+    "dates": "1880-1955",
+    "sort_name": "Seeley, George H., 1880-1955",
+    "sort_name_auto_generate": true,
+    "created_by": "sl2624",
+    "last_modified_by": "sl2624",
+    "create_time": "2020-08-03T12:20:20Z",
+    "system_mtime": "2024-11-20T16:37:00Z",
+    "user_mtime": "2024-11-20T16:32:44Z",
+    "authorized": true,
+    "is_display_name": true,
+    "rules": "aacr",
+    "name_order": "inverted",
+    "jsonmodel_type": "name_person",
+    "use_dates": [],
+    "parallel_names": []
+  },
+  "title": "Seeley, George H., 1880-1955"
+}

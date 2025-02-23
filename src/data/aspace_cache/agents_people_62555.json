@@ -1,0 +1,132 @@
+{
+  "lock_version": 44,
+  "publish": true,
+  "created_by": "lyrasis-dts",
+  "last_modified_by": "sl2624",
+  "create_time": "2018-07-21T04:14:34Z",
+  "system_mtime": "2025-01-06T18:30:36Z",
+  "user_mtime": "2024-11-20T16:30:23Z",
+  "is_slug_auto": false,
+  "jsonmodel_type": "agent_person",
+  "agent_contacts": [],
+  "agent_record_controls": [],
+  "agent_alternate_sets": [],
+  "agent_conventions_declarations": [],
+  "agent_other_agency_codes": [],
+  "agent_maintenance_histories": [],
+  "agent_record_identifiers": [
+    {
+      "primary_identifier": true,
+      "record_identifier": "http://id.loc.gov/authorities/names/n90666599",
+      "created_by": "admin",
+      "last_modified_by": "admin",
+      "create_time": "2023-06-07T03:43:53Z",
+      "system_mtime": "2024-11-20T16:34:37Z",
+      "user_mtime": "2024-11-20T16:30:23Z",
+      "lock_version": 0,
+      "source": "naf",
+      "jsonmodel_type": "agent_record_identifier"
+    }
+  ],
+  "agent_identifiers": [],
+  "agent_sources": [],
+  "agent_places": [],
+  "agent_occupations": [],
+  "agent_functions": [],
+  "agent_topics": [],
+  "agent_resources": [],
+  "linked_agent_roles": [
+    "creator",
+    "source",
+    "subject"
+  ],
+  "external_documents": [],
+  "notes": [
+    {
+      "jsonmodel_type": "note_bioghist",
+      "persistent_id": "5c6767c60fa38fea114c36c3849302a7",
+      "subnotes": [
+        {
+          "jsonmodel_type": "note_text",
+          "content": "Elizabeth Shepley Sergeant, eldest daughter of Charles Spencer and Elizabeth Blake Shepley Sergeant, was born in Worcester, Massachusetts, on April 23, 1881. She attended Miss Winsor's School in Boston 1894-99 and was graduated from Bryn Mawr in 1903. Between 1903 and 1913 she made several extended visits to France, attending lectures at the Sorbonne and meeting a number of artists and authors. Her volunteer social work in Boston and New York inspired her first article, \"Toilers of the Tenements,\" published in 1910 by McClure's. The editor, Willa Cather, befriended and encouraged her. In 1914 Sergeant became one of the original contributors to The New Republic, specializing in French literature and culture. Her first book, French Perspectives, was published in 1916. She returned to Paris the following year as a war correspondent for The New Republic. While touring a battlefield in October 1918, Sergeant was severely injured by a land mine and hospitalized for several months. She recounted the experience in Shadow-Shapes: Journal of a Wounded Woman (1920).\r\n\r\nOn the advice of her doctor, Sergeant moved to New Mexico in 1920, where she came in contact with the Taos writers colony and the Indian rights movement. She worked with the American Indian Defense Association, both as a volunteer and on assignments for its executive secretary, John Collier. She published more than a dozen articles on New Mexico and the Pueblo Indians, mostly in The Nation and The New Republic. Sergeant returned to New York at times, particularly to work on a series of profiles of prominent Americans. Fourteen of these were collected in her 1927 book, Fire under the Andes, which included her first essay on Robert Frost. Her only novel, Short as any Dream, appeared in 1929.\r\n\r\nSergeant studied with Carl Jung and Toni Woolf in Zurich from 1929 to 1931. In the mid-1930s she was employed by John Collier, Commissioner of Indian Affairs, and reported on Pueblo social conditions and reactions to the Wheeler-Howard Act. She also joined Writer's Editions. Sergeant sold her New Mexico house soon after this, however, and returned to New York, eventually settling in Rockland County. In both the 1930s and 1940s, she continued to publish magazine articles, including profiles of authors and popular treatments of psychological topics. She also began work on her two full-length biographical studies. Willa Cather: A Memoir was published in 1953. Despite her ill health and failing eyesight, in 1960 she published the well-reviewed Robert Frost: The Trial by Experience. Sergeant had planned to follow this with an autobiography, but she did not live to complete it. She died in New York on January 26, 1965.",
+          "publish": true
+        }
+      ],
+      "publish": true
+    }
+  ],
+  "used_within_repositories": [],
+  "used_within_published_repositories": [],
+  "dates_of_existence": [
+    {
+      "create_time": "2023-06-02T21:37:51Z",
+      "system_mtime": "2024-11-20T16:37:43Z",
+      "user_mtime": "2024-11-20T16:33:27Z",
+      "lock_version": 0,
+      "date_type_structured": "range",
+      "date_label": "existence",
+      "jsonmodel_type": "structured_date_label",
+      "structured_date_range": {
+        "begin_date_standardized": "1881",
+        "end_date_standardized": "1965",
+        "create_time": "2023-06-02T21:37:51Z",
+        "system_mtime": "2024-11-20T16:37:43Z",
+        "user_mtime": "2024-11-20T16:33:27Z",
+        "lock_version": 0,
+        "begin_date_standardized_type": "standard",
+        "end_date_standardized_type": "standard",
+        "jsonmodel_type": "structured_date_range"
+      }
+    }
+  ],
+  "used_languages": [],
+  "metadata_rights_declarations": [],
+  "names": [
+    {
+      "lock_version": 0,
+      "primary_name": "Sergeant",
+      "rest_of_name": "Elizabeth Shepley",
+      "dates": "1881-1965",
+      "sort_name": "Sergeant, Elizabeth Shepley, 1881-1965",
+      "sort_name_auto_generate": true,
+      "created_by": "sl2624",
+      "last_modified_by": "sl2624",
+      "create_time": "2020-07-29T12:17:38Z",
+      "system_mtime": "2024-11-20T16:37:00Z",
+      "user_mtime": "2024-11-20T16:32:44Z",
+      "authorized": true,
+      "is_display_name": true,
+      "rules": "aacr",
+      "name_order": "inverted",
+      "jsonmodel_type": "name_person",
+      "use_dates": [],
+      "parallel_names": []
+    }
+  ],
+  "agent_genders": [],
+  "related_agents": [],
+  "uri": "/agents/people/62555",
+  "agent_type": "agent_person",
+  "is_linked_to_published_record": true,
+  "display_name": {
+    "lock_version": 0,
+    "primary_name": "Sergeant",
+    "rest_of_name": "Elizabeth Shepley",
+    "dates": "1881-1965",
+    "sort_name": "Sergeant, Elizabeth Shepley, 1881-1965",
+    "sort_name_auto_generate": true,
+    "created_by": "sl2624",
+    "last_modified_by": "sl2624",
+    "create_time": "2020-07-29T12:17:38Z",
+    "system_mtime": "2024-11-20T16:37:00Z",
+    "user_mtime": "2024-11-20T16:32:44Z",
+    "authorized": true,
+    "is_display_name": true,
+    "rules": "aacr",
+    "name_order": "inverted",
+    "jsonmodel_type": "name_person",
+    "use_dates": [],
+    "parallel_names": []
+  },
+  "title": "Sergeant, Elizabeth Shepley, 1881-1965"
+}
