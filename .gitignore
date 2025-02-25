@@ -22,7 +22,7 @@ src/data/*.csv
 src/data/*.xlsx
 
 # Notebooks and Documentation
-notebooks/
+# notebooks/
 
 # System Files
 pyvenv.cfg
