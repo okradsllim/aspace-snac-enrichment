@@ -13,9 +13,7 @@ venv/
 config.json
 .env
 
-# Logs and Cache
-logs/
-*.log
+# Cache
 src/data/aspace_cache/
 src/data/snac_cache/
 
@@ -29,3 +27,5 @@ notebooks/
 # System Files
 pyvenv.cfg
 setup_project.py
+src/data/aspace_cache/
+src/data/snac_cache/
