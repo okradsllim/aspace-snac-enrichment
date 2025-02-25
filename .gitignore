@@ -11,16 +11,20 @@ venv/
 
 # Credentials
 config.json
+.env
 
 # Logs and Cache
 logs/
 *.log
 src/data/aspace_cache/
+src/data/snac_cache/
 
-# Output and Temporary Files
+# Large or Derived Data
 src/data/*.csv
 src/data/*.xlsx
 
-# Build and System Files
-.env
+# Notebooks and Documentation
+notebooks/
+
+# System Files
 pyvenv.cfg
