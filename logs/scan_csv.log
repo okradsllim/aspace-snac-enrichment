@@ -1,5 +1,0 @@
-2025-02-20 04:09:06,354 [INFO] Loaded CSV with shape (18771, 4)
-2025-02-20 04:09:06,387 [INFO] Columns: ['uri', 'sort_name', 'authority_id', 'created_by']
-2025-02-20 04:09:06,387 [INFO] Unnamed Columns: None
-2025-02-20 04:22:56,720 [INFO] Loaded Excel file with shape (18771, 6)
-2025-02-20 04:22:56,720 [INFO] Columns: ['uri', 'sort_name', 'authority_id', 'created_by', 'snac_arks', 'additional_authorities']
