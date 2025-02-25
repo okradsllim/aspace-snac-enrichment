@@ -28,3 +28,4 @@ notebooks/
 
 # System Files
 pyvenv.cfg
+setup_project.py
