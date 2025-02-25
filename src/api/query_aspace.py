@@ -3,12 +3,13 @@
 #author = will nyarko
 #file name = query_aspace.py
 #description = script to retrieve ArchivesSpace agent records in batches, cache the JSON responses, and log any errors.
-#note = script only POSTs to authenticate and GETs to retrieve agent records. No updates (PUT/POST) on records are performed yet.
+#note = script only POSTs to authenticate and GETs to retrieve agent records. No updates (PUT/POST) are performed yet.
 
 #Updates: 
 
 # 02/23/2025:
-Refined to minimize terminal output as it runs. Better summary at the end with batch-level updates, separate logs for 404 vs other errors. (Note: update was not rerun. Just to template query_snac.py when ready)
+Refined to minimize terminal output as it runs. with batch-level updates, separate logs for 404 vs other errors,
+and a summary at the end. (Note: update was not rerun. Just to template query_snac.py when ready)
 
 """
 

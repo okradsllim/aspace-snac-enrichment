@@ -1,6 +1,6 @@
 # ArchivesSpace SNAC Enrichment
 
-A project to enrich ArchivesSpace agent records with SNAC identifiers and manage authority data.
+git commit
 
 ## Project Structure
 - `data/`: CSV and processed data files
